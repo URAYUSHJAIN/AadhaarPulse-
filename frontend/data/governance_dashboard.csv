@@ -1,0 +1,1098 @@
+state,district,total_auth_sum,is_anomaly,anomaly_severity,QDI,qdi_status,needs_audit,bio_ratio,demo_ratio,DLI,load_status,recommendation,load_ratio,surge_score,surge_level,priority_score,priority_level
+100000,100000,2.0,0,10.45,60.0,Critical,1,0.0,0.6667,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,18.04,Medium
+Andaman & Nicobar Islands,Andamans,2991.0,0,7.85,-13.46,Good,0,0.7346,0.265,21.85,Optimal,Optimal: Maintain current allocation,0.001,50.91,Elevated,11.65,Low
+Andaman & Nicobar Islands,Nicobars,6.0,0,7.63,31.43,Concern,1,0.2857,0.5714,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,9.43,Low
+Andaman & Nicobar Islands,South Andaman,730.0,0,7.59,3.09,Watch,0,0.5691,0.4295,12.64,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,32.14,Normal,7.93,Low
+Andaman and Nicobar Islands,Nicobar,2870.0,0,6.85,-12.1,Good,0,0.721,0.2786,27.98,Optimal,Optimal: Maintain current allocation,0.002,10.61,Normal,9.46,Low
+Andaman and Nicobar Islands,North And Middle Andaman,9600.0,0,10.58,-18.48,Good,0,0.7848,0.2151,31.37,Optimal,Optimal: Maintain current allocation,0.002,52.13,Elevated,14.62,Low
+Andaman and Nicobar Islands,South Andaman,14595.0,0,15.93,-15.73,Good,0,0.7573,0.2427,25.48,Optimal,Optimal: Maintain current allocation,0.001,52.89,Elevated,12.93,Low
+Andhra Pradesh,Adilabad,89373.0,0,5.92,-6.17,Good,0,0.6617,0.3383,27.3,Optimal,Optimal: Maintain current allocation,0.0,59.43,Elevated,14.13,Low
+Andhra Pradesh,Alluri Sitharama Raju,33980.0,0,1.99,-1.3,Good,0,0.613,0.3869,25.77,Optimal,Optimal: Maintain current allocation,0.0,37.12,Normal,11.44,Low
+Andhra Pradesh,Anakapalli,21457.0,0,4.77,24.18,Concern,1,0.3582,0.6417,20.58,Optimal,Optimal: Maintain current allocation,0.0,44.58,Normal,17.89,Medium
+Andhra Pradesh,Anantapur,178053.0,0,14.93,-0.1,Good,0,0.601,0.399,25.53,Optimal,Optimal: Maintain current allocation,0.0,73.35,Elevated,14.99,Low
+Andhra Pradesh,Ananthapur,123665.0,0,40.63,-14.91,Good,0,0.7491,0.2509,27.72,Optimal,Optimal: Maintain current allocation,0.0,43.56,Normal,12.67,Low
+Andhra Pradesh,Ananthapuramu,186539.0,1,47.05,-9.35,Good,0,0.6935,0.3065,35.31,Optimal,Optimal: Maintain current allocation,0.0,53.47,Elevated,45.94,High
+Andhra Pradesh,Annamayya,46289.0,0,33.18,33.73,Concern,1,0.2627,0.7373,42.93,Moderate,Monitor: Review weekly,0.0,38.78,Normal,26.88,Medium
+Andhra Pradesh,Bapatla,20742.0,0,14.09,26.35,Concern,1,0.3365,0.6635,21.24,Optimal,Optimal: Maintain current allocation,0.0,37.99,Normal,18.08,Medium
+Andhra Pradesh,Chittoor,474550.0,0,39.42,-3.45,Good,0,0.6345,0.3655,33.69,Optimal,Optimal: Maintain current allocation,0.0,93.38,Elevated,19.44,Medium
+Andhra Pradesh,Cuddapah,282148.0,0,23.77,-9.09,Good,0,0.6909,0.3091,31.05,Optimal,Optimal: Maintain current allocation,0.0,89.88,Elevated,18.3,Medium
+Andhra Pradesh,Dr. B. R. Ambedkar Konaseema,22896.0,0,8.53,23.13,Concern,1,0.3687,0.6313,19.56,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,24.01,Normal,15.21,Medium
+Andhra Pradesh,East Godavari,511332.0,1,50.55,-8.51,Good,0,0.6851,0.3149,30.75,Optimal,Optimal: Maintain current allocation,0.0,134.38,Critical,49.22,High
+Andhra Pradesh,Eluru,27248.0,0,11.98,26.2,Concern,1,0.338,0.662,31.41,Optimal,Optimal: Maintain current allocation,0.0,40.87,Normal,21.37,Medium
+Andhra Pradesh,Guntur,524934.0,0,38.04,-5.3,Good,0,0.653,0.347,31.56,Optimal,Optimal: Maintain current allocation,0.0,113.78,Critical,19.47,Medium
+Andhra Pradesh,Hyderabad,158728.0,0,13.63,-16.1,Good,0,0.761,0.239,27.42,Optimal,Optimal: Maintain current allocation,0.0,99.46,Critical,18.17,Medium
+Andhra Pradesh,K.V.Rangareddy,1346.0,0,14.69,-0.21,Good,0,0.6021,0.3972,9.87,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,46.72,Elevated,7.63,Low
+Andhra Pradesh,K.v. Rangareddy,580.0,0,22.79,-11.26,Good,0,0.7126,0.2857,6.93,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,47.46,Elevated,6.82,Low
+Andhra Pradesh,Kakinada,42595.0,0,7.22,27.91,Concern,1,0.3209,0.6791,25.08,Optimal,Optimal: Maintain current allocation,0.0,29.79,Normal,18.88,Medium
+Andhra Pradesh,Karim Nagar,3041.0,0,15.13,-0.98,Good,0,0.6098,0.3899,25.71,Optimal,Optimal: Maintain current allocation,0.0,50.94,Elevated,12.81,Low
+Andhra Pradesh,Karimnagar,29877.0,0,14.46,-3.94,Good,0,0.6394,0.3606,21.99,Optimal,Optimal: Maintain current allocation,0.0,41.33,Normal,10.73,Low
+Andhra Pradesh,Khammam,80327.0,0,6.92,1.98,Watch,0,0.5802,0.4198,25.44,Optimal,Optimal: Maintain current allocation,0.0,53.32,Elevated,13.56,Low
+Andhra Pradesh,Krishna,383378.0,0,33.3,-9.78,Good,0,0.6978,0.3022,30.78,Optimal,Optimal: Maintain current allocation,0.0,104.59,Critical,19.23,Medium
+Andhra Pradesh,Kurnool,607778.0,1,53.11,-10.05,Good,0,0.7005,0.2995,30.61,Optimal,Optimal: Maintain current allocation,0.001,129.2,Critical,49.18,High
+Andhra Pradesh,Mahabub Nagar,30480.0,0,17.29,4.33,Watch,0,0.5567,0.4432,20.91,Optimal,Optimal: Maintain current allocation,0.0,33.8,Normal,10.95,Low
+Andhra Pradesh,Mahabubnagar,201.0,0,12.86,0.59,Watch,0,0.5941,0.401,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.0,17.8,Normal,1.96,Low
+Andhra Pradesh,Mahbubnagar,26916.0,0,9.55,-1.65,Good,0,0.6165,0.3834,29.94,Optimal,Optimal: Maintain current allocation,0.0,35.24,Normal,12.51,Low
+Andhra Pradesh,Medak,39044.0,0,10.48,-5.64,Good,0,0.6564,0.3436,24.84,Optimal,Optimal: Maintain current allocation,0.0,34.51,Normal,10.9,Low
+Andhra Pradesh,N. T. R,54988.0,0,7.49,30.76,Concern,1,0.2924,0.7076,24.93,Optimal,Optimal: Maintain current allocation,0.0,39.71,Normal,20.68,Medium
+Andhra Pradesh,Nalgonda,68627.0,0,9.02,5.24,Watch,0,0.5476,0.4524,23.49,Optimal,Optimal: Maintain current allocation,0.0,48.08,Elevated,13.43,Low
+Andhra Pradesh,Nandyal,40893.0,0,16.68,27.9,Concern,1,0.321,0.679,28.53,Optimal,Optimal: Maintain current allocation,0.0,29.21,Normal,19.85,Medium
+Andhra Pradesh,Nellore,245544.0,0,19.3,-11.23,Good,0,0.7123,0.2877,30.45,Optimal,Optimal: Maintain current allocation,0.0,64.91,Elevated,15.63,Medium
+Andhra Pradesh,Nizamabad,18199.0,0,5.6,-8.4,Good,0,0.684,0.3159,29.67,Optimal,Optimal: Maintain current allocation,0.0,54.94,Elevated,14.4,Low
+Andhra Pradesh,Palnadu,38079.0,0,15.89,28.03,Concern,1,0.3197,0.6803,28.14,Optimal,Optimal: Maintain current allocation,0.0,58.43,Elevated,22.69,Medium
+Andhra Pradesh,Parvathipuram Manyam,21512.0,0,1.8,4.58,Watch,0,0.5542,0.4458,19.86,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,39.32,Normal,11.26,Low
+Andhra Pradesh,Prakasam,363595.0,0,26.85,-5.8,Good,0,0.658,0.342,24.66,Optimal,Optimal: Maintain current allocation,0.0,107.07,Critical,17.4,Medium
+Andhra Pradesh,Rangareddi,84371.0,0,7.99,-12.53,Good,0,0.7253,0.2747,29.82,Optimal,Optimal: Maintain current allocation,0.0,68.64,Elevated,15.81,Medium
+Andhra Pradesh,Sri Potti Sriramulu Nellore,33865.0,0,21.98,26.62,Concern,1,0.3338,0.6662,34.53,Optimal,Optimal: Maintain current allocation,0.0,31.6,Normal,21.5,Medium
+Andhra Pradesh,Sri Sathya Sai,34755.0,0,11.25,25.44,Concern,1,0.3456,0.6544,27.06,Optimal,Optimal: Maintain current allocation,0.0,57.76,Elevated,21.53,Medium
+Andhra Pradesh,Srikakulam,370874.0,0,21.2,-2.49,Good,0,0.6249,0.375,25.39,Optimal,Optimal: Maintain current allocation,0.001,85.27,Elevated,16.14,Medium
+Andhra Pradesh,Tirupati,46082.0,0,34.48,33.85,Concern,1,0.2615,0.7385,43.56,Moderate,Monitor: Review weekly,0.0,60.2,Elevated,29.24,Medium
+Andhra Pradesh,Visakhapatnam,523282.0,0,38.02,-9.03,Good,0,0.6903,0.3097,25.68,Optimal,Optimal: Maintain current allocation,0.0,115.38,Critical,17.7,Medium
+Andhra Pradesh,Vizianagaram,266509.0,0,17.78,-9.29,Good,0,0.6929,0.3071,27.36,Optimal,Optimal: Maintain current allocation,0.0,77.21,Elevated,15.93,Medium
+Andhra Pradesh,Warangal,95404.0,0,8.15,-2.11,Good,0,0.6211,0.3789,28.68,Optimal,Optimal: Maintain current allocation,0.0,52.86,Elevated,13.89,Low
+Andhra Pradesh,West Godavari,387685.0,0,34.34,-6.19,Good,0,0.6619,0.3381,27.3,Optimal,Optimal: Maintain current allocation,0.0,91.27,Elevated,17.32,Medium
+Andhra Pradesh,Y. S. R,39294.0,0,22.04,33.56,Concern,1,0.2644,0.7356,34.71,Optimal,Optimal: Maintain current allocation,0.0,57.13,Elevated,26.19,Medium
+Arunachal Pradesh,Anjaw,2182.0,0,10.84,-4.36,Good,0,0.6436,0.3559,26.47,Optimal,Optimal: Maintain current allocation,0.016,39.22,Normal,11.86,Low
+Arunachal Pradesh,Changlang,15397.0,0,10.63,-1.63,Good,0,0.6163,0.3836,40.02,Moderate,Monitor: Review weekly,0.003,55.23,Elevated,17.53,Medium
+Arunachal Pradesh,Dibang Valley,699.0,0,26.42,-16.71,Good,0,0.7671,0.2314,16.5,Under-utilized,Consider: Reallocate resources to high-load areas,0.003,28.85,Normal,7.84,Low
+Arunachal Pradesh,East Kameng,6266.0,0,21.35,-15.43,Good,0,0.7543,0.2456,29.83,Optimal,Optimal: Maintain current allocation,0.01,50.66,Elevated,14.02,Low
+Arunachal Pradesh,East Siang,6547.0,0,18.05,0.96,Watch,0,0.5904,0.4094,33.43,Optimal,Optimal: Maintain current allocation,0.013,19.7,Normal,12.29,Low
+Arunachal Pradesh,Kamle,484.0,0,8.02,28.45,Concern,1,0.3155,0.6825,9.09,Under-utilized,Consider: Reallocate resources to high-load areas,0.003,49.88,Elevated,16.25,Medium
+Arunachal Pradesh,Kra Daadi,1847.0,0,12.63,-11.05,Good,0,0.7105,0.289,28.02,Optimal,Optimal: Maintain current allocation,0.012,50.4,Elevated,13.45,Low
+Arunachal Pradesh,Kurung Kumey,3947.0,0,33.68,-30.5,Excellent,0,0.905,0.0947,32.12,Optimal,Optimal: Maintain current allocation,0.014,21.27,Normal,11.76,Low
+Arunachal Pradesh,Leparada,65.0,0,41.42,0.91,Watch,0,0.5909,0.3939,6.87,Under-utilized,Consider: Reallocate resources to high-load areas,0.003,29.05,Normal,5.24,Low
+Arunachal Pradesh,Lohit,6201.0,0,5.14,-8.78,Good,0,0.6878,0.312,34.32,Optimal,Optimal: Maintain current allocation,0.006,51.64,Elevated,15.46,Medium
+Arunachal Pradesh,Longding,4379.0,0,7.83,-3.86,Good,0,0.6386,0.3612,29.67,Optimal,Optimal: Maintain current allocation,0.003,50.59,Elevated,13.96,Low
+Arunachal Pradesh,Lower Dibang Valley,3791.0,0,17.68,-7.8,Good,0,0.678,0.3217,27.47,Optimal,Optimal: Maintain current allocation,0.032,25.21,Normal,10.76,Low
+Arunachal Pradesh,Lower Siang,808.0,0,22.61,3.63,Watch,0,0.5637,0.4351,16.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,39.96,Normal,9.91,Low
+Arunachal Pradesh,Lower Subansiri,4419.0,0,6.62,-4.86,Good,0,0.6486,0.3511,27.8,Optimal,Optimal: Maintain current allocation,0.008,50.32,Elevated,13.37,Low
+Arunachal Pradesh,Namsai,8651.0,0,13.29,-14.33,Good,0,0.7433,0.2566,30.74,Optimal,Optimal: Maintain current allocation,0.008,52.08,Elevated,14.43,Low
+Arunachal Pradesh,Pakke Kessang,170.0,0,9.2,13.22,Watch,0,0.4678,0.5263,6.84,Under-utilized,Consider: Reallocate resources to high-load areas,0.003,27.2,Normal,8.74,Low
+Arunachal Pradesh,Papum Pare,15713.0,0,5.1,-7.42,Good,0,0.6742,0.3257,27.65,Optimal,Optimal: Maintain current allocation,0.002,52.7,Elevated,13.57,Low
+Arunachal Pradesh,Shi-yomi,839.0,0,10.49,-9.76,Good,0,0.6976,0.3012,15.19,Under-utilized,Consider: Reallocate resources to high-load areas,0.004,30.39,Normal,7.6,Low
+Arunachal Pradesh,Siang,2210.0,0,14.94,-3.27,Good,0,0.6327,0.3668,19.44,Under-utilized,Consider: Reallocate resources to high-load areas,0.006,50.47,Elevated,10.88,Low
+Arunachal Pradesh,Tawang,3689.0,0,31.91,-13.2,Good,0,0.732,0.2678,26.33,Optimal,Optimal: Maintain current allocation,0.005,50.64,Elevated,12.96,Low
+Arunachal Pradesh,Tirap,3158.0,0,15.23,-6.86,Good,0,0.6686,0.3311,19.09,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,45.78,Normal,10.3,Low
+Arunachal Pradesh,Upper Siang,3317.0,0,12.39,0.6,Watch,0,0.594,0.4057,39.71,Optimal,Optimal: Maintain current allocation,0.005,52.2,Elevated,17.31,Medium
+Arunachal Pradesh,Upper Subansiri,6555.0,0,21.46,-15.2,Good,0,0.752,0.2479,26.33,Optimal,Optimal: Maintain current allocation,0.035,50.6,Elevated,12.96,Low
+Arunachal Pradesh,West Kameng,8712.0,0,9.5,-17.61,Good,0,0.7761,0.2238,30.5,Optimal,Optimal: Maintain current allocation,0.002,52.19,Elevated,14.37,Low
+Arunachal Pradesh,West Siang,9254.0,0,10.85,0.53,Watch,0,0.5947,0.4052,35.47,Optimal,Optimal: Maintain current allocation,0.004,51.65,Elevated,15.96,Medium
+Assam,Bajali,876.0,0,9.17,57.26,Critical,1,0.0274,0.9715,15.57,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,50.1,Elevated,26.86,Medium
+Assam,Baksa,38127.0,0,2.19,6.56,Watch,0,0.5344,0.4656,29.68,Optimal,Optimal: Maintain current allocation,0.001,48.1,Elevated,15.68,Medium
+Assam,Barpeta,170514.0,0,10.67,-3.83,Good,0,0.6383,0.3617,28.14,Optimal,Optimal: Maintain current allocation,0.003,69.27,Elevated,15.37,Medium
+Assam,Biswanath,22348.0,0,2.23,11.0,Watch,0,0.49,0.5099,25.9,Optimal,Optimal: Maintain current allocation,0.001,41.12,Normal,15.18,Medium
+Assam,Bongaigaon,84991.0,0,8.26,7.18,Watch,0,0.5282,0.4718,34.54,Optimal,Optimal: Maintain current allocation,0.004,48.66,Elevated,17.38,Medium
+Assam,Cachar,135613.0,0,9.17,4.61,Watch,0,0.5539,0.4461,28.53,Optimal,Optimal: Maintain current allocation,0.0,55.62,Elevated,15.5,Medium
+Assam,Charaideo,19688.0,0,5.74,12.77,Watch,0,0.4723,0.5277,26.39,Optimal,Optimal: Maintain current allocation,0.002,34.75,Normal,15.22,Medium
+Assam,Chirang,44565.0,0,6.59,-8.45,Good,0,0.6845,0.3155,30.66,Optimal,Optimal: Maintain current allocation,0.003,55.24,Elevated,14.72,Low
+Assam,Darrang,59411.0,0,2.08,10.21,Watch,0,0.4979,0.5021,29.79,Optimal,Optimal: Maintain current allocation,0.003,53.02,Elevated,17.3,Medium
+Assam,Dhemaji,47248.0,0,0.87,9.65,Watch,0,0.5035,0.4964,32.09,Optimal,Optimal: Maintain current allocation,0.002,42.06,Normal,16.73,Medium
+Assam,Dhubri,153260.0,0,7.56,15.18,Watch,0,0.4482,0.5518,28.63,Optimal,Optimal: Maintain current allocation,0.004,74.05,Elevated,20.55,Medium
+Assam,Dibrugarh,56894.0,0,1.31,8.71,Watch,0,0.5129,0.4871,25.66,Optimal,Optimal: Maintain current allocation,0.001,32.02,Normal,13.51,Low
+Assam,Dima Hasao,306.0,0,7.53,51.86,Critical,1,0.0814,0.9153,12.3,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,49.85,Elevated,24.23,Medium
+Assam,Goalpara,75299.0,0,6.14,16.38,Watch,0,0.4362,0.5637,34.97,Optimal,Optimal: Maintain current allocation,0.005,69.94,Elevated,22.4,Medium
+Assam,Golaghat,52067.0,0,1.46,16.09,Watch,0,0.4391,0.5609,35.74,Optimal,Optimal: Maintain current allocation,0.001,43.9,Normal,19.94,Medium
+Assam,Hailakandi,46529.0,0,3.64,8.3,Watch,0,0.517,0.483,26.6,Optimal,Optimal: Maintain current allocation,0.002,39.21,Normal,14.39,Low
+Assam,Hojai,60482.0,0,6.08,4.23,Watch,0,0.5577,0.4423,26.92,Optimal,Optimal: Maintain current allocation,0.007,47.4,Elevated,14.08,Low
+Assam,Jorhat,39577.0,0,3.19,12.53,Watch,0,0.4747,0.5253,25.83,Optimal,Optimal: Maintain current allocation,0.0,28.43,Normal,14.35,Low
+Assam,Kamrup,96152.0,0,8.04,8.95,Watch,0,0.5105,0.4895,38.4,Optimal,Optimal: Maintain current allocation,0.0,53.14,Elevated,19.52,Medium
+Assam,Kamrup Metro,58222.0,0,3.24,7.63,Watch,0,0.5237,0.4763,24.51,Optimal,Optimal: Maintain current allocation,0.0,53.42,Elevated,14.98,Low
+Assam,Karbi Anglong,77959.0,0,4.64,1.49,Watch,0,0.5851,0.4148,41.2,Moderate,Monitor: Review weekly,0.001,53.86,Elevated,18.19,Medium
+Assam,Karimganj,85886.0,0,11.28,10.88,Watch,0,0.4912,0.5088,27.68,Optimal,Optimal: Maintain current allocation,0.002,53.8,Elevated,16.95,Medium
+Assam,Kokrajhar,56244.0,0,1.61,1.85,Watch,0,0.5815,0.4185,29.06,Optimal,Optimal: Maintain current allocation,0.002,42.05,Normal,13.48,Low
+Assam,Lakhimpur,71784.0,0,2.23,11.57,Watch,0,0.4843,0.5157,31.89,Optimal,Optimal: Maintain current allocation,0.003,60.81,Elevated,19.12,Medium
+Assam,Majuli,7116.0,0,4.24,8.85,Watch,0,0.5115,0.4884,24.18,Optimal,Optimal: Maintain current allocation,0.003,51.79,Elevated,15.09,Medium
+Assam,Marigaon,84430.0,0,5.99,13.88,Watch,0,0.4612,0.5388,28.78,Optimal,Optimal: Maintain current allocation,0.004,65.73,Elevated,19.37,Medium
+Assam,Nagaon,238713.0,0,11.25,2.58,Watch,0,0.5742,0.4258,49.76,Moderate,Monitor: Review weekly,0.002,109.92,Critical,25.7,Medium
+Assam,Nalbari,46491.0,0,6.77,7.1,Watch,0,0.529,0.471,36.64,Optimal,Optimal: Maintain current allocation,0.001,41.1,Normal,17.23,Medium
+Assam,North Cachar Hills,8232.0,0,8.0,5.28,Watch,0,0.5472,0.4527,22.19,Optimal,Optimal: Maintain current allocation,0.002,33.91,Normal,11.63,Low
+Assam,Sibsagar,26902.0,0,4.26,11.47,Watch,0,0.4853,0.5147,28.56,Optimal,Optimal: Maintain current allocation,0.0,44.8,Normal,16.49,Medium
+Assam,Sonitpur,80573.0,0,3.8,16.77,Watch,0,0.4323,0.5676,28.39,Optimal,Optimal: Maintain current allocation,0.001,52.56,Elevated,18.8,Medium
+Assam,South Salmara Mankachar,27339.0,0,23.16,39.14,Concern,1,0.2086,0.7914,26.09,Optimal,Optimal: Maintain current allocation,0.017,57.95,Elevated,25.36,Medium
+Assam,Sribhumi,5616.0,0,15.33,52.24,Critical,1,0.0776,0.9222,20.43,Optimal,Optimal: Maintain current allocation,0.0,53.0,Elevated,27.1,Medium
+Assam,Tamulpur District,1374.0,0,12.0,53.45,Critical,1,0.0655,0.9338,15.52,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,42.81,Normal,24.97,Medium
+Assam,Tinsukia,58927.0,0,3.62,23.01,Concern,1,0.3699,0.6301,25.6,Optimal,Optimal: Maintain current allocation,0.001,50.05,Elevated,19.59,Medium
+Assam,Udalguri,46722.0,0,1.81,4.37,Watch,0,0.5563,0.4437,29.41,Optimal,Optimal: Maintain current allocation,0.001,55.25,Elevated,15.66,Medium
+Assam,West Karbi Anglong,5661.0,0,5.09,-14.06,Good,0,0.7406,0.2593,48.77,Moderate,Monitor: Review weekly,0.002,51.51,Elevated,19.78,Medium
+BALANAGAR,IDPL COLONY,2.0,0,10.37,60.0,Critical,1,0.0,0.6667,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,18.04,Medium
+Bihar,Araria,335061.0,0,31.8,8.26,Watch,0,0.5174,0.4826,35.65,Optimal,Optimal: Maintain current allocation,0.007,108.59,Critical,23.17,Medium
+Bihar,Arwal,62970.0,0,5.18,6.07,Watch,0,0.5393,0.4607,27.48,Optimal,Optimal: Maintain current allocation,0.003,40.74,Normal,14.14,Low
+Bihar,Aurangabad,219923.0,0,9.37,10.54,Watch,0,0.4946,0.5054,27.65,Optimal,Optimal: Maintain current allocation,0.002,73.1,Elevated,18.77,Medium
+Bihar,Aurangabad(BH),35.0,0,6.48,29.44,Concern,1,0.3056,0.6667,5.43,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,11.12,Normal,11.57,Low
+Bihar,Aurangabad(bh),952.0,0,9.94,32.51,Concern,1,0.2749,0.724,16.5,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,19.92,Normal,16.7,Medium
+Bihar,Banka,216047.0,0,9.39,7.45,Watch,0,0.5255,0.4745,35.18,Optimal,Optimal: Maintain current allocation,0.002,67.92,Elevated,19.58,Medium
+Bihar,Begusarai,302635.0,0,12.43,5.76,Watch,0,0.5424,0.4576,34.05,Optimal,Optimal: Maintain current allocation,0.003,97.23,Critical,21.67,Medium
+Bihar,Bhabua,169.0,0,7.1,40.0,Concern,1,0.2,0.7941,7.2,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,19.19,Normal,16.08,Medium
+Bihar,Bhagalpur,338514.0,0,12.75,8.08,Watch,0,0.5192,0.4808,30.0,Optimal,Optimal: Maintain current allocation,0.003,79.97,Elevated,19.42,Medium
+Bihar,Bhojpur,262642.0,0,13.4,16.64,Watch,0,0.4336,0.5664,25.06,Optimal,Optimal: Maintain current allocation,0.001,77.43,Elevated,20.25,Medium
+Bihar,Buxar,142222.0,0,6.46,13.88,Watch,0,0.4612,0.5388,21.77,Optimal,Optimal: Maintain current allocation,0.002,53.97,Elevated,16.09,Medium
+Bihar,Darbhanga,392617.0,0,15.74,1.05,Watch,0,0.5895,0.4105,26.51,Optimal,Optimal: Maintain current allocation,0.002,96.28,Critical,17.9,Medium
+Bihar,East Champaran,498494.0,0,31.29,12.28,Watch,0,0.4772,0.5228,25.42,Optimal,Optimal: Maintain current allocation,0.004,126.17,Critical,21.31,Medium
+Bihar,Gaya,418703.0,0,22.76,8.65,Watch,0,0.5135,0.4865,31.92,Optimal,Optimal: Maintain current allocation,0.003,118.14,Critical,22.17,Medium
+Bihar,Gopalganj,226576.0,0,11.88,9.18,Watch,0,0.5082,0.4918,25.31,Optimal,Optimal: Maintain current allocation,0.005,74.52,Elevated,17.8,Medium
+Bihar,Jamui,164980.0,0,14.35,2.93,Watch,0,0.5707,0.4293,26.11,Optimal,Optimal: Maintain current allocation,0.01,98.18,Critical,18.53,Medium
+Bihar,Jehanabad,92373.0,0,3.67,13.24,Watch,0,0.4676,0.5324,28.1,Optimal,Optimal: Maintain current allocation,0.002,47.06,Elevated,17.11,Medium
+Bihar,Kaimur (Bhabua),157047.0,0,12.66,5.06,Watch,0,0.5494,0.4506,24.59,Optimal,Optimal: Maintain current allocation,0.008,61.87,Elevated,15.08,Medium
+Bihar,Katihar,437117.0,0,36.3,3.99,Watch,0,0.5601,0.4399,26.29,Optimal,Optimal: Maintain current allocation,0.007,117.65,Critical,19.08,Medium
+Bihar,Khagaria,167699.0,0,12.08,7.44,Watch,0,0.5256,0.4744,29.79,Optimal,Optimal: Maintain current allocation,0.009,103.15,Critical,21.17,Medium
+Bihar,Kishanganj,319945.0,1,71.94,8.06,Watch,0,0.5194,0.4806,34.64,Optimal,Optimal: Maintain current allocation,0.032,118.86,Critical,52.81,Critical
+Bihar,Lakhisarai,107719.0,0,12.04,7.69,Watch,0,0.5231,0.4769,37.32,Optimal,Optimal: Maintain current allocation,0.009,54.31,Elevated,18.93,Medium
+Bihar,Madhepura,227409.0,0,11.19,2.19,Watch,0,0.5781,0.4219,30.68,Optimal,Optimal: Maintain current allocation,0.005,96.57,Critical,19.52,Medium
+Bihar,Madhubani,457988.0,0,20.29,1.65,Watch,0,0.5835,0.4165,25.55,Optimal,Optimal: Maintain current allocation,0.002,128.98,Critical,18.16,Medium
+Bihar,Monghyr,392.0,0,8.71,33.03,Concern,1,0.2697,0.7277,11.32,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,18.09,Normal,15.11,Medium
+Bihar,Munger,116664.0,0,9.49,10.27,Watch,0,0.4973,0.5026,26.11,Optimal,Optimal: Maintain current allocation,0.007,60.7,Elevated,16.98,Medium
+Bihar,Muzaffarpur,450654.0,0,19.67,8.2,Watch,0,0.518,0.482,29.21,Optimal,Optimal: Maintain current allocation,0.002,135.08,Critical,21.22,Medium
+Bihar,Nalanda,292421.0,0,15.58,15.66,Watch,0,0.4434,0.5566,34.23,Optimal,Optimal: Maintain current allocation,0.003,113.28,Critical,24.97,Medium
+Bihar,Nawada,187897.0,0,8.43,8.57,Watch,0,0.5143,0.4857,25.71,Optimal,Optimal: Maintain current allocation,0.003,74.05,Elevated,17.69,Medium
+Bihar,Pashchim Champaran,1569.0,0,9.86,34.46,Concern,1,0.2554,0.7439,18.42,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,46.12,Normal,20.48,Medium
+Bihar,Patna,482755.0,0,29.0,12.49,Watch,0,0.4751,0.5249,32.74,Optimal,Optimal: Maintain current allocation,0.001,110.15,Critical,23.57,Medium
+Bihar,Purba Champaran,1228.0,0,13.04,36.73,Concern,1,0.2327,0.7665,11.79,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,37.29,Normal,18.28,Medium
+Bihar,Purnea,8483.0,0,4.17,-4.93,Good,0,0.6493,0.3505,29.32,Optimal,Optimal: Maintain current allocation,0.001,31.41,Normal,11.94,Low
+Bihar,Purnia,398795.0,0,23.69,-2.57,Good,0,0.6257,0.3743,34.66,Optimal,Optimal: Maintain current allocation,0.004,100.43,Critical,20.4,Medium
+Bihar,Rohtas,248502.0,0,11.19,9.59,Watch,0,0.5041,0.4959,25.62,Optimal,Optimal: Maintain current allocation,0.003,88.08,Elevated,19.37,Medium
+Bihar,Saharsa,222174.0,0,16.33,-1.49,Good,0,0.6149,0.3851,26.79,Optimal,Optimal: Maintain current allocation,0.006,87.52,Elevated,16.79,Medium
+Bihar,Samastipur,434631.0,0,21.73,8.6,Watch,0,0.514,0.486,25.59,Optimal,Optimal: Maintain current allocation,0.003,114.63,Critical,20.26,Medium
+Bihar,Samstipur,658.0,0,11.41,28.44,Concern,1,0.3156,0.6829,9.42,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,22.39,Normal,13.6,Low
+Bihar,Saran,346383.0,0,15.2,11.14,Watch,0,0.4886,0.5114,27.64,Optimal,Optimal: Maintain current allocation,0.001,99.31,Critical,21.56,Medium
+Bihar,Sheikhpura,72877.0,0,10.72,-0.11,Good,0,0.6011,0.3988,38.19,Optimal,Optimal: Maintain current allocation,0.009,58.78,Elevated,17.34,Medium
+Bihar,Sheikpura,332.0,0,9.44,15.56,Watch,0,0.4444,0.5526,13.93,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,17.28,Normal,10.58,Low
+Bihar,Sheohar,68895.0,0,18.51,7.36,Watch,0,0.5264,0.4736,38.84,Optimal,Optimal: Maintain current allocation,0.014,43.37,Normal,18.2,Medium
+Bihar,Sitamarhi,382656.0,0,25.17,5.83,Watch,0,0.5417,0.4583,25.56,Optimal,Optimal: Maintain current allocation,0.006,109.2,Critical,19.42,Medium
+Bihar,Siwan,270217.0,0,10.69,7.31,Watch,0,0.5269,0.4731,28.1,Optimal,Optimal: Maintain current allocation,0.002,96.82,Critical,20.3,Medium
+Bihar,Supaul,239054.0,0,11.52,6.21,Watch,0,0.5379,0.4621,26.41,Optimal,Optimal: Maintain current allocation,0.004,83.91,Elevated,18.18,Medium
+Bihar,Vaishali,353089.0,0,14.04,5.96,Watch,0,0.5404,0.4596,28.1,Optimal,Optimal: Maintain current allocation,0.002,90.19,Elevated,19.24,Medium
+Bihar,West Champaran,433305.0,1,52.48,16.15,Watch,0,0.4385,0.5615,25.15,Optimal,Optimal: Maintain current allocation,0.013,135.29,Critical,52.39,Critical
+Chandigarh,Chandigarh,186251.0,0,22.8,5.4,Watch,0,0.546,0.454,34.46,Optimal,Optimal: Maintain current allocation,0.002,41.0,Normal,16.06,Medium
+Chandigarh,Mohali,11.0,0,6.75,10.0,Watch,0,0.5,0.4167,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,2.41,Normal,3.28,Low
+Chandigarh,Rupnagar,34.0,0,4.84,20.0,Watch,0,0.4,0.5714,8.65,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,6.38,Normal,9.23,Low
+Chhatisgarh,Raipur,9.0,0,7.34,10.0,Watch,0,0.5,0.4,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,3.04,Low
+Chhattisgarh,Balod,164137.0,0,16.84,-2.86,Good,0,0.6286,0.3714,31.14,Optimal,Optimal: Maintain current allocation,0.006,96.56,Critical,19.0,Medium
+Chhattisgarh,Baloda Bazar,284703.0,0,28.22,2.02,Watch,0,0.5798,0.4202,32.36,Optimal,Optimal: Maintain current allocation,0.005,129.01,Critical,20.31,Medium
+Chhattisgarh,Balrampur,124229.0,0,36.28,9.61,Watch,0,0.5039,0.4961,23.32,Optimal,Optimal: Maintain current allocation,0.022,84.87,Elevated,18.37,Medium
+Chhattisgarh,Bastar,196471.0,0,21.73,1.84,Watch,0,0.5816,0.4184,33.46,Optimal,Optimal: Maintain current allocation,0.007,108.77,Critical,20.59,Medium
+Chhattisgarh,Bemetara,196460.0,0,39.58,-9.05,Good,0,0.6905,0.3095,36.75,Optimal,Optimal: Maintain current allocation,0.021,119.51,Critical,21.02,Medium
+Chhattisgarh,Bijapur,46195.0,0,10.23,-10.88,Good,0,0.7088,0.2912,33.82,Optimal,Optimal: Maintain current allocation,0.013,63.69,Elevated,16.52,Medium
+Chhattisgarh,Bilaspur,394673.0,0,29.32,0.24,Watch,0,0.5976,0.4024,33.87,Optimal,Optimal: Maintain current allocation,0.006,145.18,Critical,20.23,Medium
+Chhattisgarh,Dakshin Bastar Dantewada,36443.0,0,13.53,-23.13,Excellent,0,0.8313,0.1687,32.58,Optimal,Optimal: Maintain current allocation,0.006,64.34,Elevated,16.21,Medium
+Chhattisgarh,Dantewada,23144.0,0,32.99,-29.13,Excellent,0,0.8913,0.1087,30.84,Optimal,Optimal: Maintain current allocation,0.006,54.95,Elevated,14.75,Low
+Chhattisgarh,Dhamtari,151532.0,0,16.01,-9.63,Good,0,0.6963,0.3036,44.99,Moderate,Monitor: Review weekly,0.008,95.82,Critical,23.08,Medium
+Chhattisgarh,Durg,292619.0,0,19.44,-12.8,Good,0,0.728,0.272,41.4,Moderate,Monitor: Review weekly,0.003,122.12,Critical,22.42,Medium
+Chhattisgarh,Gariyaband,87242.0,0,3.43,-6.88,Good,0,0.6688,0.3312,45.44,Moderate,Monitor: Review weekly,0.002,80.91,Elevated,21.72,Medium
+Chhattisgarh,Gaurela-pendra-marwahi,6002.0,0,8.3,20.29,Concern,1,0.3971,0.6027,26.31,Optimal,Optimal: Maintain current allocation,0.009,43.83,Normal,18.36,Medium
+Chhattisgarh,Janjgir - Champa,467.0,0,8.49,9.15,Watch,0,0.5085,0.4893,21.64,Optimal,Optimal: Maintain current allocation,0.001,49.93,Elevated,14.23,Low
+Chhattisgarh,Janjgir Champa,430.0,0,7.2,14.99,Watch,0,0.4501,0.5476,16.08,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,41.31,Normal,13.45,Low
+Chhattisgarh,Janjgir-champa,332958.0,0,26.41,-4.69,Good,0,0.6469,0.3531,25.97,Optimal,Optimal: Maintain current allocation,0.008,126.8,Critical,17.79,Medium
+Chhattisgarh,Jashpur,162484.0,0,11.02,5.02,Watch,0,0.5498,0.4502,27.47,Optimal,Optimal: Maintain current allocation,0.008,73.5,Elevated,17.1,Medium
+Chhattisgarh,Kabeerdham,69132.0,0,29.44,-0.06,Good,0,0.6006,0.3994,36.99,Optimal,Optimal: Maintain current allocation,0.045,74.15,Elevated,18.51,Medium
+Chhattisgarh,Kanker,91931.0,0,8.35,-7.07,Good,0,0.6707,0.3293,24.53,Optimal,Optimal: Maintain current allocation,0.008,83.03,Elevated,15.66,Medium
+Chhattisgarh,Kawardha,146498.0,1,68.44,7.54,Watch,0,0.5246,0.4754,42.05,Moderate,Monitor: Review weekly,0.071,103.91,Critical,54.88,Critical
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,7287.0,0,18.29,45.15,Critical,1,0.1485,0.8514,21.18,Optimal,Optimal: Maintain current allocation,0.006,52.15,Elevated,25.11,Medium
+Chhattisgarh,Kondagaon,133740.0,1,72.71,8.21,Watch,0,0.5179,0.4821,40.54,Moderate,Monitor: Review weekly,0.019,90.09,Elevated,53.63,Critical
+Chhattisgarh,Korba,214623.0,0,20.82,-0.24,Good,0,0.6024,0.3976,33.47,Optimal,Optimal: Maintain current allocation,0.005,74.01,Elevated,17.44,Medium
+Chhattisgarh,Koriya,101356.0,0,13.35,-7.62,Good,0,0.6762,0.3238,40.43,Moderate,Monitor: Review weekly,0.005,78.73,Elevated,20.0,Medium
+Chhattisgarh,Mahasamund,261644.0,1,92.66,12.46,Watch,0,0.4754,0.5246,29.99,Optimal,Optimal: Maintain current allocation,0.038,98.48,Critical,52.58,Critical
+Chhattisgarh,ManendragarhChirmiriBharatpur,312.0,1,61.88,-39.68,Excellent,0,0.9968,0.0,0.0,Optimal,,,1.71,Normal,30.17,High
+Chhattisgarh,Manendragarh–Chirmiri–Bharatpur,5476.0,0,12.98,54.1,Critical,1,0.059,0.9408,38.6,Optimal,Optimal: Maintain current allocation,0.002,45.3,Normal,32.34,High
+Chhattisgarh,Mohalla-Manpur-Ambagarh Chowki,254.0,0,8.58,32.55,Concern,1,0.2745,0.7216,9.1,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,28.36,Normal,15.33,Medium
+Chhattisgarh,Mohla-Manpur-Ambagarh Chouki,25223.0,0,23.72,41.03,Critical,1,0.1897,0.8103,25.17,Optimal,Optimal: Maintain current allocation,0.024,57.8,Elevated,25.64,Medium
+Chhattisgarh,Mungeli,176524.0,0,41.87,2.09,Watch,0,0.5791,0.4209,39.36,Optimal,Optimal: Maintain current allocation,0.027,160.21,Critical,22.44,Medium
+Chhattisgarh,Narayanpur,46293.0,1,64.41,-2.52,Good,0,0.6252,0.3748,36.43,Optimal,Optimal: Maintain current allocation,0.106,61.95,Elevated,47.12,High
+Chhattisgarh,Raigarh,293516.0,0,35.54,-10.3,Good,0,0.703,0.297,26.81,Optimal,Optimal: Maintain current allocation,0.011,114.74,Critical,18.04,Medium
+Chhattisgarh,Raipur,384993.0,0,22.87,-4.71,Good,0,0.6471,0.3529,45.72,Moderate,Monitor: Review weekly,0.003,149.32,Critical,23.72,Medium
+Chhattisgarh,Rajnandgaon,337690.0,1,56.0,4.8,Watch,0,0.552,0.448,25.03,Optimal,Optimal: Maintain current allocation,0.016,116.19,Critical,48.95,High
+Chhattisgarh,Sakti,14457.0,0,11.26,30.29,Concern,1,0.2971,0.7029,24.15,Optimal,Optimal: Maintain current allocation,0.003,50.83,Elevated,21.42,Medium
+Chhattisgarh,Sarangarh-Bilaigarh,9741.0,0,16.95,46.88,Critical,1,0.1312,0.8687,30.69,Optimal,Optimal: Maintain current allocation,0.006,54.72,Elevated,28.74,Medium
+Chhattisgarh,Sukma,46433.0,0,19.23,-12.11,Good,0,0.7211,0.2789,27.86,Optimal,Optimal: Maintain current allocation,0.041,67.43,Elevated,15.1,Medium
+Chhattisgarh,Surajpur,126851.0,0,15.82,-5.14,Good,0,0.6514,0.3486,30.73,Optimal,Optimal: Maintain current allocation,0.013,97.78,Critical,19.0,Medium
+Chhattisgarh,Surguja,227345.0,0,35.25,12.15,Watch,0,0.4785,0.5214,42.73,Moderate,Monitor: Review weekly,0.016,111.2,Critical,26.46,Medium
+Chhattisgarh,Uttar Bastar Kanker,47977.0,0,2.37,-10.3,Good,0,0.703,0.297,31.68,Optimal,Optimal: Maintain current allocation,0.003,58.94,Elevated,15.4,Medium
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,874.0,0,7.99,-11.31,Good,0,0.7131,0.2857,18.95,Under-utilized,Consider: Reallocate resources to high-load areas,0.005,50.16,Elevated,10.7,Low
+Dadra and Nagar Haveli,Dadra and Nagar Haveli,37556.0,0,28.77,-23.71,Excellent,0,0.8371,0.1629,40.89,Moderate,Monitor: Review weekly,0.015,54.82,Elevated,17.75,Medium
+Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,3804.0,0,5.15,6.57,Watch,0,0.5343,0.4654,31.39,Optimal,Optimal: Maintain current allocation,0.004,50.95,Elevated,16.48,Medium
+Dadra and Nagar Haveli and Daman and Diu,Daman,2316.0,0,7.44,33.28,Concern,1,0.2672,0.7324,24.95,Optimal,Optimal: Maintain current allocation,0.005,50.33,Elevated,22.5,Medium
+Dadra and Nagar Haveli and Daman and Diu,Diu,399.0,0,8.6,51.25,Critical,1,0.0875,0.91,9.13,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,49.74,Elevated,23.09,Medium
+Daman & Diu,Daman,1885.0,0,10.67,-19.16,Good,0,0.7916,0.2078,17.34,Under-utilized,Consider: Reallocate resources to high-load areas,0.006,50.11,Elevated,10.21,Low
+Daman & Diu,Diu,1119.0,0,10.31,-15.18,Good,0,0.7518,0.2473,20.54,Optimal,Optimal: Maintain current allocation,0.002,45.69,Normal,10.73,Low
+Daman and Diu,Daman,5568.0,0,15.95,-19.64,Good,0,0.7964,0.2034,28.03,Optimal,Optimal: Maintain current allocation,0.007,51.32,Elevated,13.54,Low
+Daman and Diu,Diu,3360.0,0,36.07,-26.46,Excellent,0,0.8646,0.1351,21.96,Optimal,Optimal: Maintain current allocation,0.003,32.83,Normal,9.87,Low
+Darbhanga,Near University Thana,2.0,0,10.37,60.0,Critical,1,0.0,0.6667,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,18.04,Medium
+Delhi,Central Delhi,117329.0,0,23.83,2.44,Watch,0,0.5756,0.4244,29.72,Optimal,Optimal: Maintain current allocation,0.008,62.32,Elevated,15.88,Medium
+Delhi,East Delhi,367025.0,1,83.54,11.38,Watch,0,0.4862,0.5138,30.06,Optimal,Optimal: Maintain current allocation,0.018,70.56,Elevated,49.49,High
+Delhi,Najafgarh,1119.0,0,18.14,-21.43,Excellent,0,0.8143,0.1848,17.12,Under-utilized,Consider: Reallocate resources to high-load areas,0.011,38.44,Normal,8.98,Low
+Delhi,New Delhi,9791.0,0,5.65,2.47,Watch,0,0.5753,0.4246,27.27,Optimal,Optimal: Maintain current allocation,0.006,51.63,Elevated,14.08,Low
+Delhi,North Delhi,174484.0,1,85.63,10.4,Watch,0,0.496,0.504,33.22,Optimal,Optimal: Maintain current allocation,0.064,76.65,Elevated,50.75,Critical
+Delhi,North East,61201.0,1,59.93,-20.26,Excellent,0,0.8026,0.1974,22.74,Optimal,Optimal: Maintain current allocation,0.054,41.78,Normal,41.0,High
+Delhi,North East Delhi,339282.0,1,100.0,2.21,Watch,0,0.5779,0.4221,40.74,Moderate,Monitor: Review weekly,0.09,104.58,Critical,52.88,Critical
+Delhi,North West Delhi,745322.0,1,98.1,2.8,Watch,0,0.572,0.428,36.43,Optimal,Optimal: Maintain current allocation,0.013,117.07,Critical,51.77,Critical
+Delhi,Shahdara,38779.0,0,27.61,34.33,Concern,1,0.2567,0.7433,24.8,Optimal,Optimal: Maintain current allocation,0.011,37.49,Normal,21.49,Medium
+Delhi,South Delhi,509552.0,1,82.21,2.68,Watch,0,0.5732,0.4268,33.67,Optimal,Optimal: Maintain current allocation,0.007,88.01,Elevated,49.71,High
+Delhi,South East Delhi,1785.0,0,14.62,25.51,Concern,1,0.3449,0.6545,15.9,Under-utilized,Consider: Reallocate resources to high-load areas,0.036,50.47,Elevated,17.47,Medium
+Delhi,South West Delhi,359277.0,0,38.9,7.98,Watch,0,0.5202,0.4798,37.35,Optimal,Optimal: Maintain current allocation,0.003,67.82,Elevated,20.38,Medium
+Delhi,West Delhi,463205.0,1,97.49,10.95,Watch,0,0.4905,0.5095,41.94,Moderate,Monitor: Review weekly,0.021,89.34,Elevated,54.8,Critical
+Goa,Bardez,72.0,0,4.76,3.84,Watch,0,0.5616,0.4247,6.15,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,16.59,Normal,4.66,Low
+Goa,Bicholim,4.0,0,10.89,60.0,Critical,1,0.0,0.8,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,18.04,Medium
+Goa,North Goa,61425.0,0,4.28,-8.16,Good,0,0.6816,0.3184,33.24,Optimal,Optimal: Maintain current allocation,0.0,38.79,Normal,13.85,Low
+Goa,South Goa,49898.0,0,2.39,-6.06,Good,0,0.6606,0.3394,33.09,Optimal,Optimal: Maintain current allocation,0.0,38.09,Normal,13.74,Low
+Goa,Tiswadi,6.0,0,9.18,31.43,Concern,1,0.2857,0.5714,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,9.47,Low
+Gujarat,Ahmadabad,25352.0,0,16.87,-7.99,Good,0,0.6799,0.3201,24.15,Optimal,Optimal: Maintain current allocation,0.0,49.84,Elevated,12.23,Low
+Gujarat,Ahmedabad,742686.0,1,46.97,-2.79,Good,0,0.6279,0.3721,30.1,Optimal,Optimal: Maintain current allocation,0.001,146.57,Critical,49.03,High
+Gujarat,Amreli,103833.0,0,2.34,-12.23,Good,0,0.7223,0.2777,32.23,Optimal,Optimal: Maintain current allocation,0.001,47.65,Elevated,14.43,Low
+Gujarat,Anand,163992.0,0,9.45,-15.31,Good,0,0.7531,0.2469,35.31,Optimal,Optimal: Maintain current allocation,0.0,58.52,Elevated,16.44,Medium
+Gujarat,Arvalli,40635.0,0,17.57,-19.1,Good,0,0.791,0.209,33.37,Optimal,Optimal: Maintain current allocation,0.001,65.49,Elevated,16.56,Medium
+Gujarat,Banas Kantha,1114.0,0,6.68,3.41,Watch,0,0.5659,0.4332,21.69,Optimal,Optimal: Maintain current allocation,0.0,29.23,Normal,10.45,Low
+Gujarat,Banaskantha,248738.0,0,9.95,-8.7,Good,0,0.687,0.313,32.89,Optimal,Optimal: Maintain current allocation,0.004,95.52,Critical,19.42,Medium
+Gujarat,Bharuch,141061.0,0,11.86,-3.49,Good,0,0.6349,0.3651,45.43,Moderate,Monitor: Review weekly,0.001,53.39,Elevated,18.97,Medium
+Gujarat,Bhavnagar,211933.0,0,9.77,-11.83,Good,0,0.7183,0.2817,33.94,Optimal,Optimal: Maintain current allocation,0.001,68.02,Elevated,16.98,Medium
+Gujarat,Botad,25784.0,0,11.15,-9.75,Good,0,0.6975,0.3025,39.25,Optimal,Optimal: Maintain current allocation,0.001,54.96,Elevated,17.27,Medium
+Gujarat,Chhotaudepur,46889.0,0,9.58,-18.65,Good,0,0.7865,0.2135,29.86,Optimal,Optimal: Maintain current allocation,0.001,62.1,Elevated,15.17,Medium
+Gujarat,Dahod,167717.0,0,18.47,-17.93,Good,0,0.7793,0.2207,23.93,Optimal,Optimal: Maintain current allocation,0.005,78.08,Elevated,14.99,Low
+Gujarat,Devbhumi Dwarka,34191.0,0,24.74,-20.13,Excellent,0,0.8013,0.1986,30.94,Optimal,Optimal: Maintain current allocation,0.001,60.21,Elevated,15.3,Medium
+Gujarat,Dohad,22351.0,0,10.07,-15.52,Good,0,0.7552,0.2447,32.8,Optimal,Optimal: Maintain current allocation,0.001,54.91,Elevated,15.33,Medium
+Gujarat,Gandhinagar,156345.0,0,27.33,2.13,Watch,0,0.5787,0.4213,37.66,Optimal,Optimal: Maintain current allocation,0.001,53.23,Elevated,17.26,Medium
+Gujarat,Gir Somnath,52790.0,0,15.33,-16.04,Good,0,0.7604,0.2396,32.63,Optimal,Optimal: Maintain current allocation,0.002,63.84,Elevated,16.17,Medium
+Gujarat,Jamnagar,135258.0,0,7.59,-4.77,Good,0,0.6477,0.3523,32.71,Optimal,Optimal: Maintain current allocation,0.001,68.58,Elevated,16.67,Medium
+Gujarat,Junagadh,152161.0,0,8.62,-14.1,Good,0,0.741,0.259,37.6,Optimal,Optimal: Maintain current allocation,0.001,83.18,Elevated,19.6,Medium
+Gujarat,Kachchh,210914.0,0,20.51,-7.28,Good,0,0.6728,0.3272,40.45,Moderate,Monitor: Review weekly,0.001,63.2,Elevated,18.45,Medium
+Gujarat,Kheda,184523.0,0,7.77,-10.11,Good,0,0.7011,0.2989,32.11,Optimal,Optimal: Maintain current allocation,0.001,72.77,Elevated,16.91,Medium
+Gujarat,Mahesana,165760.0,0,10.23,-8.54,Good,0,0.6854,0.3146,37.57,Optimal,Optimal: Maintain current allocation,0.001,55.85,Elevated,16.86,Medium
+Gujarat,Mahisagar,41696.0,0,13.92,-20.83,Excellent,0,0.8083,0.1917,31.25,Optimal,Optimal: Maintain current allocation,0.002,59.64,Elevated,15.34,Medium
+Gujarat,Morbi,58474.0,0,18.53,-5.07,Good,0,0.6507,0.3492,34.11,Optimal,Optimal: Maintain current allocation,0.003,54.85,Elevated,15.72,Medium
+Gujarat,Narmada,59044.0,0,5.68,-14.45,Good,0,0.7445,0.2555,29.45,Optimal,Optimal: Maintain current allocation,0.002,39.23,Normal,12.76,Low
+Gujarat,Navsari,81914.0,0,4.67,-2.6,Good,0,0.626,0.374,42.25,Moderate,Monitor: Review weekly,0.001,38.43,Normal,16.52,Medium
+Gujarat,Panch Mahals,810.0,0,8.31,13.76,Watch,0,0.4624,0.5364,18.69,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,50.05,Elevated,14.74,Low
+Gujarat,Panchmahals,149788.0,0,8.93,-17.13,Good,0,0.7713,0.2287,38.78,Optimal,Optimal: Maintain current allocation,0.002,73.91,Elevated,19.02,Medium
+Gujarat,Patan,111471.0,0,3.18,-11.9,Good,0,0.719,0.281,37.55,Optimal,Optimal: Maintain current allocation,0.002,68.82,Elevated,18.15,Medium
+Gujarat,Porbandar,49022.0,0,0.9,-8.28,Good,0,0.6828,0.3172,41.9,Moderate,Monitor: Review weekly,0.002,35.44,Normal,16.11,Medium
+Gujarat,Rajkot,342412.0,0,25.46,1.36,Watch,0,0.5864,0.4136,43.39,Moderate,Monitor: Review weekly,0.001,79.44,Elevated,21.37,Medium
+Gujarat,Sabar Kantha,1354.0,0,8.72,10.18,Watch,0,0.4982,0.5011,20.7,Optimal,Optimal: Maintain current allocation,0.0,16.34,Normal,10.9,Low
+Gujarat,Sabarkantha,145629.0,0,2.39,-8.6,Good,0,0.686,0.314,27.49,Optimal,Optimal: Maintain current allocation,0.001,80.53,Elevated,16.3,Medium
+Gujarat,Surat,709867.0,1,71.37,11.64,Watch,0,0.4836,0.5164,54.25,Moderate,Monitor: Review weekly,0.001,106.99,Critical,59.77,Critical
+Gujarat,Surendra Nagar,145260.0,0,6.17,-12.27,Good,0,0.7227,0.2773,31.6,Optimal,Optimal: Maintain current allocation,0.001,50.25,Elevated,14.5,Low
+Gujarat,Surendranagar,1523.0,0,10.7,21.09,Concern,1,0.3891,0.6102,17.34,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,37.92,Normal,15.32,Medium
+Gujarat,Tapi,56327.0,0,4.04,-17.47,Good,0,0.7747,0.2253,33.4,Optimal,Optimal: Maintain current allocation,0.001,56.92,Elevated,15.71,Medium
+Gujarat,The Dangs,38288.0,0,24.47,-22.07,Excellent,0,0.8207,0.1793,29.06,Optimal,Optimal: Maintain current allocation,0.008,47.56,Elevated,13.47,Low
+Gujarat,Vadodara,326933.0,0,21.68,-8.0,Good,0,0.68,0.32,31.69,Optimal,Optimal: Maintain current allocation,0.001,77.92,Elevated,17.3,Medium
+Gujarat,Valsad,146784.0,0,9.59,-6.03,Good,0,0.6603,0.3397,41.2,Moderate,Monitor: Review weekly,0.001,45.09,Normal,16.87,Medium
+Haryana,Akhera,1.0,0,13.13,10.0,Watch,0,0.5,0.0,0.0,Optimal,,,-0.38,Low,3.0,Low
+Haryana,Ambala,118531.0,0,13.97,-11.07,Good,0,0.7107,0.2893,43.34,Moderate,Monitor: Review weekly,0.002,52.28,Elevated,18.23,Medium
+Haryana,Bhiwani,147817.0,0,8.21,-15.96,Good,0,0.7596,0.2404,37.7,Optimal,Optimal: Maintain current allocation,0.002,63.3,Elevated,17.64,Medium
+Haryana,Charkhi Dadri,23097.0,0,5.0,14.17,Watch,0,0.4583,0.5417,24.56,Optimal,Optimal: Maintain current allocation,0.002,34.69,Normal,15.09,Medium
+Haryana,Faridabad,318573.0,1,52.39,11.56,Watch,0,0.4844,0.5156,44.73,Moderate,Monitor: Review weekly,0.009,89.8,Elevated,55.87,Critical
+Haryana,Fatehabad,132674.0,0,11.36,-7.48,Good,0,0.6748,0.3252,33.21,Optimal,Optimal: Maintain current allocation,0.006,50.97,Elevated,15.06,Medium
+Haryana,Gurgaon,208631.0,0,30.31,18.64,Watch,0,0.4136,0.5864,51.2,Moderate,Monitor: Review weekly,0.002,54.87,Elevated,26.44,Medium
+Haryana,Hisar,208336.0,0,25.8,-8.85,Good,0,0.6885,0.3115,43.9,Moderate,Monitor: Review weekly,0.004,54.93,Elevated,18.66,Medium
+Haryana,Jhajjar,98728.0,0,14.36,-6.27,Good,0,0.6627,0.3373,47.42,Moderate,Monitor: Review weekly,0.002,45.12,Normal,18.74,Medium
+Haryana,Jind,155865.0,0,21.83,-11.2,Good,0,0.712,0.288,31.18,Optimal,Optimal: Maintain current allocation,0.01,71.8,Elevated,16.53,Medium
+Haryana,Kaithal,140347.0,0,27.45,-10.86,Good,0,0.7086,0.2914,38.2,Optimal,Optimal: Maintain current allocation,0.007,57.5,Elevated,17.21,Medium
+Haryana,Karnal,167173.0,0,19.52,-10.11,Good,0,0.7011,0.2989,43.82,Moderate,Monitor: Review weekly,0.005,55.27,Elevated,18.67,Medium
+Haryana,Kurukshetra,113996.0,0,12.86,-13.97,Good,0,0.7397,0.2603,26.06,Optimal,Optimal: Maintain current allocation,0.005,65.92,Elevated,14.41,Low
+Haryana,Mahendragarh,85385.0,0,13.03,-5.47,Good,0,0.6547,0.3453,26.17,Optimal,Optimal: Maintain current allocation,0.013,52.46,Elevated,13.1,Low
+Haryana,Mewat,158312.0,1,46.49,3.1,Watch,0,0.569,0.431,28.75,Optimal,Optimal: Maintain current allocation,0.034,67.61,Elevated,46.32,High
+Haryana,Palwal,151478.0,1,50.51,6.36,Watch,0,0.5364,0.4636,34.58,Optimal,Optimal: Maintain current allocation,0.032,49.81,Elevated,47.26,High
+Haryana,Panchkula,80440.0,0,4.08,3.67,Watch,0,0.5633,0.4367,29.3,Optimal,Optimal: Maintain current allocation,0.002,31.87,Normal,13.08,Low
+Haryana,Panipat,180777.0,1,60.75,-1.16,Good,0,0.6116,0.3884,69.34,High,High Priority: Schedule reinforcement,0.007,66.33,Elevated,57.44,Critical
+Haryana,Rewari,107354.0,0,14.0,2.11,Watch,0,0.5789,0.421,44.4,Moderate,Monitor: Review weekly,0.003,38.46,Normal,17.8,Medium
+Haryana,Rohtak,114126.0,0,29.29,-16.22,Good,0,0.7622,0.2378,57.72,Moderate,Monitor: Review weekly,0.003,65.24,Elevated,23.84,Medium
+Haryana,Sirsa,174340.0,0,15.74,-7.54,Good,0,0.6754,0.3246,35.94,Optimal,Optimal: Maintain current allocation,0.006,53.81,Elevated,16.16,Medium
+Haryana,Sonipat,168332.0,0,14.69,-3.06,Good,0,0.6306,0.3694,45.24,Moderate,Monitor: Review weekly,0.003,45.03,Normal,18.08,Medium
+Haryana,Yamuna Nagar,163639.0,0,13.93,-6.89,Good,0,0.6689,0.3311,41.8,Moderate,Monitor: Review weekly,0.007,53.84,Elevated,17.92,Medium
+Haryana,Yamunanagar,1437.0,0,5.38,-7.94,Good,0,0.6794,0.3199,24.82,Optimal,Optimal: Maintain current allocation,0.001,42.78,Normal,11.72,Low
+Himachal Pradesh,Bilaspur,31356.0,0,6.56,-17.7,Good,0,0.777,0.223,26.31,Optimal,Optimal: Maintain current allocation,0.0,54.67,Elevated,13.36,Low
+Himachal Pradesh,Chamba,58072.0,0,0.0,-4.99,Good,0,0.6499,0.3501,25.96,Optimal,Optimal: Maintain current allocation,0.001,33.31,Normal,11.12,Low
+Himachal Pradesh,Hamirpur,33749.0,0,9.68,-17.46,Good,0,0.7746,0.2254,26.97,Optimal,Optimal: Maintain current allocation,0.0,32.35,Normal,11.33,Low
+Himachal Pradesh,Kangra,136783.0,0,19.59,-14.17,Good,0,0.7417,0.2583,28.59,Optimal,Optimal: Maintain current allocation,0.0,50.91,Elevated,13.67,Low
+Himachal Pradesh,Kinnaur,5939.0,0,15.68,-19.49,Good,0,0.7949,0.2049,16.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,38.15,Normal,8.66,Low
+Himachal Pradesh,Kullu,33574.0,0,4.73,-10.31,Good,0,0.7031,0.2968,24.85,Optimal,Optimal: Maintain current allocation,0.001,21.77,Normal,9.63,Low
+Himachal Pradesh,Lahaul and Spiti,107.0,0,7.06,15.56,Watch,0,0.4444,0.5463,4.68,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,15.42,Normal,7.61,Low
+Himachal Pradesh,Lahul & Spiti,943.0,0,6.61,-8.86,Good,0,0.6886,0.3104,16.23,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,28.85,Normal,7.75,Low
+Himachal Pradesh,Lahul and Spiti,1054.0,0,36.31,-17.44,Good,0,0.7744,0.2246,20.92,Optimal,Optimal: Maintain current allocation,0.001,50.36,Elevated,11.31,Low
+Himachal Pradesh,Mandi,86626.0,0,15.2,-20.37,Excellent,0,0.8037,0.1963,25.5,Optimal,Optimal: Maintain current allocation,0.0,55.11,Elevated,13.16,Low
+Himachal Pradesh,Shimla,60258.0,0,7.5,-12.88,Good,0,0.7288,0.2712,27.3,Optimal,Optimal: Maintain current allocation,0.0,44.05,Normal,12.6,Low
+Himachal Pradesh,Sirmaur,56272.0,0,2.4,-4.67,Good,0,0.6467,0.3533,29.47,Optimal,Optimal: Maintain current allocation,0.001,27.4,Normal,11.58,Low
+Himachal Pradesh,Solan,45753.0,0,10.25,-19.51,Good,0,0.7951,0.2049,36.97,Optimal,Optimal: Maintain current allocation,0.001,55.57,Elevated,16.65,Medium
+Himachal Pradesh,Una,44481.0,0,7.61,-17.76,Good,0,0.7776,0.2224,31.83,Optimal,Optimal: Maintain current allocation,0.0,57.71,Elevated,15.32,Medium
+Jaipur,Near meera hospital,2.0,0,10.37,60.0,Critical,1,0.0,0.6667,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,18.04,Medium
+Jammu & Kashmir,Anantnag,18.0,0,8.61,23.16,Concern,1,0.3684,0.5789,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.0,-1.19,Low,6.95,Low
+Jammu & Kashmir,Badgam,15.0,0,8.85,-2.5,Good,0,0.625,0.3125,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,-4.54,Low,0.02,Low
+Jammu & Kashmir,Bandipur,1.0,0,13.13,10.0,Watch,0,0.5,0.0,0.0,Optimal,,,-0.38,Low,3.0,Low
+Jammu & Kashmir,Baramula,187.0,0,5.81,16.91,Watch,0,0.4309,0.5638,13.3,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,45.97,Normal,13.66,Low
+Jammu & Kashmir,Doda,9.0,0,6.68,20.0,Watch,0,0.4,0.5,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,-0.37,Low,6.02,Low
+Jammu & Kashmir,Jammu,432.0,0,9.25,5.5,Watch,0,0.545,0.4527,7.29,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,20.51,Normal,5.89,Low
+Jammu & Kashmir,Kargil,13.0,0,8.62,45.71,Critical,1,0.1429,0.7857,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,13.76,Low
+Jammu & Kashmir,Kathua,100.0,0,7.33,8.51,Watch,0,0.5149,0.4752,15.25,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,21.99,Normal,9.33,Low
+Jammu & Kashmir,Kupwara,10.0,0,9.65,32.73,Concern,1,0.2727,0.6364,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.0,-0.38,Low,9.82,Low
+Jammu & Kashmir,Leh (ladakh),18.0,0,38.76,2.11,Watch,0,0.5789,0.3684,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-2.92,Low,0.63,Low
+Jammu & Kashmir,Pulwama,3.0,0,8.54,10.0,Watch,0,0.5,0.25,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,3.0,Low
+Jammu & Kashmir,Punch,10.0,0,5.94,14.55,Watch,0,0.4545,0.4545,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,-0.37,Low,4.39,Low
+Jammu & Kashmir,Rajauri,27.0,0,6.0,17.14,Watch,0,0.4286,0.5357,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.0,9.89,Normal,6.13,Low
+Jammu & Kashmir,Srinagar,26.0,0,4.9,0.74,Watch,0,0.5926,0.3704,5.35,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,5.35,Normal,2.36,Low
+Jammu & Kashmir,Udhampur,11.0,0,10.36,-6.67,Good,0,0.6667,0.25,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,4.63,Normal,0.48,Low
+Jammu and Kashmir,?,1.0,0,13.13,10.0,Watch,0,0.5,0.0,0.0,Optimal,,,-0.38,Low,3.0,Low
+Jammu and Kashmir,Anantnag,95397.0,0,5.62,-1.37,Good,0,0.6137,0.3863,35.03,Optimal,Optimal: Maintain current allocation,0.005,84.69,Elevated,18.98,Medium
+Jammu and Kashmir,Badgam,28209.0,0,10.15,4.69,Watch,0,0.5531,0.4468,34.38,Optimal,Optimal: Maintain current allocation,0.003,56.23,Elevated,17.34,Medium
+Jammu and Kashmir,Bandipore,41260.0,0,12.99,0.11,Watch,0,0.5989,0.4011,36.8,Optimal,Optimal: Maintain current allocation,0.017,36.53,Normal,14.73,Low
+Jammu and Kashmir,Bandipur,1.0,0,16.37,60.0,Critical,1,0.0,0.5,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,18.0,Medium
+Jammu and Kashmir,Baramula,114528.0,0,5.37,-7.08,Good,0,0.6708,0.3292,34.39,Optimal,Optimal: Maintain current allocation,0.004,71.34,Elevated,17.45,Medium
+Jammu and Kashmir,Budgam,49229.0,0,32.55,-1.51,Good,0,0.6151,0.3849,35.6,Optimal,Optimal: Maintain current allocation,0.005,33.26,Normal,14.01,Low
+Jammu and Kashmir,Doda,54648.0,0,8.95,-18.02,Good,0,0.7802,0.2198,32.25,Optimal,Optimal: Maintain current allocation,0.003,54.35,Elevated,15.11,Medium
+Jammu and Kashmir,Ganderbal,23148.0,0,6.05,-5.84,Good,0,0.6584,0.3415,28.32,Optimal,Optimal: Maintain current allocation,0.012,57.96,Elevated,14.29,Low
+Jammu and Kashmir,Jammu,148622.0,0,5.53,-15.55,Good,0,0.7555,0.2445,27.46,Optimal,Optimal: Maintain current allocation,0.001,67.47,Elevated,14.98,Low
+Jammu and Kashmir,Kargil,5586.0,0,12.82,-1.07,Good,0,0.6107,0.3891,19.88,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,37.12,Normal,9.68,Low
+Jammu and Kashmir,Kathua,68666.0,0,4.49,-9.28,Good,0,0.6928,0.3072,22.85,Optimal,Optimal: Maintain current allocation,0.002,47.23,Elevated,11.58,Low
+Jammu and Kashmir,Kishtwar,31668.0,0,24.91,-21.08,Excellent,0,0.8108,0.1892,26.41,Optimal,Optimal: Maintain current allocation,0.022,50.53,Elevated,12.98,Low
+Jammu and Kashmir,Kulgam,47884.0,0,32.66,-13.69,Good,0,0.7369,0.2631,48.99,Moderate,Monitor: Review weekly,0.018,50.96,Elevated,19.79,Medium
+Jammu and Kashmir,Kupwara,109940.0,0,29.01,1.97,Watch,0,0.5803,0.4197,23.96,Optimal,Optimal: Maintain current allocation,0.017,65.12,Elevated,14.29,Low
+Jammu and Kashmir,Leh,4366.0,0,12.54,-6.04,Good,0,0.6604,0.3394,25.51,Optimal,Optimal: Maintain current allocation,0.001,50.77,Elevated,12.73,Low
+Jammu and Kashmir,Poonch,4.0,0,8.95,40.0,Concern,1,0.2,0.6,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,12.0,Low
+Jammu and Kashmir,Pulwama,61326.0,0,8.66,-4.12,Good,0,0.6412,0.3588,43.04,Moderate,Monitor: Review weekly,0.005,48.46,Elevated,17.76,Medium
+Jammu and Kashmir,Punch,81526.0,0,30.41,-10.85,Good,0,0.7085,0.2915,21.14,Optimal,Optimal: Maintain current allocation,0.029,47.59,Elevated,11.1,Low
+Jammu and Kashmir,Rajouri,81818.0,0,14.72,-19.93,Good,0,0.7993,0.2007,29.51,Optimal,Optimal: Maintain current allocation,0.005,70.11,Elevated,15.86,Medium
+Jammu and Kashmir,Ramban,41329.0,0,44.51,-20.58,Excellent,0,0.8058,0.1942,36.02,Optimal,Optimal: Maintain current allocation,0.023,65.55,Elevated,17.36,Medium
+Jammu and Kashmir,Reasi,35896.0,0,8.31,-15.39,Good,0,0.7539,0.2461,32.92,Optimal,Optimal: Maintain current allocation,0.004,45.65,Normal,14.44,Low
+Jammu and Kashmir,Samba,18460.0,0,6.73,-11.16,Good,0,0.7116,0.2883,22.52,Optimal,Optimal: Maintain current allocation,0.002,53.49,Elevated,12.1,Low
+Jammu and Kashmir,Shupiyan,27087.0,1,48.46,-9.13,Good,0,0.6913,0.3087,30.97,Optimal,Optimal: Maintain current allocation,0.118,56.88,Elevated,44.98,High
+Jammu and Kashmir,Srinagar,128078.0,0,2.64,-7.8,Good,0,0.678,0.322,29.3,Optimal,Optimal: Maintain current allocation,0.002,63.6,Elevated,15.15,Medium
+Jammu and Kashmir,Udhampur,72835.0,0,6.24,-16.03,Good,0,0.7603,0.2397,31.97,Optimal,Optimal: Maintain current allocation,0.002,60.75,Elevated,15.67,Medium
+Jammu and Kashmir,udhampur,1.0,0,13.13,10.0,Watch,0,0.5,0.0,0.0,Optimal,,,-0.38,Low,3.0,Low
+Jharkhand,Bokaro,192065.0,0,19.48,-2.04,Good,0,0.6204,0.3796,43.57,Moderate,Monitor: Review weekly,0.001,47.79,Elevated,17.85,Medium
+Jharkhand,Bokaro *,3.0,0,13.32,-15.0,Good,0,0.75,0.0,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,0.0,
+Jharkhand,Chatra,122578.0,0,23.86,-0.26,Good,0,0.6026,0.3974,25.92,Optimal,Optimal: Maintain current allocation,0.015,46.08,Normal,12.38,Low
+Jharkhand,Deoghar,137479.0,0,28.77,5.38,Watch,0,0.5462,0.4538,36.47,Optimal,Optimal: Maintain current allocation,0.002,58.16,Elevated,18.37,Medium
+Jharkhand,Dhanbad,278000.0,0,34.59,-0.13,Good,0,0.6013,0.3987,37.81,Optimal,Optimal: Maintain current allocation,0.001,53.97,Elevated,16.74,Medium
+Jharkhand,Dumka,148224.0,0,5.9,1.18,Watch,0,0.5882,0.4118,23.6,Optimal,Optimal: Maintain current allocation,0.002,42.82,Normal,11.72,Low
+Jharkhand,East Singhbhum,212670.0,0,11.53,-10.72,Good,0,0.7072,0.2928,29.21,Optimal,Optimal: Maintain current allocation,0.002,68.03,Elevated,15.57,Medium
+Jharkhand,Garhwa,150198.0,0,22.98,-11.58,Good,0,0.7158,0.2842,35.08,Optimal,Optimal: Maintain current allocation,0.01,50.32,Elevated,15.56,Medium
+Jharkhand,Garhwa *,8070.0,0,9.17,-12.68,Good,0,0.7268,0.2731,32.53,Optimal,Optimal: Maintain current allocation,0.004,52.21,Elevated,14.98,Low
+Jharkhand,Giridih,256892.0,0,26.1,10.12,Watch,0,0.4988,0.5012,24.11,Optimal,Optimal: Maintain current allocation,0.005,52.87,Elevated,15.56,Medium
+Jharkhand,Godda,149773.0,0,13.92,0.25,Watch,0,0.5975,0.4025,27.73,Optimal,Optimal: Maintain current allocation,0.007,40.44,Normal,12.44,Low
+Jharkhand,Gumla,145103.0,0,5.13,-6.49,Good,0,0.6649,0.3351,34.12,Optimal,Optimal: Maintain current allocation,0.004,90.32,Elevated,19.27,Medium
+Jharkhand,Hazaribag,18964.0,0,24.88,12.74,Watch,0,0.4726,0.5274,41.53,Moderate,Monitor: Review weekly,0.001,19.28,Normal,18.21,Medium
+Jharkhand,Hazaribagh,153759.0,0,10.41,4.46,Watch,0,0.5554,0.4445,35.72,Optimal,Optimal: Maintain current allocation,0.002,53.53,Elevated,17.41,Medium
+Jharkhand,Jamtara,77177.0,0,15.59,3.36,Watch,0,0.5664,0.4336,28.43,Optimal,Optimal: Maintain current allocation,0.017,41.64,Normal,13.7,Low
+Jharkhand,Khunti,69838.0,0,8.8,-8.67,Good,0,0.6867,0.3133,31.19,Optimal,Optimal: Maintain current allocation,0.005,30.98,Normal,12.46,Low
+Jharkhand,Kodarma,8421.0,0,4.23,-2.56,Good,0,0.6256,0.3743,24.0,Optimal,Optimal: Maintain current allocation,0.003,30.84,Normal,10.28,Low
+Jharkhand,Koderma,66767.0,0,9.7,-2.55,Good,0,0.6255,0.3745,26.32,Optimal,Optimal: Maintain current allocation,0.007,35.01,Normal,11.4,Low
+Jharkhand,Latehar,87115.0,0,8.59,5.68,Watch,0,0.5432,0.4568,24.26,Optimal,Optimal: Maintain current allocation,0.008,35.08,Normal,12.49,Low
+Jharkhand,Lohardaga,59894.0,0,30.43,-10.64,Good,0,0.7064,0.2936,51.38,Moderate,Monitor: Review weekly,0.005,39.88,Normal,19.4,Medium
+Jharkhand,Pakaur,6323.0,0,8.6,18.49,Watch,0,0.4151,0.5848,23.43,Optimal,Optimal: Maintain current allocation,0.003,50.85,Elevated,17.66,Medium
+Jharkhand,Pakur,90093.0,0,27.01,11.98,Watch,0,0.4802,0.5197,30.34,Optimal,Optimal: Maintain current allocation,0.007,23.96,Normal,15.09,Medium
+Jharkhand,Palamau,6756.0,0,20.28,18.61,Watch,0,0.4139,0.5859,44.71,Moderate,Monitor: Review weekly,0.001,39.86,Normal,22.98,Medium
+Jharkhand,Palamu,247935.0,0,22.93,7.61,Watch,0,0.5239,0.4761,29.34,Optimal,Optimal: Maintain current allocation,0.006,56.78,Elevated,16.76,Medium
+Jharkhand,Pashchimi Singhbhum,26342.0,0,22.13,-3.94,Good,0,0.6394,0.3605,49.79,Moderate,Monitor: Review weekly,0.002,54.3,Elevated,20.37,Medium
+Jharkhand,Purbi Singhbhum,26928.0,0,13.58,-20.95,Excellent,0,0.8095,0.1904,28.06,Optimal,Optimal: Maintain current allocation,0.001,34.38,Normal,11.86,Low
+Jharkhand,Ramgarh,78011.0,0,9.9,6.87,Watch,0,0.5313,0.4687,34.39,Optimal,Optimal: Maintain current allocation,0.001,32.23,Normal,15.6,Medium
+Jharkhand,Ranchi,318799.0,0,17.23,-6.51,Good,0,0.6651,0.3349,29.48,Optimal,Optimal: Maintain current allocation,0.002,69.93,Elevated,15.84,Medium
+Jharkhand,Sahebganj,139803.0,0,19.47,8.45,Watch,0,0.5155,0.4844,30.82,Optimal,Optimal: Maintain current allocation,0.007,36.0,Normal,15.38,Medium
+Jharkhand,Sahibganj,5053.0,0,7.33,13.94,Watch,0,0.4606,0.5392,36.41,Optimal,Optimal: Maintain current allocation,0.002,46.99,Elevated,19.8,Medium
+Jharkhand,Seraikela-Kharsawan,101785.0,0,3.85,-10.6,Good,0,0.706,0.294,25.47,Optimal,Optimal: Maintain current allocation,0.003,43.48,Normal,11.99,Low
+Jharkhand,Seraikela-kharsawan,21672.0,0,3.82,-11.21,Good,0,0.7121,0.2878,25.72,Optimal,Optimal: Maintain current allocation,0.001,33.07,Normal,11.02,Low
+Jharkhand,Simdega,97322.0,0,18.45,-12.3,Good,0,0.723,0.277,27.97,Optimal,Optimal: Maintain current allocation,0.01,49.61,Elevated,13.35,Low
+Jharkhand,West Singhbhum,205411.0,0,14.07,-10.61,Good,0,0.7061,0.2939,39.93,Optimal,Optimal: Maintain current allocation,0.003,54.18,Elevated,17.4,Medium
+Karnataka,Bagalkot,141916.0,0,3.63,-1.71,Good,0,0.6171,0.3829,25.78,Optimal,Optimal: Maintain current allocation,0.001,51.23,Elevated,12.86,Low
+Karnataka,Bagalkot *,3100.0,0,5.59,0.31,Watch,0,0.5969,0.4028,15.9,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,17.86,Normal,6.65,Low
+Karnataka,Ballari,69264.0,0,15.85,-4.28,Good,0,0.6428,0.3571,37.8,Optimal,Optimal: Maintain current allocation,0.0,39.99,Normal,15.34,Medium
+Karnataka,Bangalore,270673.0,0,32.27,-20.1,Excellent,0,0.801,0.199,27.24,Optimal,Optimal: Maintain current allocation,0.0,75.97,Elevated,15.77,Medium
+Karnataka,Bangalore Rural,97730.0,0,7.41,10.3,Watch,0,0.497,0.503,35.0,Optimal,Optimal: Maintain current allocation,0.002,34.84,Normal,17.07,Medium
+Karnataka,Belagavi,144896.0,0,28.06,-1.66,Good,0,0.6166,0.3834,31.47,Optimal,Optimal: Maintain current allocation,0.0,71.47,Elevated,16.59,Medium
+Karnataka,Belgaum,188002.0,0,18.26,-5.47,Good,0,0.6547,0.3453,25.92,Optimal,Optimal: Maintain current allocation,0.0,67.07,Elevated,14.48,Low
+Karnataka,Bellary,104120.0,0,3.04,-13.06,Good,0,0.7306,0.2694,28.99,Optimal,Optimal: Maintain current allocation,0.001,47.38,Elevated,13.43,Low
+Karnataka,Bengaluru,666157.0,1,46.06,6.26,Watch,0,0.5374,0.4626,30.27,Optimal,Optimal: Maintain current allocation,0.0,128.38,Critical,50.96,Critical
+Karnataka,Bengaluru Rural,89.0,0,8.41,48.89,Critical,1,0.1111,0.8778,14.59,Under-utilized,Consider: Reallocate resources to high-load areas,0.004,20.62,Normal,21.11,Medium
+Karnataka,Bengaluru South,3911.0,0,12.65,55.58,Critical,1,0.0442,0.9555,18.36,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,51.6,Elevated,27.34,Medium
+Karnataka,Bidar,137300.0,0,3.83,-8.06,Good,0,0.6806,0.3194,28.31,Optimal,Optimal: Maintain current allocation,0.002,65.48,Elevated,15.04,Medium
+Karnataka,Bijapur,92956.0,0,1.29,-6.58,Good,0,0.6658,0.3342,28.18,Optimal,Optimal: Maintain current allocation,0.001,68.78,Elevated,15.33,Medium
+Karnataka,Bijapur(KAR),14.0,0,25.01,-26.67,Excellent,0,0.8667,0.0667,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,-2.45,Low,0.02,Low
+Karnataka,Chamarajanagar,3237.0,0,4.71,-5.23,Good,0,0.6523,0.3474,25.68,Optimal,Optimal: Maintain current allocation,0.0,50.88,Elevated,12.79,Low
+Karnataka,Chamarajanagar *,120.0,0,6.38,7.11,Watch,0,0.5289,0.4628,6.66,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,14.84,Normal,5.62,Low
+Karnataka,Chamrajanagar,48251.0,0,2.0,-7.85,Good,0,0.6785,0.3214,31.3,Optimal,Optimal: Maintain current allocation,0.001,42.5,Normal,13.64,Low
+Karnataka,Chamrajnagar,4467.0,0,6.55,4.09,Watch,0,0.5591,0.4407,18.81,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,30.03,Normal,9.87,Low
+Karnataka,Chickmagalur,34752.0,0,3.49,-9.06,Good,0,0.6906,0.3094,26.88,Optimal,Optimal: Maintain current allocation,0.0,29.33,Normal,11.0,Low
+Karnataka,Chikkaballapur,85958.0,0,1.7,2.73,Watch,0,0.5727,0.4273,25.91,Optimal,Optimal: Maintain current allocation,0.002,41.12,Normal,12.7,Low
+Karnataka,Chikkamagaluru,28421.0,0,9.75,-0.43,Good,0,0.6043,0.3956,31.47,Optimal,Optimal: Maintain current allocation,0.0,29.92,Normal,12.43,Low
+Karnataka,Chikmagalur,2189.0,0,6.78,-6.48,Good,0,0.6648,0.3347,21.0,Optimal,Optimal: Maintain current allocation,0.0,44.04,Normal,10.7,Low
+Karnataka,Chitradurga,120042.0,0,1.54,0.18,Watch,0,0.5982,0.4018,26.26,Optimal,Optimal: Maintain current allocation,0.001,49.1,Elevated,12.84,Low
+Karnataka,Dakshina Kannada,145814.0,0,16.75,-0.23,Good,0,0.6023,0.3977,24.09,Optimal,Optimal: Maintain current allocation,0.0,52.66,Elevated,12.49,Low
+Karnataka,Davanagere,10363.0,0,6.93,-8.66,Good,0,0.6866,0.3133,20.94,Optimal,Optimal: Maintain current allocation,0.0,31.23,Normal,9.41,Low
+Karnataka,Davangere,135268.0,0,4.93,-14.5,Good,0,0.745,0.255,29.23,Optimal,Optimal: Maintain current allocation,0.001,50.09,Elevated,13.78,Low
+Karnataka,Dharwad,161868.0,0,10.95,-5.39,Good,0,0.6539,0.3461,34.54,Optimal,Optimal: Maintain current allocation,0.001,51.9,Elevated,15.55,Medium
+Karnataka,Gadag,75217.0,0,4.69,-1.36,Good,0,0.6136,0.3864,24.97,Optimal,Optimal: Maintain current allocation,0.001,47.45,Elevated,12.24,Low
+Karnataka,Gadag *,2345.0,0,5.12,-2.66,Good,0,0.6266,0.373,17.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,42.05,Normal,9.33,Low
+Karnataka,Gulbarga,96423.0,0,4.67,-14.67,Good,0,0.7467,0.2533,29.47,Optimal,Optimal: Maintain current allocation,0.001,65.69,Elevated,15.41,Medium
+Karnataka,Hasan,19499.0,0,7.58,4.96,Watch,0,0.5504,0.4495,19.02,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,27.05,Normal,9.9,Low
+Karnataka,Hassan,95072.0,0,10.45,1.49,Watch,0,0.5851,0.4149,29.64,Optimal,Optimal: Maintain current allocation,0.0,40.48,Normal,13.39,Low
+Karnataka,Haveri,142123.0,0,7.99,0.99,Watch,0,0.5901,0.4099,30.43,Optimal,Optimal: Maintain current allocation,0.001,45.67,Normal,13.99,Low
+Karnataka,Haveri *,2700.0,0,5.39,-3.61,Good,0,0.6361,0.3636,18.6,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,50.44,Elevated,10.62,Low
+Karnataka,Kalaburagi,121299.0,0,12.18,-6.49,Good,0,0.6649,0.3351,32.65,Optimal,Optimal: Maintain current allocation,0.001,56.71,Elevated,15.47,Medium
+Karnataka,Kodagu,30291.0,0,1.63,-1.38,Good,0,0.6138,0.3862,24.18,Optimal,Optimal: Maintain current allocation,0.0,29.41,Normal,10.2,Low
+Karnataka,Kolar,125925.0,0,8.64,-1.94,Good,0,0.6194,0.3806,36.76,Optimal,Optimal: Maintain current allocation,0.001,52.85,Elevated,16.31,Medium
+Karnataka,Koppal,114075.0,0,2.66,-1.46,Good,0,0.6146,0.3854,25.54,Optimal,Optimal: Maintain current allocation,0.001,42.61,Normal,11.92,Low
+Karnataka,Mandya,116799.0,0,2.59,-5.15,Good,0,0.6515,0.3485,24.07,Optimal,Optimal: Maintain current allocation,0.001,45.28,Normal,11.75,Low
+Karnataka,Mysore,81497.0,0,7.6,-13.4,Good,0,0.734,0.266,28.74,Optimal,Optimal: Maintain current allocation,0.0,38.58,Normal,12.48,Low
+Karnataka,Mysuru,100774.0,0,13.59,-2.55,Good,0,0.6255,0.3745,33.54,Optimal,Optimal: Maintain current allocation,0.0,45.59,Normal,14.62,Low
+Karnataka,Raichur,178760.0,0,7.18,-12.49,Good,0,0.7249,0.2751,29.69,Optimal,Optimal: Maintain current allocation,0.002,71.16,Elevated,16.02,Medium
+Karnataka,Ramanagar,84091.0,0,4.16,2.04,Watch,0,0.5796,0.4204,29.6,Optimal,Optimal: Maintain current allocation,0.002,40.3,Normal,13.52,Low
+Karnataka,Shimoga,45329.0,0,3.99,-5.02,Good,0,0.6502,0.3498,26.34,Optimal,Optimal: Maintain current allocation,0.0,30.28,Normal,10.93,Low
+Karnataka,Shivamogga,63360.0,0,9.37,-0.27,Good,0,0.6027,0.3972,28.5,Optimal,Optimal: Maintain current allocation,0.0,37.31,Normal,12.28,Low
+Karnataka,Tumakuru,78310.0,0,8.26,-2.97,Good,0,0.6297,0.3703,24.33,Optimal,Optimal: Maintain current allocation,0.0,46.2,Normal,11.92,Low
+Karnataka,Tumkur,99435.0,0,6.26,-13.09,Good,0,0.7309,0.2691,25.77,Optimal,Optimal: Maintain current allocation,0.0,56.4,Elevated,13.37,Low
+Karnataka,Udupi,66315.0,0,10.43,2.31,Watch,0,0.5769,0.4231,20.19,Optimal,Optimal: Maintain current allocation,0.0,33.29,Normal,10.08,Low
+Karnataka,Udupi *,4.0,0,13.71,0.0,Good,0,0.6,0.2,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,-0.38,Low,0.02,Low
+Karnataka,Uttara Kannada,79957.0,0,11.23,-1.1,Good,0,0.611,0.389,29.88,Optimal,Optimal: Maintain current allocation,0.0,46.63,Normal,13.63,Low
+Karnataka,Vijayanagara,36572.0,0,8.85,1.28,Watch,0,0.5872,0.4128,24.84,Optimal,Optimal: Maintain current allocation,0.0,42.33,Normal,12.07,Low
+Karnataka,Vijayapura,91994.0,0,12.1,-4.66,Good,0,0.6466,0.3534,28.56,Optimal,Optimal: Maintain current allocation,0.0,62.54,Elevated,14.82,Low
+Karnataka,Yadgir,105215.0,0,3.62,-7.89,Good,0,0.6789,0.3211,25.94,Optimal,Optimal: Maintain current allocation,0.002,60.87,Elevated,13.87,Low
+Karnataka,yadgir,6852.0,0,5.17,-8.8,Good,0,0.688,0.3118,22.05,Optimal,Optimal: Maintain current allocation,0.0,52.08,Elevated,11.82,Low
+Kerala,Alappuzha,132984.0,0,23.92,-11.44,Good,0,0.7144,0.2856,23.67,Optimal,Optimal: Maintain current allocation,0.0,73.0,Elevated,14.4,Low
+Kerala,Ernakulam,230425.0,0,30.68,-10.59,Good,0,0.7059,0.2941,26.37,Optimal,Optimal: Maintain current allocation,0.0,83.29,Elevated,16.24,Medium
+Kerala,Idukki,67457.0,0,9.33,-16.56,Good,0,0.7656,0.2344,26.31,Optimal,Optimal: Maintain current allocation,0.0,60.55,Elevated,13.95,Low
+Kerala,Kannur,188788.0,0,17.02,-8.73,Good,0,0.6873,0.3127,25.65,Optimal,Optimal: Maintain current allocation,0.0,63.34,Elevated,14.03,Low
+Kerala,Kasaragod,108083.0,0,3.71,-13.08,Good,0,0.7308,0.2691,25.93,Optimal,Optimal: Maintain current allocation,0.001,53.73,Elevated,13.15,Low
+Kerala,Kasargod,4308.0,0,9.25,4.7,Watch,0,0.553,0.4467,18.93,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,51.13,Elevated,12.2,Low
+Kerala,Kollam,192532.0,0,22.33,-11.61,Good,0,0.7161,0.2839,25.35,Optimal,Optimal: Maintain current allocation,0.0,72.08,Elevated,14.81,Low
+Kerala,Kottayam,115351.0,0,26.51,-13.13,Good,0,0.7313,0.2687,21.48,Optimal,Optimal: Maintain current allocation,0.0,60.7,Elevated,12.51,Low
+Kerala,Kozhikode,262333.0,0,15.77,-4.84,Good,0,0.6484,0.3516,27.21,Optimal,Optimal: Maintain current allocation,0.0,91.14,Elevated,17.28,Medium
+Kerala,Malappuram,405429.0,0,28.08,-1.47,Good,0,0.6147,0.3853,26.94,Optimal,Optimal: Maintain current allocation,0.0,131.61,Critical,18.08,Medium
+Kerala,Palakkad,225014.0,0,36.96,-17.31,Good,0,0.7731,0.2269,27.39,Optimal,Optimal: Maintain current allocation,0.0,81.29,Elevated,16.35,Medium
+Kerala,Pathanamthitta,85398.0,0,24.17,-14.8,Good,0,0.748,0.252,23.16,Optimal,Optimal: Maintain current allocation,0.0,52.11,Elevated,12.16,Low
+Kerala,Thiruvananthapuram,229015.0,0,27.11,-10.98,Good,0,0.7098,0.2902,24.6,Optimal,Optimal: Maintain current allocation,0.0,72.43,Elevated,14.62,Low
+Kerala,Thrissur,218349.0,0,35.68,-12.21,Good,0,0.7221,0.2779,22.83,Optimal,Optimal: Maintain current allocation,0.0,58.25,Elevated,12.67,Low
+Kerala,Wayanad,60395.0,0,2.0,-9.38,Good,0,0.6938,0.3061,29.02,Optimal,Optimal: Maintain current allocation,0.001,39.45,Normal,12.65,Low
+Ladakh,Kargil,5850.0,0,8.9,3.48,Watch,0,0.5652,0.4346,18.58,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,50.94,Elevated,11.71,Low
+Ladakh,Leh,6603.0,0,3.24,11.39,Watch,0,0.4861,0.5138,24.53,Optimal,Optimal: Maintain current allocation,0.002,40.84,Normal,14.86,Low
+Lakshadweep,Lakshadweep,6284.0,0,15.79,-20.83,Excellent,0,0.8083,0.1916,18.46,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,50.59,Elevated,10.6,Low
+Madanapalle,Kadiri Road,2.0,0,10.37,60.0,Critical,1,0.0,0.6667,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,18.04,Medium
+Madhya Pradesh,Agar Malwa,29419.0,0,6.54,-5.32,Good,0,0.6532,0.3467,23.42,Optimal,Optimal: Maintain current allocation,0.008,57.62,Elevated,12.79,Low
+Madhya Pradesh,Alirajpur,89501.0,0,15.94,-15.29,Good,0,0.7529,0.2471,29.72,Optimal,Optimal: Maintain current allocation,0.008,63.81,Elevated,15.3,Medium
+Madhya Pradesh,Anuppur,108588.0,0,15.18,-15.39,Good,0,0.7539,0.2461,36.17,Optimal,Optimal: Maintain current allocation,0.002,68.75,Elevated,17.73,Medium
+Madhya Pradesh,Ashok Nagar,146334.0,0,35.06,-8.8,Good,0,0.688,0.312,28.67,Optimal,Optimal: Maintain current allocation,0.008,71.68,Elevated,15.77,Medium
+Madhya Pradesh,Balaghat,242326.0,0,12.5,-6.93,Good,0,0.6693,0.3307,27.34,Optimal,Optimal: Maintain current allocation,0.004,93.61,Critical,17.56,Medium
+Madhya Pradesh,Barwani,271797.0,1,74.44,-9.25,Good,0,0.6925,0.3075,36.75,Optimal,Optimal: Maintain current allocation,0.012,78.0,Elevated,48.82,High
+Madhya Pradesh,Betul,233755.0,0,19.58,-18.84,Good,0,0.7884,0.2116,32.88,Optimal,Optimal: Maintain current allocation,0.003,88.17,Elevated,18.68,Medium
+Madhya Pradesh,Bhind,153862.0,0,10.73,-1.43,Good,0,0.6143,0.3857,31.17,Optimal,Optimal: Maintain current allocation,0.003,67.9,Elevated,16.14,Medium
+Madhya Pradesh,Bhopal,315014.0,0,18.27,-10.54,Good,0,0.7054,0.2945,38.78,Optimal,Optimal: Maintain current allocation,0.002,94.36,Critical,21.07,Medium
+Madhya Pradesh,Burhanpur,98567.0,1,54.55,-22.92,Excellent,0,0.8292,0.1708,46.66,Moderate,Monitor: Review weekly,0.019,64.14,Elevated,50.41,Critical
+Madhya Pradesh,Chhatarpur,265838.0,0,15.77,-9.23,Good,0,0.6923,0.3077,23.11,Optimal,Optimal: Maintain current allocation,0.004,71.89,Elevated,14.12,Low
+Madhya Pradesh,Chhindwara,278687.0,0,11.69,-7.49,Good,0,0.6749,0.3251,34.23,Optimal,Optimal: Maintain current allocation,0.003,99.62,Critical,20.23,Medium
+Madhya Pradesh,Damoh,223435.0,0,36.51,-14.81,Good,0,0.7481,0.2519,28.97,Optimal,Optimal: Maintain current allocation,0.005,61.63,Elevated,14.85,Low
+Madhya Pradesh,Datia,90119.0,0,18.07,1.6,Watch,0,0.584,0.416,36.71,Optimal,Optimal: Maintain current allocation,0.008,66.94,Elevated,18.19,Medium
+Madhya Pradesh,Dewas,188881.0,0,26.06,-14.57,Good,0,0.7457,0.2543,46.25,Moderate,Monitor: Review weekly,0.005,85.01,Elevated,22.38,Medium
+Madhya Pradesh,Dhar,256618.0,0,20.94,-5.54,Good,0,0.6554,0.3446,30.75,Optimal,Optimal: Maintain current allocation,0.003,66.57,Elevated,15.88,Medium
+Madhya Pradesh,Dindori,132384.0,0,19.32,-3.86,Good,0,0.6386,0.3614,27.14,Optimal,Optimal: Maintain current allocation,0.005,60.04,Elevated,14.15,Low
+Madhya Pradesh,East Nimar,53658.0,0,12.88,-21.59,Excellent,0,0.8159,0.1841,34.09,Optimal,Optimal: Maintain current allocation,0.001,61.3,Elevated,16.36,Medium
+Madhya Pradesh,Guna,219804.0,0,45.71,-15.48,Good,0,0.7548,0.2452,40.68,Moderate,Monitor: Review weekly,0.003,56.55,Elevated,17.86,Medium
+Madhya Pradesh,Gwalior,232885.0,0,19.02,-4.18,Good,0,0.6418,0.3582,36.92,Optimal,Optimal: Maintain current allocation,0.005,63.95,Elevated,17.47,Medium
+Madhya Pradesh,Harda,61037.0,1,45.9,-23.02,Excellent,0,0.8302,0.1698,23.86,Optimal,Optimal: Maintain current allocation,0.031,56.39,Elevated,42.8,High
+Madhya Pradesh,Harda *,13644.0,0,15.85,-24.28,Excellent,0,0.8428,0.1571,26.82,Optimal,Optimal: Maintain current allocation,0.003,51.45,Elevated,13.19,Low
+Madhya Pradesh,Hoshangabad,120343.0,0,32.03,-29.32,Excellent,0,0.8932,0.1068,34.79,Optimal,Optimal: Maintain current allocation,0.002,73.58,Elevated,17.8,Medium
+Madhya Pradesh,Indore,480071.0,0,34.04,-0.72,Good,0,0.6072,0.3928,34.87,Optimal,Optimal: Maintain current allocation,0.004,104.13,Critical,20.46,Medium
+Madhya Pradesh,Jabalpur,278481.0,0,18.4,-6.35,Good,0,0.6635,0.3365,44.1,Moderate,Monitor: Review weekly,0.003,80.61,Elevated,21.29,Medium
+Madhya Pradesh,Jhabua,137232.0,0,19.03,-9.39,Good,0,0.6939,0.3061,35.22,Optimal,Optimal: Maintain current allocation,0.006,73.4,Elevated,17.91,Medium
+Madhya Pradesh,Katni,173777.0,0,18.53,-6.68,Good,0,0.6668,0.3332,36.78,Optimal,Optimal: Maintain current allocation,0.009,105.53,Critical,21.03,Medium
+Madhya Pradesh,Khandwa,85219.0,0,21.12,-18.92,Good,0,0.7892,0.2108,31.73,Optimal,Optimal: Maintain current allocation,0.002,62.91,Elevated,15.81,Medium
+Madhya Pradesh,Khargone,231011.0,0,24.33,-21.75,Excellent,0,0.8175,0.1825,27.34,Optimal,Optimal: Maintain current allocation,0.004,82.76,Elevated,16.48,Medium
+Madhya Pradesh,Maihar,5883.0,0,8.05,31.07,Concern,1,0.2893,0.7106,23.06,Optimal,Optimal: Maintain current allocation,0.002,52.31,Elevated,21.47,Medium
+Madhya Pradesh,Mandla,133888.0,0,9.38,3.13,Watch,0,0.5687,0.4313,25.2,Optimal,Optimal: Maintain current allocation,0.003,51.43,Elevated,13.64,Low
+Madhya Pradesh,Mandsaur,167438.0,0,8.75,-7.21,Good,0,0.6721,0.3279,22.77,Optimal,Optimal: Maintain current allocation,0.003,60.36,Elevated,12.87,Low
+Madhya Pradesh,Mauganj,5413.0,0,9.96,37.58,Concern,1,0.2242,0.7756,25.48,Optimal,Optimal: Maintain current allocation,0.001,51.36,Elevated,24.05,Medium
+Madhya Pradesh,Morena,300714.0,1,56.05,-2.52,Good,0,0.6252,0.3748,30.4,Optimal,Optimal: Maintain current allocation,0.01,82.33,Elevated,47.35,High
+Madhya Pradesh,Narmadapuram,14037.0,0,5.01,3.48,Watch,0,0.5652,0.4347,22.9,Optimal,Optimal: Maintain current allocation,0.001,50.39,Elevated,12.95,Low
+Madhya Pradesh,Narsimhapur,15670.0,0,3.65,-11.35,Good,0,0.7135,0.2864,26.59,Optimal,Optimal: Maintain current allocation,0.001,48.46,Elevated,12.82,Low
+Madhya Pradesh,Narsinghpur,99244.0,0,11.37,-13.04,Good,0,0.7304,0.2696,30.03,Optimal,Optimal: Maintain current allocation,0.003,62.28,Elevated,15.24,Medium
+Madhya Pradesh,Neemuch,103626.0,0,17.99,-3.51,Good,0,0.6351,0.3649,42.48,Moderate,Monitor: Review weekly,0.003,54.06,Elevated,18.15,Medium
+Madhya Pradesh,Niwari,4195.0,0,4.26,1.99,Watch,0,0.5801,0.4197,17.5,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,50.71,Elevated,10.92,Low
+Madhya Pradesh,Pandhurna,1268.0,0,7.94,26.59,Concern,1,0.3341,0.6651,16.39,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,39.16,Normal,16.81,Medium
+Madhya Pradesh,Panna,158255.0,0,17.82,-12.14,Good,0,0.7214,0.2786,23.13,Optimal,Optimal: Maintain current allocation,0.006,44.73,Normal,11.41,Low
+Madhya Pradesh,Raisen,181028.0,0,15.9,-15.77,Good,0,0.7577,0.2423,24.66,Optimal,Optimal: Maintain current allocation,0.003,66.39,Elevated,14.04,Low
+Madhya Pradesh,Rajgarh,234896.0,0,35.05,-21.64,Excellent,0,0.8164,0.1836,20.25,Optimal,Optimal: Maintain current allocation,0.006,79.31,Elevated,14.01,Low
+Madhya Pradesh,Ratlam,259938.0,1,49.4,-9.16,Good,0,0.6916,0.3084,50.4,Moderate,Monitor: Review weekly,0.012,104.68,Critical,55.12,Critical
+Madhya Pradesh,Rewa,305285.0,0,18.83,-11.94,Good,0,0.7194,0.2806,25.82,Optimal,Optimal: Maintain current allocation,0.002,82.88,Elevated,16.03,Medium
+Madhya Pradesh,Sagar,326189.0,0,21.51,-12.57,Good,0,0.7257,0.2743,28.32,Optimal,Optimal: Maintain current allocation,0.003,99.89,Critical,18.48,Medium
+Madhya Pradesh,Satna,295213.0,0,14.67,-9.85,Good,0,0.6985,0.3015,27.9,Optimal,Optimal: Maintain current allocation,0.003,84.13,Elevated,16.78,Medium
+Madhya Pradesh,Sehore,168615.0,0,23.33,-23.12,Excellent,0,0.8312,0.1688,34.78,Optimal,Optimal: Maintain current allocation,0.004,81.8,Elevated,18.61,Medium
+Madhya Pradesh,Seoni,183697.0,0,10.82,1.12,Watch,0,0.5888,0.4112,24.67,Optimal,Optimal: Maintain current allocation,0.004,54.89,Elevated,13.23,Low
+Madhya Pradesh,Shahdol,173933.0,0,11.58,-7.89,Good,0,0.6789,0.3211,35.46,Optimal,Optimal: Maintain current allocation,0.003,86.7,Elevated,19.31,Medium
+Madhya Pradesh,Shajapur,175915.0,0,18.71,-21.83,Excellent,0,0.8183,0.1817,31.19,Optimal,Optimal: Maintain current allocation,0.002,62.43,Elevated,15.6,Medium
+Madhya Pradesh,Sheopur,109910.0,0,44.17,-4.03,Good,0,0.6403,0.3597,26.17,Optimal,Optimal: Maintain current allocation,0.022,62.27,Elevated,14.08,Low
+Madhya Pradesh,Shivpuri,261101.0,0,28.31,-12.94,Good,0,0.7294,0.2706,29.5,Optimal,Optimal: Maintain current allocation,0.004,72.44,Elevated,16.09,Medium
+Madhya Pradesh,Sidhi,206573.0,1,56.64,-13.27,Good,0,0.7327,0.2673,31.98,Optimal,Optimal: Maintain current allocation,0.006,58.5,Elevated,45.44,High
+Madhya Pradesh,Singrauli,193369.0,1,55.83,-9.93,Good,0,0.6993,0.3007,39.99,Optimal,Optimal: Maintain current allocation,0.006,68.28,Elevated,48.82,High
+Madhya Pradesh,Tikamgarh,232998.0,0,27.71,-17.49,Good,0,0.7749,0.2251,27.83,Optimal,Optimal: Maintain current allocation,0.005,73.71,Elevated,15.72,Medium
+Madhya Pradesh,Ujjain,259005.0,0,15.0,-9.53,Good,0,0.6953,0.3047,29.95,Optimal,Optimal: Maintain current allocation,0.004,101.84,Critical,18.98,Medium
+Madhya Pradesh,Umaria,75447.0,0,12.19,0.24,Watch,0,0.5976,0.4024,31.28,Optimal,Optimal: Maintain current allocation,0.008,73.64,Elevated,16.82,Medium
+Madhya Pradesh,Vidisha,200824.0,0,34.26,-14.92,Good,0,0.7492,0.2507,31.14,Optimal,Optimal: Maintain current allocation,0.009,57.19,Elevated,15.06,Medium
+Madhya Pradesh,West Nimar,12651.0,0,16.39,-23.2,Excellent,0,0.832,0.168,36.63,Optimal,Optimal: Maintain current allocation,0.0,53.27,Elevated,16.32,Medium
+Maharashtra,Ahilyanagar,2443.0,0,27.55,58.98,Critical,1,0.0102,0.9894,20.73,Optimal,Optimal: Maintain current allocation,0.0,52.84,Elevated,29.2,Medium
+Maharashtra,Ahmadnagar,649613.0,0,43.62,-3.13,Good,0,0.6313,0.3687,31.48,Optimal,Optimal: Maintain current allocation,0.001,125.67,Critical,19.44,Medium
+Maharashtra,Ahmed Nagar,12500.0,0,14.67,7.54,Watch,0,0.5246,0.4753,28.77,Optimal,Optimal: Maintain current allocation,0.0,22.41,Normal,13.13,Low
+Maharashtra,Akola,273840.0,0,17.41,-16.01,Good,0,0.7601,0.2399,35.57,Optimal,Optimal: Maintain current allocation,0.002,71.8,Elevated,17.85,Medium
+Maharashtra,Amravati,486023.0,0,33.97,-19.37,Good,0,0.7937,0.2063,29.27,Optimal,Optimal: Maintain current allocation,0.002,78.12,Elevated,16.59,Medium
+Maharashtra,Aurangabad,518719.0,0,38.51,-8.71,Good,0,0.6871,0.3129,49.73,Moderate,Monitor: Review weekly,0.002,102.11,Critical,24.92,Medium
+Maharashtra,Beed,473908.0,0,37.99,-1.98,Good,0,0.6198,0.3802,39.14,Optimal,Optimal: Maintain current allocation,0.005,127.29,Critical,21.74,Medium
+Maharashtra,Bhandara,153905.0,0,15.96,-14.79,Good,0,0.7479,0.2521,25.89,Optimal,Optimal: Maintain current allocation,0.003,43.95,Normal,12.16,Low
+Maharashtra,Bid,23842.0,0,7.76,12.62,Watch,0,0.4738,0.5261,33.19,Optimal,Optimal: Maintain current allocation,0.001,20.23,Normal,15.77,Medium
+Maharashtra,Buldana,63962.0,0,6.32,-2.77,Good,0,0.6277,0.3723,30.61,Optimal,Optimal: Maintain current allocation,0.001,30.17,Normal,12.2,Low
+Maharashtra,Buldhana,365243.0,0,21.51,-7.93,Good,0,0.6793,0.3207,27.36,Optimal,Optimal: Maintain current allocation,0.003,62.65,Elevated,14.47,Low
+Maharashtra,Chandrapur,356311.0,0,19.61,-7.38,Good,0,0.6738,0.3261,35.34,Optimal,Optimal: Maintain current allocation,0.003,88.2,Elevated,19.42,Medium
+Maharashtra,Chatrapati Sambhaji Nagar,10579.0,0,21.39,32.22,Concern,1,0.2778,0.7221,34.91,Optimal,Optimal: Maintain current allocation,0.011,51.97,Elevated,25.34,Medium
+Maharashtra,Chhatrapati Sambhajinagar,20455.0,0,8.76,34.17,Concern,1,0.2583,0.7417,37.5,Optimal,Optimal: Maintain current allocation,0.0,55.87,Elevated,27.09,Medium
+Maharashtra,Dharashiv,3979.0,0,10.91,42.04,Critical,1,0.1796,0.8201,23.82,Optimal,Optimal: Maintain current allocation,0.0,51.38,Elevated,24.9,Medium
+Maharashtra,Dhule,286688.0,0,19.04,-17.75,Good,0,0.7775,0.2225,36.24,Optimal,Optimal: Maintain current allocation,0.003,80.27,Elevated,18.9,Medium
+Maharashtra,Dist : Thane,1.0,0,16.37,60.0,Critical,1,0.0,0.5,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,18.0,Medium
+Maharashtra,Gadchiroli,223222.0,0,35.2,-15.79,Good,0,0.7579,0.2421,26.2,Optimal,Optimal: Maintain current allocation,0.007,58.94,Elevated,13.75,Low
+Maharashtra,Gondia,2006.0,0,10.56,10.57,Watch,0,0.4943,0.5052,14.08,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,47.23,Elevated,12.12,Low
+Maharashtra,Gondiya,182265.0,0,22.03,-4.11,Good,0,0.6411,0.3589,27.92,Optimal,Optimal: Maintain current allocation,0.008,52.21,Elevated,13.6,Low
+Maharashtra,Gondiya *,3756.0,0,11.21,16.29,Watch,0,0.4371,0.5627,23.41,Optimal,Optimal: Maintain current allocation,0.001,31.02,Normal,15.01,Medium
+Maharashtra,Hingoli,230575.0,0,36.33,3.12,Watch,0,0.5688,0.4312,35.3,Optimal,Optimal: Maintain current allocation,0.014,77.37,Elevated,19.26,Medium
+Maharashtra,Hingoli *,12.0,0,11.2,-9.23,Good,0,0.6923,0.2308,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-3.15,Low,0.04,Low
+Maharashtra,Jalgaon,628618.0,0,38.39,-15.07,Good,0,0.7507,0.2493,35.41,Optimal,Optimal: Maintain current allocation,0.001,149.22,Critical,20.62,Medium
+Maharashtra,Jalna,297639.0,0,17.35,-12.09,Good,0,0.7209,0.2791,36.43,Optimal,Optimal: Maintain current allocation,0.004,63.75,Elevated,17.3,Medium
+Maharashtra,Kolhapur,437101.0,0,23.78,-9.32,Good,0,0.6932,0.3068,29.53,Optimal,Optimal: Maintain current allocation,0.001,78.84,Elevated,16.74,Medium
+Maharashtra,Latur,406444.0,0,31.26,-8.21,Good,0,0.6821,0.3179,31.18,Optimal,Optimal: Maintain current allocation,0.004,75.47,Elevated,16.9,Medium
+Maharashtra,Mumbai,598387.0,1,52.82,-16.69,Good,0,0.7669,0.2331,34.93,Optimal,Optimal: Maintain current allocation,0.001,148.87,Critical,50.48,Critical
+Maharashtra,Mumbai City,108585.0,0,3.29,8.69,Watch,0,0.5131,0.4869,31.12,Optimal,Optimal: Maintain current allocation,0.001,51.66,Elevated,17.11,Medium
+Maharashtra,Mumbai Suburban,405789.0,0,17.45,8.31,Watch,0,0.5169,0.4831,27.97,Optimal,Optimal: Maintain current allocation,0.001,109.6,Critical,20.88,Medium
+Maharashtra,Mumbai( Sub Urban ),9418.0,0,14.4,-0.68,Good,0,0.6068,0.3931,20.13,Optimal,Optimal: Maintain current allocation,0.0,37.32,Normal,9.77,Low
+Maharashtra,Nagpur,564850.0,0,33.67,-11.25,Good,0,0.7125,0.2875,29.29,Optimal,Optimal: Maintain current allocation,0.001,94.94,Critical,18.28,Medium
+Maharashtra,Nanded,635133.0,0,43.96,-1.95,Good,0,0.6195,0.3805,33.65,Optimal,Optimal: Maintain current allocation,0.002,104.47,Critical,20.1,Medium
+Maharashtra,Nandurbar,278385.0,0,36.51,-24.96,Excellent,0,0.8496,0.1504,33.19,Optimal,Optimal: Maintain current allocation,0.004,77.57,Elevated,17.71,Medium
+Maharashtra,Nandurbar *,2473.0,0,15.82,-14.82,Good,0,0.7482,0.2514,19.5,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,50.41,Elevated,10.89,Low
+Maharashtra,Nashik,918359.0,1,57.97,-12.38,Good,0,0.7238,0.2762,36.67,Optimal,Optimal: Maintain current allocation,0.001,167.65,Critical,51.0,Critical
+Maharashtra,Osmanabad,286154.0,0,13.47,-0.78,Good,0,0.6078,0.3922,31.38,Optimal,Optimal: Maintain current allocation,0.003,68.65,Elevated,16.28,Medium
+Maharashtra,Palghar,306338.0,0,9.55,1.07,Watch,0,0.5893,0.4107,36.89,Optimal,Optimal: Maintain current allocation,0.002,66.59,Elevated,18.05,Medium
+Maharashtra,Parbhani,327571.0,0,30.61,-3.1,Good,0,0.631,0.369,30.97,Optimal,Optimal: Maintain current allocation,0.007,62.58,Elevated,15.55,Medium
+Maharashtra,Pune,1148723.0,1,59.63,-0.96,Good,0,0.6096,0.3904,30.55,Optimal,Optimal: Maintain current allocation,0.001,216.28,Critical,49.16,High
+Maharashtra,Raigad,59797.0,0,37.98,31.96,Concern,1,0.2804,0.7196,59.61,Moderate,Monitor: Review weekly,0.0,61.84,Elevated,33.66,High
+Maharashtra,Raigarh,267827.0,0,10.73,-6.77,Good,0,0.6677,0.3323,45.79,Moderate,Monitor: Review weekly,0.001,63.03,Elevated,20.04,Medium
+Maharashtra,Raigarh(MH),1476.0,0,11.04,20.12,Concern,1,0.3988,0.6005,19.02,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,34.24,Normal,15.17,Medium
+Maharashtra,Ratnagiri,213320.0,0,13.42,-14.24,Good,0,0.7424,0.2576,34.8,Optimal,Optimal: Maintain current allocation,0.0,65.56,Elevated,17.0,Medium
+Maharashtra,Sangli,342394.0,0,16.52,-12.85,Good,0,0.7285,0.2715,40.06,Moderate,Monitor: Review weekly,0.001,82.14,Elevated,20.23,Medium
+Maharashtra,Satara,337122.0,0,18.76,-9.93,Good,0,0.6993,0.3007,34.87,Optimal,Optimal: Maintain current allocation,0.001,94.44,Critical,19.9,Medium
+Maharashtra,Sindhudurg,83415.0,0,4.03,-5.37,Good,0,0.6537,0.3463,33.84,Optimal,Optimal: Maintain current allocation,0.0,38.6,Normal,14.01,Low
+Maharashtra,Solapur,655052.0,0,37.01,1.83,Watch,0,0.5817,0.4183,36.34,Optimal,Optimal: Maintain current allocation,0.001,137.91,Critical,21.45,Medium
+Maharashtra,Thane,1140683.0,1,71.62,-0.08,Good,0,0.6008,0.3992,46.27,Moderate,Monitor: Review weekly,0.001,232.78,Critical,53.88,Critical
+Maharashtra,Wardha,175856.0,0,19.7,-22.1,Excellent,0,0.821,0.179,39.43,Optimal,Optimal: Maintain current allocation,0.004,57.77,Elevated,17.61,Medium
+Maharashtra,Washim,207414.0,0,27.38,-13.37,Good,0,0.7337,0.2663,29.84,Optimal,Optimal: Maintain current allocation,0.008,68.85,Elevated,15.84,Medium
+Maharashtra,Washim *,1963.0,0,9.03,11.27,Watch,0,0.4873,0.5122,15.72,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,26.95,Normal,10.79,Low
+Maharashtra,Yavatmal,577546.0,1,51.12,-4.68,Good,0,0.6468,0.3532,28.3,Optimal,Optimal: Maintain current allocation,0.004,113.48,Critical,48.49,High
+Manipur,Bishnupur,77326.0,0,36.98,16.56,Watch,0,0.4344,0.5656,26.64,Optimal,Optimal: Maintain current allocation,0.015,35.28,Normal,16.49,Medium
+Manipur,Chandel,19445.0,0,3.26,8.03,Watch,0,0.5197,0.4803,28.44,Optimal,Optimal: Maintain current allocation,0.003,20.04,Normal,12.94,Low
+Manipur,Churachandpur,41212.0,0,5.75,7.34,Watch,0,0.5266,0.4733,51.6,Moderate,Monitor: Review weekly,0.003,19.69,Normal,19.65,Medium
+Manipur,Imphal East,122077.0,0,11.62,7.34,Watch,0,0.5266,0.4734,36.94,Optimal,Optimal: Maintain current allocation,0.007,36.74,Normal,16.96,Medium
+Manipur,Imphal West,129068.0,0,10.41,6.66,Watch,0,0.5334,0.4666,38.71,Optimal,Optimal: Maintain current allocation,0.004,31.36,Normal,16.75,Medium
+Manipur,Jiribam,4127.0,0,5.86,8.69,Watch,0,0.5131,0.4867,25.84,Optimal,Optimal: Maintain current allocation,0.007,50.51,Elevated,15.41,Medium
+Manipur,Kakching,5641.0,0,7.6,19.87,Watch,0,0.4013,0.5985,30.5,Optimal,Optimal: Maintain current allocation,0.005,46.01,Normal,19.71,Medium
+Manipur,Kangpokpi,3.0,0,23.79,60.0,Critical,1,0.0,0.75,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,-0.37,Low,18.02,Medium
+Manipur,Pherzawl,178.0,0,9.22,58.88,Critical,1,0.0112,0.9832,21.06,Optimal,Optimal: Maintain current allocation,0.003,49.88,Elevated,28.97,Medium
+Manipur,Senapati,51559.0,0,1.35,10.32,Watch,0,0.4968,0.5032,41.68,Moderate,Monitor: Review weekly,0.001,6.44,Normal,16.24,Medium
+Manipur,Tamenglong,19688.0,0,5.26,14.83,Watch,0,0.4517,0.5482,28.85,Optimal,Optimal: Maintain current allocation,0.002,5.29,Normal,13.63,Low
+Manipur,Thoubal,122857.0,0,23.9,9.77,Watch,0,0.5023,0.4976,46.85,Moderate,Monitor: Review weekly,0.017,65.25,Elevated,23.51,Medium
+Manipur,Ukhrul,30632.0,0,8.91,11.11,Watch,0,0.4889,0.5111,43.5,Moderate,Monitor: Review weekly,0.006,-0.81,Low,16.38,Medium
+Meghalaya,East Garo Hills,9696.0,0,13.48,25.81,Concern,1,0.3419,0.658,34.64,Optimal,Optimal: Maintain current allocation,0.002,8.82,Normal,19.02,Medium
+Meghalaya,East Jaintia Hills,6664.0,0,7.45,12.8,Watch,0,0.472,0.5278,31.13,Optimal,Optimal: Maintain current allocation,0.008,24.46,Normal,15.62,Medium
+Meghalaya,East Khasi Hills,39597.0,0,1.77,1.99,Watch,0,0.5801,0.4199,31.77,Optimal,Optimal: Maintain current allocation,0.0,13.61,Normal,11.49,Low
+Meghalaya,Eastern West Khasi Hills,316.0,0,10.22,56.85,Critical,1,0.0315,0.9653,14.67,Under-utilized,Consider: Reallocate resources to high-load areas,0.003,23.59,Normal,23.82,Medium
+Meghalaya,Jaintia Hills,34.0,0,5.85,34.29,Concern,1,0.2571,0.7143,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,4.68,Normal,10.78,Low
+Meghalaya,North Garo Hills,5193.0,0,11.18,34.07,Concern,1,0.2593,0.7405,22.6,Optimal,Optimal: Maintain current allocation,0.001,10.25,Normal,18.03,Medium
+Meghalaya,Ri Bhoi,13655.0,0,4.78,21.29,Concern,1,0.3871,0.6128,31.1,Optimal,Optimal: Maintain current allocation,0.002,28.26,Normal,18.54,Medium
+Meghalaya,South Garo Hills,5464.0,0,11.98,33.39,Concern,1,0.2661,0.7338,20.45,Optimal,Optimal: Maintain current allocation,0.002,21.61,Normal,18.31,Medium
+Meghalaya,South West Garo Hills,12838.0,0,9.28,16.41,Watch,0,0.4359,0.564,26.5,Optimal,Optimal: Maintain current allocation,0.004,30.38,Normal,15.91,Medium
+Meghalaya,South West Khasi Hills,8928.0,0,7.41,13.42,Watch,0,0.4658,0.5341,26.71,Optimal,Optimal: Maintain current allocation,0.004,8.3,Normal,12.87,Low
+Meghalaya,West Garo Hills,51838.0,0,18.61,-10.25,Good,0,0.7025,0.2975,37.5,Optimal,Optimal: Maintain current allocation,0.003,7.35,Normal,11.98,Low
+Meghalaya,West Jaintia Hills,14987.0,0,13.8,11.11,Watch,0,0.4889,0.511,44.28,Moderate,Monitor: Review weekly,0.009,35.1,Normal,20.13,Medium
+Meghalaya,West Khasi Hills,17599.0,0,16.57,20.84,Concern,1,0.3916,0.6084,31.91,Optimal,Optimal: Maintain current allocation,0.008,36.57,Normal,19.48,Medium
+Mizoram,Aizawl,57865.0,0,31.27,-17.33,Good,0,0.7733,0.2266,47.44,Moderate,Monitor: Review weekly,0.001,24.45,Normal,16.68,Medium
+Mizoram,Champhai,27274.0,1,49.58,-16.11,Good,0,0.7611,0.2388,30.2,Optimal,Optimal: Maintain current allocation,0.002,8.68,Normal,39.93,High
+Mizoram,Hnahthial,64.0,0,7.44,33.85,Concern,1,0.2615,0.7231,12.81,Under-utilized,Consider: Reallocate resources to high-load areas,0.003,13.55,Normal,15.35,Medium
+Mizoram,Khawzawl,43.0,0,10.92,41.82,Critical,1,0.1818,0.7955,6.29,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,8.5,Normal,15.28,Medium
+Mizoram,Kolasib,16450.0,0,34.69,-15.93,Good,0,0.7593,0.2407,40.75,Moderate,Monitor: Review weekly,0.001,19.2,Normal,14.14,Low
+Mizoram,Lawngtlai,20483.0,0,25.35,-17.85,Good,0,0.7785,0.2215,34.33,Optimal,Optimal: Maintain current allocation,0.007,53.89,Elevated,15.69,Medium
+Mizoram,Lunglei,24099.0,0,30.8,-9.09,Good,0,0.6909,0.3091,31.75,Optimal,Optimal: Maintain current allocation,0.001,16.8,Normal,11.2,Low
+Mizoram,Mamit,12800.0,1,57.65,-25.56,Excellent,0,0.8556,0.1443,33.59,Optimal,Optimal: Maintain current allocation,0.002,44.18,Normal,44.5,High
+Mizoram,Mammit,3541.0,0,24.54,-21.99,Excellent,0,0.8199,0.1798,20.71,Optimal,Optimal: Maintain current allocation,0.001,14.2,Normal,7.63,Low
+Mizoram,Saiha,7886.0,0,38.26,-15.58,Good,0,0.7558,0.2441,33.14,Optimal,Optimal: Maintain current allocation,0.005,35.34,Normal,13.48,Low
+Mizoram,Saitual,212.0,0,6.86,21.97,Concern,1,0.3803,0.615,14.77,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,34.65,Normal,14.49,Low
+Mizoram,Serchhip,12741.0,1,48.32,-20.54,Excellent,0,0.8054,0.1945,22.64,Optimal,Optimal: Maintain current allocation,0.002,-1.27,Low,36.79,High
+Nagaland,Chumukedima,2551.0,0,7.0,33.24,Concern,1,0.2676,0.732,20.12,Optimal,Optimal: Maintain current allocation,0.002,23.15,Normal,18.32,Medium
+Nagaland,Dimapur,36398.0,0,10.69,-17.35,Good,0,0.7735,0.2265,49.8,Moderate,Monitor: Review weekly,0.006,24.39,Normal,17.38,Medium
+Nagaland,Kiphire,6599.0,0,10.04,-10.32,Good,0,0.7032,0.2967,24.81,Optimal,Optimal: Maintain current allocation,0.015,41.27,Normal,11.57,Low
+Nagaland,Kohima,19080.0,0,15.32,-22.24,Excellent,0,0.8224,0.1776,38.0,Optimal,Optimal: Maintain current allocation,0.002,52.71,Elevated,16.67,Medium
+Nagaland,Longleng,3618.0,0,8.1,-17.2,Good,0,0.772,0.2277,37.37,Optimal,Optimal: Maintain current allocation,0.005,39.74,Normal,15.18,Medium
+Nagaland,Meluri,1087.0,0,36.9,-31.08,Excellent,0,0.9108,0.0882,32.2,Optimal,Optimal: Maintain current allocation,0.025,50.27,Elevated,14.69,Low
+Nagaland,Mokokchung,12539.0,0,7.77,-17.74,Good,0,0.7774,0.2225,35.66,Optimal,Optimal: Maintain current allocation,0.002,52.22,Elevated,15.92,Medium
+Nagaland,Mon,21448.0,0,11.8,-17.97,Good,0,0.7797,0.2203,28.63,Optimal,Optimal: Maintain current allocation,0.007,8.93,Normal,9.48,Low
+Nagaland,Niuland,671.0,0,8.16,16.25,Watch,0,0.4375,0.561,13.7,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,44.99,Normal,13.48,Low
+Nagaland,Noklak,1260.0,0,7.12,-2.33,Good,0,0.6233,0.3759,17.55,Under-utilized,Consider: Reallocate resources to high-load areas,0.012,34.15,Normal,8.68,Low
+Nagaland,Peren,7055.0,0,5.38,-12.93,Good,0,0.7293,0.2705,27.99,Optimal,Optimal: Maintain current allocation,0.003,50.9,Elevated,13.49,Low
+Nagaland,Phek,10741.0,0,23.54,-25.73,Excellent,0,0.8573,0.1426,26.13,Optimal,Optimal: Maintain current allocation,0.003,50.96,Elevated,12.93,Low
+Nagaland,Shamator,628.0,0,11.0,29.63,Concern,1,0.3037,0.6948,18.13,Under-utilized,Consider: Reallocate resources to high-load areas,0.013,50.13,Elevated,19.34,Medium
+Nagaland,Tseminyu,291.0,0,6.75,-8.15,Good,0,0.6815,0.3151,12.86,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,17.56,Normal,5.61,Low
+Nagaland,Tuensang,15583.0,0,6.47,-12.73,Good,0,0.7273,0.2727,42.34,Moderate,Monitor: Review weekly,0.004,52.23,Elevated,17.92,Medium
+Nagaland,Wokha,10534.0,0,23.12,-21.74,Excellent,0,0.8174,0.1825,36.33,Optimal,Optimal: Maintain current allocation,0.006,15.48,Normal,12.45,Low
+Nagaland,Zunheboto,11019.0,0,17.12,-17.08,Good,0,0.7708,0.2291,42.69,Moderate,Monitor: Review weekly,0.003,51.99,Elevated,18.01,Medium
+Nagpur,Near Uday nagar NIT garden,1.0,0,16.37,60.0,Critical,1,0.0,0.5,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,18.0,Medium
+ODISHA,NUAPADA,84.0,0,5.84,20.0,Watch,0,0.4,0.5882,8.95,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,25.5,Normal,11.24,Low
+Odisha,ANGUL,14.0,0,7.73,26.67,Concern,1,0.3333,0.6,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,7.96,Normal,8.8,Low
+Odisha,ANUGUL,399.0,0,6.22,-3.5,Good,0,0.635,0.3625,10.67,Under-utilized,Consider: Reallocate resources to high-load areas,0.005,42.75,Normal,7.48,Low
+Odisha,Angul,102290.0,0,1.64,-10.59,Good,0,0.7059,0.2941,27.49,Optimal,Optimal: Maintain current allocation,0.001,65.72,Elevated,14.82,Low
+Odisha,Anugal,15.0,0,9.47,35.0,Concern,1,0.25,0.6875,7.65,Under-utilized,Consider: Reallocate resources to high-load areas,0.003,5.88,Normal,13.38,Low
+Odisha,Anugul,3319.0,0,5.96,4.7,Watch,0,0.553,0.4467,18.51,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,25.54,Normal,9.52,Low
+Odisha,BALANGIR,1.0,0,13.13,10.0,Watch,0,0.5,0.0,0.0,Optimal,,,-0.38,Low,3.0,Low
+Odisha,Balangir,138114.0,0,4.38,-12.01,Good,0,0.7201,0.2799,25.99,Optimal,Optimal: Maintain current allocation,0.001,51.11,Elevated,12.91,Low
+Odisha,Baleshwar,33832.0,0,6.37,-8.91,Good,0,0.6891,0.3109,19.62,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,33.79,Normal,9.26,Low
+Odisha,Baleswar,163758.0,0,11.68,-13.19,Good,0,0.7319,0.2681,24.21,Optimal,Optimal: Maintain current allocation,0.0,55.31,Elevated,12.79,Low
+Odisha,Balianta,1.0,0,16.37,60.0,Critical,1,0.0,0.5,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,18.0,Medium
+Odisha,Bargarh,125758.0,0,5.04,-11.83,Good,0,0.7183,0.2817,27.04,Optimal,Optimal: Maintain current allocation,0.001,49.87,Elevated,13.1,Low
+Odisha,Baudh,6379.0,0,14.9,-21.91,Excellent,0,0.8191,0.1807,19.43,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,51.23,Elevated,10.95,Low
+Odisha,Bhadrak,144072.0,0,6.81,-11.75,Good,0,0.7175,0.2825,27.13,Optimal,Optimal: Maintain current allocation,0.001,51.74,Elevated,13.31,Low
+Odisha,Bhadrak(R),1.0,0,16.37,60.0,Critical,1,0.0,0.5,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,18.0,Medium
+Odisha,Boudh,36426.0,0,4.33,-14.35,Good,0,0.7435,0.2564,25.16,Optimal,Optimal: Maintain current allocation,0.002,43.14,Normal,11.86,Low
+Odisha,Cuttack,197377.0,0,16.96,-15.02,Good,0,0.7502,0.2498,27.69,Optimal,Optimal: Maintain current allocation,0.0,56.41,Elevated,13.95,Low
+Odisha,Debagarh,26340.0,0,5.02,-9.48,Good,0,0.6948,0.3051,27.98,Optimal,Optimal: Maintain current allocation,0.005,54.75,Elevated,13.87,Low
+Odisha,Dhenkanal,115904.0,0,5.23,-13.99,Good,0,0.7399,0.2601,22.61,Optimal,Optimal: Maintain current allocation,0.002,51.6,Elevated,11.94,Low
+Odisha,Gajapati,89293.0,0,6.46,-15.56,Good,0,0.7556,0.2444,29.71,Optimal,Optimal: Maintain current allocation,0.001,33.45,Normal,12.26,Low
+Odisha,Ganjam,300826.0,0,15.82,-7.9,Good,0,0.679,0.321,23.13,Optimal,Optimal: Maintain current allocation,0.0,79.95,Elevated,14.93,Low
+Odisha,JAJPUR,59071.0,0,4.56,-7.93,Good,0,0.6793,0.3206,21.87,Optimal,Optimal: Maintain current allocation,0.0,38.76,Normal,10.44,Low
+Odisha,Jagatsinghapur,69696.0,0,8.58,-17.1,Good,0,0.771,0.229,27.73,Optimal,Optimal: Maintain current allocation,0.001,59.05,Elevated,14.22,Low
+Odisha,Jagatsinghpur,18969.0,0,5.21,-11.73,Good,0,0.7173,0.2826,27.57,Optimal,Optimal: Maintain current allocation,0.0,28.16,Normal,11.09,Low
+Odisha,Jajapur,93940.0,0,3.99,-11.35,Good,0,0.7135,0.2865,25.95,Optimal,Optimal: Maintain current allocation,0.0,42.03,Normal,11.99,Low
+Odisha,Jajpur,542.0,0,5.4,3.83,Watch,0,0.5617,0.4365,16.6,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,44.67,Normal,10.6,Low
+Odisha,Jharsuguda,47079.0,0,0.03,-3.79,Good,0,0.6379,0.3621,25.42,Optimal,Optimal: Maintain current allocation,0.001,25.0,Normal,10.13,Low
+Odisha,Kalahandi,155755.0,0,3.93,-8.84,Good,0,0.6884,0.3116,24.02,Optimal,Optimal: Maintain current allocation,0.002,51.77,Elevated,12.38,Low
+Odisha,Kandhamal,103451.0,0,1.89,-8.85,Good,0,0.6885,0.3115,28.09,Optimal,Optimal: Maintain current allocation,0.001,41.66,Normal,12.59,Low
+Odisha,Kendrapara,129612.0,0,3.27,-8.81,Good,0,0.6881,0.3119,29.47,Optimal,Optimal: Maintain current allocation,0.001,45.85,Normal,13.43,Low
+Odisha,Kendujhar,171027.0,0,3.93,-7.7,Good,0,0.677,0.323,24.31,Optimal,Optimal: Maintain current allocation,0.001,63.66,Elevated,13.66,Low
+Odisha,Khorda,142540.0,0,9.65,-13.12,Good,0,0.7312,0.2688,25.62,Optimal,Optimal: Maintain current allocation,0.0,53.05,Elevated,12.99,Low
+Odisha,Khordha,14660.0,0,10.6,-7.73,Good,0,0.6773,0.3226,17.37,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,31.17,Normal,8.33,Low
+Odisha,Koraput,161802.0,0,5.87,-13.9,Good,0,0.739,0.261,29.77,Optimal,Optimal: Maintain current allocation,0.001,51.54,Elevated,14.08,Low
+Odisha,Malkangiri,75202.0,0,12.31,-11.65,Good,0,0.7165,0.2835,32.02,Optimal,Optimal: Maintain current allocation,0.004,64.62,Elevated,16.07,Medium
+Odisha,Mayurbhanj,246840.0,0,10.75,-10.44,Good,0,0.7044,0.2956,24.51,Optimal,Optimal: Maintain current allocation,0.0,57.26,Elevated,13.08,Low
+Odisha,NAYAGARH,9.0,0,30.81,-30.0,Excellent,0,0.9,0.0,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,0.04,Low
+Odisha,NUAPADA,630.0,0,7.4,11.03,Watch,0,0.4897,0.5087,21.62,Optimal,Optimal: Maintain current allocation,0.002,39.45,Normal,13.74,Low
+Odisha,Nabarangapur,146578.0,0,9.5,-10.92,Good,0,0.7092,0.2908,26.67,Optimal,Optimal: Maintain current allocation,0.003,56.91,Elevated,13.69,Low
+Odisha,Nayagarh,91557.0,0,2.75,-14.61,Good,0,0.7461,0.2539,26.05,Optimal,Optimal: Maintain current allocation,0.001,42.64,Normal,12.08,Low
+Odisha,Nuapada,70520.0,0,17.09,-14.32,Good,0,0.7432,0.2568,21.25,Optimal,Optimal: Maintain current allocation,0.01,60.23,Elevated,12.4,Low
+Odisha,Puri,111177.0,0,2.44,-11.81,Good,0,0.7181,0.2819,30.73,Optimal,Optimal: Maintain current allocation,0.001,54.39,Elevated,14.66,Low
+Odisha,Rayagada,98262.0,0,2.12,-7.63,Good,0,0.6763,0.3237,28.49,Optimal,Optimal: Maintain current allocation,0.002,57.9,Elevated,14.34,Low
+Odisha,Sambalpur,88449.0,0,0.31,-5.42,Good,0,0.6542,0.3458,27.49,Optimal,Optimal: Maintain current allocation,0.001,42.07,Normal,12.45,Low
+Odisha,Sonapur,43829.0,0,8.09,-9.37,Good,0,0.6937,0.3063,24.49,Optimal,Optimal: Maintain current allocation,0.004,46.83,Elevated,12.03,Low
+Odisha,Subarnapur,11899.0,0,3.91,-3.5,Good,0,0.635,0.365,21.55,Optimal,Optimal: Maintain current allocation,0.001,37.32,Normal,10.2,Low
+Odisha,Sundargarh,23331.0,0,5.16,-9.44,Good,0,0.6944,0.3055,21.24,Optimal,Optimal: Maintain current allocation,0.0,33.77,Normal,9.75,Low
+Odisha,Sundergarh,150113.0,0,6.64,-11.22,Good,0,0.7122,0.2878,26.16,Optimal,Optimal: Maintain current allocation,0.0,55.47,Elevated,13.4,Low
+Odisha,jajpur,376.0,0,7.53,1.91,Watch,0,0.5809,0.4164,13.42,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,17.88,Normal,6.39,Low
+Orissa,Angul,5.0,0,9.96,26.67,Concern,1,0.3333,0.5,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,8.0,Low
+Orissa,Anugul,421.0,0,8.48,10.24,Watch,0,0.4976,0.5,6.87,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,49.78,Elevated,10.11,Low
+Orissa,Anugul  *,1.0,0,13.13,10.0,Watch,0,0.5,0.0,0.0,Optimal,,,-0.38,Low,3.0,Low
+Orissa,Balangir,17855.0,0,4.38,-12.28,Good,0,0.7228,0.2771,22.8,Optimal,Optimal: Maintain current allocation,0.0,53.33,Elevated,12.17,Low
+Orissa,Baleshwar,6120.0,0,7.95,-6.61,Good,0,0.6661,0.3338,13.86,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,31.22,Normal,7.28,Low
+Orissa,Baleswar,17.0,0,8.27,-1.11,Good,0,0.6111,0.3333,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,-4.91,Low,0.02,Low
+Orissa,Bargarh,1871.0,0,4.71,1.13,Watch,0,0.5887,0.4108,21.45,Optimal,Optimal: Maintain current allocation,0.0,50.24,Elevated,11.8,Low
+Orissa,Baudh,9.0,0,8.51,10.0,Watch,0,0.5,0.4,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,-0.37,Low,3.02,Low
+Orissa,Bhadrak,8619.0,0,6.55,-9.37,Good,0,0.6937,0.3061,25.83,Optimal,Optimal: Maintain current allocation,0.0,51.36,Elevated,12.88,Low
+Orissa,Cuttack,8799.0,0,15.49,-16.57,Good,0,0.7657,0.2342,25.83,Optimal,Optimal: Maintain current allocation,0.0,32.95,Normal,11.04,Low
+Orissa,Debagarh,12.0,0,4.62,21.54,Concern,1,0.3846,0.5385,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,5.88,Normal,7.07,Low
+Orissa,Dhenkanal,2377.0,0,6.89,-10.86,Good,0,0.7086,0.291,15.93,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,41.27,Normal,8.91,Low
+Orissa,Gajapati,134.0,0,6.58,8.15,Watch,0,0.5185,0.4741,7.02,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,23.34,Normal,6.88,Low
+Orissa,Ganjam,12005.0,0,10.6,-3.58,Good,0,0.6358,0.3641,21.57,Optimal,Optimal: Maintain current allocation,0.0,33.43,Normal,9.81,Low
+Orissa,Jagatsinghapur,324.0,0,11.85,-14.77,Good,0,0.7477,0.2492,12.72,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,22.38,Normal,6.05,Low
+Orissa,Jajapur,1300.0,0,6.38,-2.57,Good,0,0.6257,0.3736,17.37,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,50.07,Elevated,10.22,Low
+Orissa,Jajapur  *,3.0,0,10.67,60.0,Critical,1,0.0,0.75,0.0,Optimal,,,-0.38,Low,18.0,Medium
+Orissa,Jharsuguda,190.0,0,5.71,20.73,Concern,1,0.3927,0.6021,11.56,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,15.69,Normal,11.26,Low
+Orissa,Kalahandi,32.0,0,6.22,17.58,Watch,0,0.4242,0.5455,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,2.74,Normal,5.57,Low
+Orissa,Kandhamal,513.0,0,6.73,13.7,Watch,0,0.463,0.535,8.34,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,43.52,Normal,10.96,Low
+Orissa,Kendrapara,499.0,0,8.42,8.6,Watch,0,0.514,0.484,12.45,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,31.83,Normal,9.5,Low
+Orissa,Kendujhar,695.0,0,7.96,14.17,Watch,0,0.4583,0.5402,18.78,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,23.64,Normal,12.25,Low
+Orissa,Khorda,9.0,0,6.77,20.0,Watch,0,0.4,0.5,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,-0.35,Low,6.02,Low
+Orissa,Khordha,18732.0,0,13.62,-17.94,Good,0,0.7794,0.2205,20.22,Optimal,Optimal: Maintain current allocation,0.0,31.18,Normal,9.18,Low
+Orissa,Khordha  *,1.0,0,13.13,10.0,Watch,0,0.5,0.0,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,3.0,Low
+Orissa,Koraput,2170.0,0,5.64,-1.58,Good,0,0.6158,0.3837,14.91,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,38.66,Normal,8.34,Low
+Orissa,Malkangiri,476.0,0,5.92,6.54,Watch,0,0.5346,0.4633,14.29,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,21.75,Normal,8.42,Low
+Orissa,Mayurbhanj,117.0,0,10.31,3.22,Watch,0,0.5678,0.4237,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.0,11.59,Normal,2.12,Low
+Orissa,Nabarangapur,25.0,0,7.11,17.69,Watch,0,0.4231,0.5385,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.0,0.72,Normal,5.38,Low
+Orissa,Nayagarh,1921.0,0,7.52,-7.22,Good,0,0.6722,0.3273,16.53,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,50.28,Elevated,9.99,Low
+Orissa,Nuapada,4.0,0,7.36,20.0,Watch,0,0.4,0.4,0.0,Optimal,,,-0.37,Low,6.0,Low
+Orissa,Puri,5742.0,0,5.41,-4.5,Good,0,0.645,0.3549,22.53,Optimal,Optimal: Maintain current allocation,0.0,28.68,Normal,9.63,Low
+Orissa,Rayagada,2489.0,0,5.81,-2.73,Good,0,0.6273,0.3723,21.88,Optimal,Optimal: Maintain current allocation,0.001,50.46,Elevated,11.61,Low
+Orissa,Sambalpur,377.0,0,7.74,24.29,Concern,1,0.3571,0.6402,6.69,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,21.83,Normal,11.48,Low
+Orissa,Sonapur,186.0,0,5.47,16.15,Watch,0,0.4385,0.5561,7.73,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,9.97,Normal,8.16,Low
+Orissa,Subarnapur,87.0,0,7.69,19.09,Watch,0,0.4091,0.5795,8.92,Under-utilized,Consider: Reallocate resources to high-load areas,0.004,20.86,Normal,10.49,Low
+Orissa,Sundargarh,1897.0,0,8.56,-6.02,Good,0,0.6602,0.3393,13.62,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,50.3,Elevated,9.12,Low
+Orissa,Sundergarh,3.0,0,9.29,10.0,Watch,0,0.5,0.25,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,-0.38,Low,3.02,Low
+Pondicherry,Cuddalore,6.0,0,25.42,-25.71,Excellent,0,0.8571,0.0,0.0,Optimal,,,-0.37,Low,0.0,
+Pondicherry,Karaikal,4142.0,0,16.14,-17.17,Good,0,0.7717,0.2281,17.26,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,50.72,Elevated,10.25,Low
+Pondicherry,Pondicherry,33981.0,0,15.67,-20.77,Excellent,0,0.8077,0.1922,23.56,Optimal,Optimal: Maintain current allocation,0.001,28.64,Normal,9.93,Low
+Pondicherry,Viluppuram,8.0,0,33.92,-28.89,Excellent,0,0.8889,0.0,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,0.0,
+Pondicherry,Yanam,385.0,0,13.84,22.44,Concern,1,0.3756,0.6218,15.84,Under-utilized,Consider: Reallocate resources to high-load areas,0.006,28.87,Normal,14.37,Low
+Puducherry,Karaikal,20940.0,0,6.23,-13.24,Good,0,0.7324,0.2675,23.58,Optimal,Optimal: Maintain current allocation,0.003,43.43,Normal,11.42,Low
+Puducherry,Pondicherry,80.0,0,5.68,-5.43,Good,0,0.6543,0.3333,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.0,11.86,Normal,1.19,Low
+Puducherry,Puducherry,52940.0,0,2.34,-2.09,Good,0,0.6209,0.3791,25.75,Optimal,Optimal: Maintain current allocation,0.001,41.32,Normal,11.86,Low
+Puducherry,Yanam,195.0,0,9.82,3.88,Watch,0,0.5612,0.4337,13.41,Under-utilized,Consider: Reallocate resources to high-load areas,0.006,36.58,Normal,8.84,Low
+Punjab,Amritsar,284437.0,1,53.6,-4.76,Good,0,0.6476,0.3524,70.57,High,High Priority: Schedule reinforcement,0.001,77.3,Elevated,58.9,Critical
+Punjab,Barnala,54271.0,0,4.71,-14.7,Good,0,0.747,0.253,35.19,Optimal,Optimal: Maintain current allocation,0.003,60.24,Elevated,16.58,Medium
+Punjab,Bathinda,143840.0,0,12.89,-13.54,Good,0,0.7354,0.2646,45.24,Moderate,Monitor: Review weekly,0.003,78.77,Elevated,21.45,Medium
+Punjab,Faridkot,59491.0,0,12.6,-14.65,Good,0,0.7465,0.2535,37.29,Optimal,Optimal: Maintain current allocation,0.006,61.17,Elevated,17.3,Medium
+Punjab,Fatehgarh Sahib,60801.0,0,6.72,-14.39,Good,0,0.7439,0.2561,45.25,Moderate,Monitor: Review weekly,0.001,37.89,Normal,17.36,Medium
+Punjab,Fazilka,101532.0,0,10.61,-8.35,Good,0,0.6835,0.3164,36.77,Optimal,Optimal: Maintain current allocation,0.005,47.77,Elevated,15.81,Medium
+Punjab,Ferozepur,95801.0,0,5.75,-10.27,Good,0,0.7027,0.2973,32.63,Optimal,Optimal: Maintain current allocation,0.002,54.06,Elevated,15.2,Medium
+Punjab,Firozpur,19322.0,0,3.51,-4.85,Good,0,0.6485,0.3514,22.45,Optimal,Optimal: Maintain current allocation,0.001,41.32,Normal,10.87,Low
+Punjab,Gurdaspur,221682.0,0,19.77,-7.05,Good,0,0.6705,0.3295,38.11,Optimal,Optimal: Maintain current allocation,0.001,57.53,Elevated,17.19,Medium
+Punjab,Hoshiarpur,157709.0,0,21.52,-9.98,Good,0,0.6998,0.3002,45.87,Moderate,Monitor: Review weekly,0.0,61.25,Elevated,19.89,Medium
+Punjab,Jalandhar,210115.0,0,14.77,-15.11,Good,0,0.7511,0.2489,40.14,Moderate,Monitor: Review weekly,0.0,72.1,Elevated,19.25,Medium
+Punjab,Kapurthala,73042.0,0,10.85,-20.4,Excellent,0,0.804,0.196,45.79,Moderate,Monitor: Review weekly,0.001,66.96,Elevated,20.43,Medium
+Punjab,Ludhiana,342978.0,0,31.08,-4.18,Good,0,0.6418,0.3582,45.43,Moderate,Monitor: Review weekly,0.001,82.98,Elevated,21.93,Medium
+Punjab,Malerkotla,33139.0,0,20.48,7.02,Watch,0,0.5298,0.4702,39.05,Optimal,Optimal: Maintain current allocation,0.005,54.08,Elevated,19.23,Medium
+Punjab,Mansa,97674.0,0,15.09,-15.46,Good,0,0.7546,0.2454,35.41,Optimal,Optimal: Maintain current allocation,0.004,50.36,Elevated,15.66,Medium
+Punjab,Moga,97414.0,0,9.11,-14.66,Good,0,0.7466,0.2534,38.89,Optimal,Optimal: Maintain current allocation,0.001,65.05,Elevated,18.17,Medium
+Punjab,Muktsar,13367.0,0,6.52,-12.16,Good,0,0.7216,0.2784,27.43,Optimal,Optimal: Maintain current allocation,0.001,44.69,Normal,12.7,Low
+Punjab,Nawanshahr,8050.0,0,13.07,-1.78,Good,0,0.6178,0.3821,21.96,Optimal,Optimal: Maintain current allocation,0.0,47.74,Elevated,11.36,Low
+Punjab,Pathankot,46415.0,0,3.85,-8.09,Good,0,0.6809,0.3191,44.6,Moderate,Monitor: Review weekly,0.002,34.99,Normal,16.88,Medium
+Punjab,Patiala,241136.0,0,31.98,-2.49,Good,0,0.6249,0.3751,48.39,Moderate,Monitor: Review weekly,0.003,60.19,Elevated,20.54,Medium
+Punjab,Rupnagar,65808.0,0,6.05,-18.66,Good,0,0.7866,0.2134,29.44,Optimal,Optimal: Maintain current allocation,0.001,53.3,Elevated,14.16,Low
+Punjab,S.A.S Nagar(Mohali),5581.0,0,6.43,4.52,Watch,0,0.5548,0.445,20.25,Optimal,Optimal: Maintain current allocation,0.0,42.89,Normal,11.72,Low
+Punjab,SAS Nagar (Mohali),127181.0,0,14.21,7.01,Watch,0,0.5299,0.4701,34.69,Optimal,Optimal: Maintain current allocation,0.001,50.67,Elevated,17.58,Medium
+Punjab,Sangrur,123339.0,0,6.84,-14.88,Good,0,0.7488,0.2512,31.98,Optimal,Optimal: Maintain current allocation,0.003,58.94,Elevated,15.49,Medium
+Punjab,Shaheed Bhagat Singh Nagar,40356.0,0,13.25,-23.49,Excellent,0,0.8349,0.1651,31.24,Optimal,Optimal: Maintain current allocation,0.001,59.61,Elevated,15.33,Medium
+Punjab,Sri Muktsar Sahib,88804.0,0,6.96,-14.9,Good,0,0.749,0.251,34.89,Optimal,Optimal: Maintain current allocation,0.003,53.82,Elevated,15.85,Medium
+Punjab,Tarn Taran,118879.0,0,12.7,-16.28,Good,0,0.7628,0.2372,39.67,Optimal,Optimal: Maintain current allocation,0.001,66.12,Elevated,18.51,Medium
+Puttenahalli,5th cross,1.0,0,16.37,60.0,Critical,1,0.0,0.5,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,18.0,Medium
+Raja Annamalai Puram,Near Dhyana Ashram,1.0,0,16.37,60.0,Critical,1,0.0,0.5,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,18.0,Medium
+Rajasthan,Ajmer,295177.0,0,24.53,3.01,Watch,0,0.5699,0.4301,45.22,Moderate,Monitor: Review weekly,0.001,87.77,Elevated,23.25,Medium
+Rajasthan,Alwar,410415.0,0,22.25,-3.79,Good,0,0.6379,0.3621,35.36,Optimal,Optimal: Maintain current allocation,0.002,141.76,Critical,20.61,Medium
+Rajasthan,Balotra,511.0,0,10.32,58.44,Critical,1,0.0156,0.9824,16.59,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,50.3,Elevated,27.54,Medium
+Rajasthan,Banswara,214878.0,0,24.96,8.41,Watch,0,0.5159,0.4841,33.2,Optimal,Optimal: Maintain current allocation,0.005,62.63,Elevated,18.75,Medium
+Rajasthan,Baran,178743.0,0,18.44,5.09,Watch,0,0.5491,0.4509,31.26,Optimal,Optimal: Maintain current allocation,0.006,87.73,Elevated,19.68,Medium
+Rajasthan,Barmer,351773.0,0,19.18,-7.74,Good,0,0.6774,0.3226,28.15,Optimal,Optimal: Maintain current allocation,0.004,114.94,Critical,18.44,Medium
+Rajasthan,Beawar,518.0,0,10.13,58.46,Critical,1,0.0154,0.9827,28.02,Optimal,Optimal: Maintain current allocation,0.0,41.75,Normal,30.12,High
+Rajasthan,Bharatpur,271848.0,0,10.33,-0.49,Good,0,0.6049,0.3951,27.98,Optimal,Optimal: Maintain current allocation,0.002,87.69,Elevated,17.16,Medium
+Rajasthan,Bhilwara,240811.0,0,7.75,1.97,Watch,0,0.5803,0.4197,29.63,Optimal,Optimal: Maintain current allocation,0.002,131.55,Critical,19.48,Medium
+Rajasthan,Bikaner,239399.0,0,19.83,-5.22,Good,0,0.6522,0.3478,41.37,Moderate,Monitor: Review weekly,0.003,91.88,Elevated,21.6,Medium
+Rajasthan,Bundi,123376.0,0,4.13,0.24,Watch,0,0.5976,0.4024,27.25,Optimal,Optimal: Maintain current allocation,0.004,80.1,Elevated,16.26,Medium
+Rajasthan,Chittaurgarh,4566.0,0,6.25,6.42,Watch,0,0.5358,0.464,23.04,Optimal,Optimal: Maintain current allocation,0.0,28.52,Normal,11.69,Low
+Rajasthan,Chittorgarh,133157.0,0,5.95,7.33,Watch,0,0.5267,0.4733,29.53,Optimal,Optimal: Maintain current allocation,0.001,57.36,Elevated,16.79,Medium
+Rajasthan,Churu,234683.0,0,8.33,-7.01,Good,0,0.6701,0.3299,32.01,Optimal,Optimal: Maintain current allocation,0.003,92.36,Elevated,18.84,Medium
+Rajasthan,Dausa,175287.0,0,7.45,-10.45,Good,0,0.7045,0.2955,26.45,Optimal,Optimal: Maintain current allocation,0.002,68.95,Elevated,14.83,Low
+Rajasthan,Deeg,393.0,0,6.67,23.2,Concern,1,0.368,0.6294,15.3,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,49.91,Elevated,16.54,Medium
+Rajasthan,Deeg ,1070.0,0,10.05,58.23,Critical,1,0.0177,0.9813,16.41,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,50.35,Elevated,27.43,Medium
+Rajasthan,Dhaulpur,957.0,0,5.72,11.04,Watch,0,0.4896,0.5094,21.82,Optimal,Optimal: Maintain current allocation,0.001,50.02,Elevated,14.86,Low
+Rajasthan,Dholpur,168314.0,0,17.7,6.8,Watch,0,0.532,0.468,24.16,Optimal,Optimal: Maintain current allocation,0.007,58.1,Elevated,15.1,Medium
+Rajasthan,Didwana-Kuchaman,729.0,0,12.16,58.77,Critical,1,0.0123,0.9863,14.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,50.56,Elevated,26.91,Medium
+Rajasthan,Dungarpur,196548.0,0,8.47,9.35,Watch,0,0.5065,0.4935,24.44,Optimal,Optimal: Maintain current allocation,0.002,75.55,Elevated,17.69,Medium
+Rajasthan,Ganganagar,193640.0,0,7.4,-3.29,Good,0,0.6329,0.3671,37.46,Optimal,Optimal: Maintain current allocation,0.002,88.53,Elevated,20.09,Medium
+Rajasthan,Hanumangarh,196106.0,0,12.0,0.19,Watch,0,0.5981,0.4019,29.42,Optimal,Optimal: Maintain current allocation,0.005,80.45,Elevated,16.93,Medium
+Rajasthan,Jaipur,713970.0,1,48.06,-0.45,Good,0,0.6045,0.3955,33.28,Optimal,Optimal: Maintain current allocation,0.001,181.5,Critical,49.98,High
+Rajasthan,Jaisalmer,75326.0,0,15.74,-11.02,Good,0,0.7102,0.2897,40.56,Moderate,Monitor: Review weekly,0.003,60.58,Elevated,18.23,Medium
+Rajasthan,Jalor,184066.0,0,11.02,-2.96,Good,0,0.6296,0.3704,36.28,Optimal,Optimal: Maintain current allocation,0.004,86.03,Elevated,19.49,Medium
+Rajasthan,Jalore,1058.0,0,11.74,57.92,Critical,1,0.0208,0.9783,16.59,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,34.74,Normal,25.83,Medium
+Rajasthan,Jhalawar,177208.0,0,8.93,6.68,Watch,0,0.5332,0.4668,21.94,Optimal,Optimal: Maintain current allocation,0.004,61.56,Elevated,14.74,Low
+Rajasthan,Jhunjhunu,5030.0,0,7.78,15.93,Watch,0,0.4407,0.5591,23.46,Optimal,Optimal: Maintain current allocation,0.0,51.97,Elevated,17.01,Medium
+Rajasthan,Jhunjhunun,183668.0,0,4.97,-9.6,Good,0,0.696,0.304,29.14,Optimal,Optimal: Maintain current allocation,0.001,83.31,Elevated,17.07,Medium
+Rajasthan,Jodhpur,396052.0,0,20.0,-4.16,Good,0,0.6416,0.3584,33.95,Optimal,Optimal: Maintain current allocation,0.002,110.76,Critical,20.19,Medium
+Rajasthan,Karauli,153099.0,0,5.47,-1.11,Good,0,0.6111,0.3889,27.65,Optimal,Optimal: Maintain current allocation,0.002,60.06,Elevated,14.3,Low
+Rajasthan,Khairthal-Tijara,1095.0,0,11.57,58.18,Critical,1,0.0182,0.9808,19.36,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,50.66,Elevated,28.33,Medium
+Rajasthan,Kota,206247.0,0,7.66,6.1,Watch,0,0.539,0.461,24.59,Optimal,Optimal: Maintain current allocation,0.002,66.23,Elevated,15.83,Medium
+Rajasthan,Kotputli-Behror,538.0,0,11.16,58.33,Critical,1,0.0167,0.9814,13.11,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,50.27,Elevated,26.46,Medium
+Rajasthan,Nagaur,341140.0,0,13.52,-8.99,Good,0,0.6899,0.3101,38.2,Optimal,Optimal: Maintain current allocation,0.001,132.25,Critical,21.46,Medium
+Rajasthan,Pali,249837.0,0,13.31,-12.84,Good,0,0.7284,0.2716,38.71,Optimal,Optimal: Maintain current allocation,0.001,109.88,Critical,21.61,Medium
+Rajasthan,Phalodi,206.0,0,7.8,59.03,Critical,1,0.0097,0.9855,17.31,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,49.96,Elevated,27.9,Medium
+Rajasthan,Pratapgarh,117163.0,0,8.27,2.26,Watch,0,0.5774,0.4226,33.22,Optimal,Optimal: Maintain current allocation,0.004,34.48,Normal,14.09,Low
+Rajasthan,Rajsamand,118974.0,0,5.44,0.58,Watch,0,0.5942,0.4058,34.0,Optimal,Optimal: Maintain current allocation,0.001,61.4,Elevated,16.51,Medium
+Rajasthan,Salumbar,214.0,0,8.32,59.53,Critical,1,0.0047,0.9907,8.04,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,39.29,Normal,24.2,Medium
+Rajasthan,Sawai Madhopur,142233.0,0,4.55,-7.43,Good,0,0.6743,0.3257,33.17,Optimal,Optimal: Maintain current allocation,0.002,58.92,Elevated,15.84,Medium
+Rajasthan,Sikar,265524.0,0,10.91,-9.8,Good,0,0.698,0.302,30.94,Optimal,Optimal: Maintain current allocation,0.001,77.64,Elevated,17.05,Medium
+Rajasthan,Sirohi,124142.0,0,6.39,-5.92,Good,0,0.6592,0.3408,37.92,Optimal,Optimal: Maintain current allocation,0.003,44.13,Normal,15.79,Medium
+Rajasthan,Tonk,152190.0,0,10.69,-2.01,Good,0,0.6201,0.3798,31.28,Optimal,Optimal: Maintain current allocation,0.005,60.84,Elevated,15.47,Medium
+Rajasthan,Udaipur,335589.0,0,13.86,-1.09,Good,0,0.6109,0.3891,32.15,Optimal,Optimal: Maintain current allocation,0.002,92.34,Elevated,18.88,Medium
+Sikkim,East,12023.0,0,2.64,9.42,Watch,0,0.5058,0.4941,23.53,Optimal,Optimal: Maintain current allocation,0.001,26.2,Normal,12.5,Low
+Sikkim,East Sikkim,8156.0,0,5.82,3.84,Watch,0,0.5616,0.4383,21.28,Optimal,Optimal: Maintain current allocation,0.001,25.18,Normal,10.05,Low
+Sikkim,Mangan,67.0,0,9.38,60.0,Critical,1,0.0,0.9853,7.39,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,16.59,Normal,21.88,Medium
+Sikkim,Namchi,287.0,0,10.35,58.26,Critical,1,0.0174,0.9792,11.47,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,11.82,Normal,22.1,Medium
+Sikkim,North,804.0,0,7.76,16.52,Watch,0,0.4348,0.564,20.41,Optimal,Optimal: Maintain current allocation,0.001,49.9,Elevated,16.07,Medium
+Sikkim,North Sikkim,1482.0,0,19.55,-8.31,Good,0,0.6831,0.3163,23.23,Optimal,Optimal: Maintain current allocation,0.001,34.05,Normal,10.37,Low
+Sikkim,South,7263.0,0,8.43,12.42,Watch,0,0.4758,0.5241,25.48,Optimal,Optimal: Maintain current allocation,0.001,45.85,Normal,15.96,Medium
+Sikkim,South Sikkim,3664.0,0,7.24,0.57,Watch,0,0.5943,0.4055,24.16,Optimal,Optimal: Maintain current allocation,0.001,50.52,Elevated,12.47,Low
+Sikkim,West,6352.0,0,3.16,1.56,Watch,0,0.5844,0.4154,25.1,Optimal,Optimal: Maintain current allocation,0.005,41.8,Normal,12.18,Low
+Sikkim,West Sikkim,5516.0,0,9.47,-2.43,Good,0,0.6243,0.3756,21.93,Optimal,Optimal: Maintain current allocation,0.003,50.44,Elevated,11.62,Low
+Tamil Nadu,Ariyalur,110644.0,0,9.29,-18.25,Good,0,0.7825,0.2175,27.31,Optimal,Optimal: Maintain current allocation,0.001,57.03,Elevated,13.9,Low
+Tamil Nadu,Chengalpattu,29199.0,0,7.0,36.1,Concern,1,0.239,0.7609,33.03,Optimal,Optimal: Maintain current allocation,0.0,60.05,Elevated,26.74,Medium
+Tamil Nadu,Chennai,418850.0,0,24.32,-3.22,Good,0,0.6322,0.3678,32.53,Optimal,Optimal: Maintain current allocation,0.001,102.22,Critical,19.76,Medium
+Tamil Nadu,Coimbatore,368271.0,0,30.92,-6.7,Good,0,0.667,0.3329,28.29,Optimal,Optimal: Maintain current allocation,0.0,89.79,Elevated,17.47,Medium
+Tamil Nadu,Cuddalore,275394.0,0,15.39,-9.19,Good,0,0.6919,0.3081,26.5,Optimal,Optimal: Maintain current allocation,0.001,89.97,Elevated,16.95,Medium
+Tamil Nadu,Dharmapuri,163667.0,0,19.86,-13.49,Good,0,0.7349,0.2651,28.33,Optimal,Optimal: Maintain current allocation,0.001,65.12,Elevated,15.01,Medium
+Tamil Nadu,Dindigul,270171.0,0,15.02,-17.9,Good,0,0.779,0.221,26.5,Optimal,Optimal: Maintain current allocation,0.001,62.15,Elevated,14.16,Low
+Tamil Nadu,Erode,241221.0,0,11.16,-10.55,Good,0,0.7055,0.2945,24.73,Optimal,Optimal: Maintain current allocation,0.001,67.65,Elevated,14.18,Low
+Tamil Nadu,Kallakurichi,16473.0,0,7.51,27.29,Concern,1,0.3271,0.6729,21.6,Optimal,Optimal: Maintain current allocation,0.0,46.08,Normal,19.27,Medium
+Tamil Nadu,Kancheepuram,417659.0,0,27.27,-5.15,Good,0,0.6515,0.3485,31.38,Optimal,Optimal: Maintain current allocation,0.0,91.29,Elevated,18.54,Medium
+Tamil Nadu,Kanchipuram,17.0,0,6.63,10.0,Watch,0,0.5,0.4444,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.0,-5.73,Low,3.0,Low
+Tamil Nadu,Kanniyakumari,118533.0,0,7.51,-6.31,Good,0,0.6631,0.3369,24.21,Optimal,Optimal: Maintain current allocation,0.0,46.15,Normal,11.88,Low
+Tamil Nadu,Kanyakumari,55666.0,0,20.11,-1.6,Good,0,0.616,0.384,21.42,Optimal,Optimal: Maintain current allocation,0.0,39.52,Normal,10.38,Low
+Tamil Nadu,Karur,93580.0,0,1.39,-9.6,Good,0,0.696,0.304,25.45,Optimal,Optimal: Maintain current allocation,0.001,38.4,Normal,11.48,Low
+Tamil Nadu,Krishnagiri,203011.0,0,11.93,-8.76,Good,0,0.6876,0.3124,30.91,Optimal,Optimal: Maintain current allocation,0.001,57.71,Elevated,15.04,Medium
+Tamil Nadu,Madurai,359734.0,0,14.28,-9.67,Good,0,0.6967,0.3033,29.08,Optimal,Optimal: Maintain current allocation,0.001,76.24,Elevated,16.35,Medium
+Tamil Nadu,Mayiladuthurai,8701.0,0,16.07,2.83,Watch,0,0.5717,0.4282,21.03,Optimal,Optimal: Maintain current allocation,0.0,34.39,Normal,10.6,Low
+Tamil Nadu,Nagapattinam,128650.0,0,15.33,-9.0,Good,0,0.69,0.31,27.69,Optimal,Optimal: Maintain current allocation,0.0,54.22,Elevated,13.73,Low
+Tamil Nadu,Namakkal,186109.0,0,8.24,-14.19,Good,0,0.7419,0.2581,27.31,Optimal,Optimal: Maintain current allocation,0.001,59.08,Elevated,14.1,Low
+Tamil Nadu,Perambalur,79895.0,0,7.39,-19.42,Good,0,0.7942,0.2058,31.33,Optimal,Optimal: Maintain current allocation,0.001,61.21,Elevated,15.52,Medium
+Tamil Nadu,Pudukkottai,200997.0,0,7.32,-12.99,Good,0,0.7299,0.2701,31.48,Optimal,Optimal: Maintain current allocation,0.001,87.25,Elevated,18.17,Medium
+Tamil Nadu,Ramanathapuram,151988.0,0,5.96,-13.85,Good,0,0.7385,0.2615,32.85,Optimal,Optimal: Maintain current allocation,0.0,56.83,Elevated,15.54,Medium
+Tamil Nadu,Ranipet,2102.0,0,9.63,27.09,Concern,1,0.3291,0.6705,17.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,50.64,Elevated,18.31,Medium
+Tamil Nadu,Salem,384805.0,0,24.01,-11.33,Good,0,0.7133,0.2867,25.17,Optimal,Optimal: Maintain current allocation,0.0,100.8,Critical,17.55,Medium
+Tamil Nadu,Sivaganga,141421.0,0,12.7,-14.7,Good,0,0.747,0.253,35.34,Optimal,Optimal: Maintain current allocation,0.0,58.21,Elevated,16.42,Medium
+Tamil Nadu,Tenkasi,22419.0,0,14.0,6.4,Watch,0,0.536,0.4639,22.62,Optimal,Optimal: Maintain current allocation,0.0,42.47,Normal,12.95,Low
+Tamil Nadu,Thanjavur,274124.0,0,20.45,-10.88,Good,0,0.7088,0.2912,28.77,Optimal,Optimal: Maintain current allocation,0.0,88.26,Elevated,17.46,Medium
+Tamil Nadu,The Nilgiris,65890.0,0,6.76,-15.87,Good,0,0.7587,0.2413,33.99,Optimal,Optimal: Maintain current allocation,0.0,50.73,Elevated,15.27,Medium
+Tamil Nadu,Theni,137304.0,0,2.68,-10.4,Good,0,0.704,0.296,31.6,Optimal,Optimal: Maintain current allocation,0.001,54.37,Elevated,14.92,Low
+Tamil Nadu,Thiruvallur,5098.0,0,9.88,-2.48,Good,0,0.6248,0.375,17.76,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,30.1,Normal,8.34,Low
+Tamil Nadu,Thiruvarur,123238.0,0,9.41,-7.74,Good,0,0.6774,0.3226,26.1,Optimal,Optimal: Maintain current allocation,0.0,64.92,Elevated,14.32,Low
+Tamil Nadu,Thoothukkudi,205420.0,0,25.48,-17.29,Good,0,0.7729,0.2271,40.23,Moderate,Monitor: Review weekly,0.0,66.56,Elevated,18.73,Medium
+Tamil Nadu,Tiruchirappalli,297849.0,0,21.07,-14.17,Good,0,0.7417,0.2583,26.61,Optimal,Optimal: Maintain current allocation,0.0,80.87,Elevated,16.07,Medium
+Tamil Nadu,Tirunelveli,327912.0,0,31.4,-14.93,Good,0,0.7493,0.2507,29.25,Optimal,Optimal: Maintain current allocation,0.0,92.9,Elevated,18.07,Medium
+Tamil Nadu,Tirupathur,161.0,0,14.29,19.88,Watch,0,0.4012,0.5926,8.9,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,24.2,Normal,11.05,Low
+Tamil Nadu,Tirupattur,23516.0,0,10.04,0.88,Watch,0,0.5912,0.4088,24.96,Optimal,Optimal: Maintain current allocation,0.0,43.45,Normal,12.1,Low
+Tamil Nadu,Tiruppur,259497.0,0,13.07,-5.99,Good,0,0.6599,0.34,33.28,Optimal,Optimal: Maintain current allocation,0.001,84.75,Elevated,18.46,Medium
+Tamil Nadu,Tiruvallur,428966.0,0,24.09,-4.44,Good,0,0.6444,0.3556,30.67,Optimal,Optimal: Maintain current allocation,0.001,95.33,Critical,18.73,Medium
+Tamil Nadu,Tiruvannamalai,224907.0,0,15.88,-10.15,Good,0,0.7015,0.2985,27.54,Optimal,Optimal: Maintain current allocation,0.0,65.61,Elevated,14.82,Low
+Tamil Nadu,Tiruvarur,5.0,0,8.77,10.0,Watch,0,0.5,0.3333,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,3.04,Low
+Tamil Nadu,Tuticorin,10.0,0,6.7,5.45,Watch,0,0.5455,0.3636,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,-0.35,Low,1.66,Low
+Tamil Nadu,Vellore,308131.0,0,24.1,-10.01,Good,0,0.7001,0.2999,30.0,Optimal,Optimal: Maintain current allocation,0.0,80.58,Elevated,17.06,Medium
+Tamil Nadu,Villupuram,178623.0,0,41.39,-17.08,Good,0,0.7708,0.2292,26.85,Optimal,Optimal: Maintain current allocation,0.0,64.37,Elevated,14.49,Low
+Tamil Nadu,Viluppuram,131385.0,0,18.19,-11.58,Good,0,0.7158,0.2842,21.72,Optimal,Optimal: Maintain current allocation,0.0,41.67,Normal,10.68,Low
+Tamil Nadu,Virudhunagar,198575.0,0,8.83,-10.09,Good,0,0.7009,0.2991,34.89,Optimal,Optimal: Maintain current allocation,0.0,50.66,Elevated,15.53,Medium
+Tamilnadu,Chennai,1.0,0,17.44,10.0,Watch,0,0.5,0.0,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,3.0,Low
+Telangana,Adilabad,140331.0,0,6.6,-6.06,Good,0,0.6606,0.3394,36.49,Optimal,Optimal: Maintain current allocation,0.001,46.18,Normal,15.57,Medium
+Telangana,Bhadradri Kothagudem,59929.0,0,2.24,18.6,Watch,0,0.414,0.586,31.57,Optimal,Optimal: Maintain current allocation,0.001,31.94,Normal,18.24,Medium
+Telangana,Hanumakonda,29321.0,0,6.41,26.16,Concern,1,0.3384,0.6615,33.0,Optimal,Optimal: Maintain current allocation,0.0,39.63,Normal,21.71,Medium
+Telangana,Hyderabad,498816.0,0,27.27,4.62,Watch,0,0.5538,0.4462,35.02,Optimal,Optimal: Maintain current allocation,0.001,101.08,Critical,21.89,Medium
+Telangana,Jagitial,28812.0,0,3.95,18.57,Watch,0,0.4143,0.5857,24.37,Optimal,Optimal: Maintain current allocation,0.001,40.31,Normal,16.91,Medium
+Telangana,Jangaon,1136.0,0,8.14,31.59,Concern,1,0.2841,0.715,17.17,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,49.91,Elevated,19.62,Medium
+Telangana,Jangoan,25888.0,0,3.33,27.34,Concern,1,0.3266,0.6734,33.01,Optimal,Optimal: Maintain current allocation,0.001,44.03,Normal,22.51,Medium
+Telangana,Jayashankar Bhupalpally,21889.0,0,6.13,36.56,Concern,1,0.2344,0.7655,29.69,Optimal,Optimal: Maintain current allocation,0.002,52.86,Elevated,25.16,Medium
+Telangana,Jogulamba Gadwal,48076.0,0,12.18,31.34,Concern,1,0.2866,0.7133,29.05,Optimal,Optimal: Maintain current allocation,0.004,43.97,Normal,22.51,Medium
+Telangana,K.v. Rangareddy,486273.0,0,28.77,1.41,Watch,0,0.5859,0.4141,28.17,Optimal,Optimal: Maintain current allocation,0.0,88.88,Elevated,17.76,Medium
+Telangana,Kamareddy,42724.0,0,1.66,19.12,Watch,0,0.4088,0.5912,31.99,Optimal,Optimal: Maintain current allocation,0.001,57.77,Elevated,21.11,Medium
+Telangana,Karimnagar,234410.0,0,18.39,-5.65,Good,0,0.6565,0.3435,37.38,Optimal,Optimal: Maintain current allocation,0.0,57.12,Elevated,16.93,Medium
+Telangana,Khammam,126146.0,0,9.99,4.54,Watch,0,0.5546,0.4454,29.37,Optimal,Optimal: Maintain current allocation,0.0,43.85,Normal,14.56,Low
+Telangana,Komaram Bheem,39340.0,0,7.76,31.73,Concern,1,0.2827,0.7172,28.33,Optimal,Optimal: Maintain current allocation,0.004,57.58,Elevated,23.78,Medium
+Telangana,Mahabubabad,35858.0,0,3.68,27.75,Concern,1,0.3225,0.6775,25.9,Optimal,Optimal: Maintain current allocation,0.001,56.78,Elevated,21.77,Medium
+Telangana,Mahabubnagar,323785.0,0,19.5,-9.14,Good,0,0.6914,0.3086,32.85,Optimal,Optimal: Maintain current allocation,0.0,58.9,Elevated,15.74,Medium
+Telangana,Mancherial,42038.0,0,7.65,26.44,Concern,1,0.3356,0.6643,26.62,Optimal,Optimal: Maintain current allocation,0.001,41.9,Normal,20.11,Medium
+Telangana,Medak,201176.0,0,16.08,-11.51,Good,0,0.7151,0.2849,25.68,Optimal,Optimal: Maintain current allocation,0.0,53.17,Elevated,13.02,Low
+Telangana,Medchal-malkajgiri,122862.0,0,11.74,31.91,Concern,1,0.2809,0.719,28.76,Optimal,Optimal: Maintain current allocation,0.002,69.58,Elevated,25.16,Medium
+Telangana,Medchal?malkajgiri,1280.0,0,19.2,-12.6,Good,0,0.726,0.2732,7.51,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,16.63,Normal,3.92,Low
+Telangana,Medchalâmalkajgiri,1.0,0,16.37,60.0,Critical,1,0.0,0.5,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,18.0,Medium
+Telangana,Medchal−malkajgiri,7148.0,0,37.78,-14.39,Good,0,0.7439,0.256,28.15,Optimal,Optimal: Maintain current allocation,0.001,39.11,Normal,12.36,Low
+Telangana,Mulugu,18092.0,0,5.32,27.03,Concern,1,0.3297,0.6703,23.39,Optimal,Optimal: Maintain current allocation,0.002,53.41,Elevated,20.47,Medium
+Telangana,Nagarkurnool,35058.0,0,3.38,19.91,Watch,0,0.4009,0.5991,25.63,Optimal,Optimal: Maintain current allocation,0.001,39.22,Normal,17.58,Medium
+Telangana,Nalgonda,237059.0,0,10.78,-5.86,Good,0,0.6586,0.3414,36.43,Optimal,Optimal: Maintain current allocation,0.001,55.81,Elevated,16.51,Medium
+Telangana,Narayanpet,23974.0,0,6.79,31.31,Concern,1,0.2869,0.7131,29.44,Optimal,Optimal: Maintain current allocation,0.001,30.22,Normal,21.25,Medium
+Telangana,Nirmal,51303.0,0,9.84,29.53,Concern,1,0.3047,0.6953,32.71,Optimal,Optimal: Maintain current allocation,0.004,60.83,Elevated,24.76,Medium
+Telangana,Nizamabad,204114.0,0,7.96,-5.84,Good,0,0.6584,0.3416,45.25,Moderate,Monitor: Review weekly,0.001,82.75,Elevated,21.85,Medium
+Telangana,Peddapalli,17182.0,0,4.14,19.65,Watch,0,0.4035,0.5964,25.72,Optimal,Optimal: Maintain current allocation,0.001,42.07,Normal,17.82,Medium
+Telangana,Rajanna Sircilla,20868.0,0,4.46,15.47,Watch,0,0.4453,0.5547,27.76,Optimal,Optimal: Maintain current allocation,0.001,40.01,Normal,16.97,Medium
+Telangana,Rangareddy,8832.0,0,5.72,24.7,Concern,1,0.353,0.6469,24.81,Optimal,Optimal: Maintain current allocation,0.003,43.53,Normal,19.21,Medium
+Telangana,Sangareddy,63749.0,0,11.69,20.46,Concern,1,0.3954,0.6045,42.1,Moderate,Monitor: Review weekly,0.001,36.43,Normal,22.41,Medium
+Telangana,Siddipet,57637.0,0,5.17,25.73,Concern,1,0.3427,0.6572,38.05,Optimal,Optimal: Maintain current allocation,0.001,50.71,Elevated,24.2,Medium
+Telangana,Suryapet,71767.0,0,7.7,28.43,Concern,1,0.3157,0.6843,28.34,Optimal,Optimal: Maintain current allocation,0.002,48.49,Elevated,21.88,Medium
+Telangana,Vikarabad,80201.0,0,12.57,39.33,Concern,1,0.2067,0.7933,32.96,Optimal,Optimal: Maintain current allocation,0.002,61.45,Elevated,27.83,Medium
+Telangana,Wanaparthy,37781.0,0,5.62,29.89,Concern,1,0.3011,0.6989,26.66,Optimal,Optimal: Maintain current allocation,0.002,29.76,Normal,19.94,Medium
+Telangana,Warangal,132842.0,0,20.2,-17.11,Good,0,0.7711,0.2289,29.25,Optimal,Optimal: Maintain current allocation,0.0,45.5,Normal,13.32,Low
+Telangana,Warangal (urban),134.0,0,6.81,50.37,Critical,1,0.0963,0.8963,5.98,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,12.86,Normal,18.19,Medium
+Telangana,Warangal Rural,26427.0,0,6.2,29.84,Concern,1,0.3016,0.6984,30.58,Optimal,Optimal: Maintain current allocation,0.001,44.91,Normal,22.62,Medium
+Telangana,Warangal Urban,26284.0,0,21.33,20.94,Concern,1,0.3906,0.6093,51.67,Moderate,Monitor: Review weekly,0.001,52.2,Elevated,27.0,Medium
+Telangana,Yadadri.,55693.0,0,9.08,33.73,Concern,1,0.2627,0.7373,24.65,Optimal,Optimal: Maintain current allocation,0.002,59.34,Elevated,23.45,Medium
+Tripura,Dhalai,52644.0,0,7.1,-10.0,Good,0,0.7,0.3,30.16,Optimal,Optimal: Maintain current allocation,0.004,28.74,Normal,11.92,Low
+Tripura,Dhalai  *,1066.0,0,4.96,-2.04,Good,0,0.6204,0.3786,25.21,Optimal,Optimal: Maintain current allocation,0.001,49.99,Elevated,12.56,Low
+Tripura,Gomati,26864.0,0,16.06,-2.49,Good,0,0.6249,0.3751,22.14,Optimal,Optimal: Maintain current allocation,0.003,31.94,Normal,9.84,Low
+Tripura,Khowai,13332.0,0,23.07,-12.54,Good,0,0.7254,0.2745,29.62,Optimal,Optimal: Maintain current allocation,0.007,40.51,Normal,12.94,Low
+Tripura,North Tripura,67783.0,0,4.89,-17.48,Good,0,0.7748,0.2252,27.53,Optimal,Optimal: Maintain current allocation,0.002,35.32,Normal,11.79,Low
+Tripura,Sepahijala,38592.0,0,12.68,1.46,Watch,0,0.5854,0.4146,32.87,Optimal,Optimal: Maintain current allocation,0.008,58.53,Elevated,16.15,Medium
+Tripura,South Tripura,98990.0,0,3.52,-7.46,Good,0,0.6746,0.3254,31.25,Optimal,Optimal: Maintain current allocation,0.002,37.4,Normal,13.12,Low
+Tripura,Unakoti,21216.0,0,32.52,-21.95,Excellent,0,0.8195,0.1805,24.15,Optimal,Optimal: Maintain current allocation,0.003,46.85,Elevated,11.93,Low
+Tripura,West Tripura,151511.0,0,5.78,-9.44,Good,0,0.6944,0.3056,29.14,Optimal,Optimal: Maintain current allocation,0.001,38.87,Normal,12.63,Low
+Uttar Pradesh,Agra,437365.0,0,31.35,1.68,Watch,0,0.5832,0.4168,32.33,Optimal,Optimal: Maintain current allocation,0.005,101.45,Critical,20.2,Medium
+Uttar Pradesh,Aligarh,420243.0,1,60.59,5.43,Watch,0,0.5457,0.4543,74.76,High,High Priority: Schedule reinforcement,0.003,109.0,Critical,64.06,Critical
+Uttar Pradesh,Allahabad,480420.0,0,26.92,0.03,Watch,0,0.5997,0.4003,28.82,Optimal,Optimal: Maintain current allocation,0.002,109.61,Critical,18.66,Medium
+Uttar Pradesh,Ambedkar Nagar,174778.0,0,7.1,4.73,Watch,0,0.5527,0.4473,31.93,Optimal,Optimal: Maintain current allocation,0.001,45.96,Normal,15.59,Medium
+Uttar Pradesh,Amethi,180268.0,0,8.06,3.47,Watch,0,0.5653,0.4347,29.47,Optimal,Optimal: Maintain current allocation,0.001,71.49,Elevated,17.03,Medium
+Uttar Pradesh,Amroha,198801.0,0,18.0,6.45,Watch,0,0.5355,0.4645,35.33,Optimal,Optimal: Maintain current allocation,0.008,55.1,Elevated,18.04,Medium
+Uttar Pradesh,Auraiya,124096.0,0,6.59,2.72,Watch,0,0.5728,0.4272,30.0,Optimal,Optimal: Maintain current allocation,0.003,59.55,Elevated,15.77,Medium
+Uttar Pradesh,Auraiya *,1.0,0,17.44,10.0,Watch,0,0.5,0.0,0.0,Optimal,,,-0.38,Low,3.0,Low
+Uttar Pradesh,Ayodhya,23647.0,0,5.64,25.3,Concern,1,0.347,0.653,26.88,Optimal,Optimal: Maintain current allocation,0.0,38.21,Normal,19.48,Medium
+Uttar Pradesh,Azamgarh,355895.0,0,15.95,6.03,Watch,0,0.5397,0.4603,27.31,Optimal,Optimal: Maintain current allocation,0.001,97.76,Critical,19.78,Medium
+Uttar Pradesh,Baghpat,124511.0,0,6.77,5.09,Watch,0,0.5491,0.4509,36.09,Optimal,Optimal: Maintain current allocation,0.003,37.41,Normal,16.1,Medium
+Uttar Pradesh,Baghpat *,3.0,0,11.18,60.0,Critical,1,0.0,0.75,0.0,Optimal,,,-0.37,Low,18.0,Medium
+Uttar Pradesh,Bagpat,18.0,0,5.87,17.89,Watch,0,0.4211,0.5263,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.0,3.2,Normal,5.69,Low
+Uttar Pradesh,Bahraich,335438.0,0,27.13,0.22,Watch,0,0.5978,0.4022,33.49,Optimal,Optimal: Maintain current allocation,0.007,107.98,Critical,20.11,Medium
+Uttar Pradesh,Ballia,255523.0,0,10.54,2.26,Watch,0,0.5774,0.4226,26.84,Optimal,Optimal: Maintain current allocation,0.002,69.33,Elevated,15.66,Medium
+Uttar Pradesh,Balrampur,194421.0,0,13.14,1.13,Watch,0,0.5887,0.4113,29.82,Optimal,Optimal: Maintain current allocation,0.009,64.37,Elevated,15.72,Medium
+Uttar Pradesh,Banda,173275.0,0,13.93,1.59,Watch,0,0.5841,0.4159,34.18,Optimal,Optimal: Maintain current allocation,0.007,58.88,Elevated,16.62,Medium
+Uttar Pradesh,Bara Banki,297665.0,0,15.66,-2.03,Good,0,0.6203,0.3797,28.28,Optimal,Optimal: Maintain current allocation,0.002,74.22,Elevated,15.91,Medium
+Uttar Pradesh,Barabanki,9666.0,0,5.62,12.31,Watch,0,0.4769,0.523,35.01,Optimal,Optimal: Maintain current allocation,0.0,22.92,Normal,16.49,Medium
+Uttar Pradesh,Bareilly,517296.0,0,44.13,7.92,Watch,0,0.5208,0.4792,29.07,Optimal,Optimal: Maintain current allocation,0.006,103.36,Critical,21.1,Medium
+Uttar Pradesh,Basti,208268.0,0,10.8,2.12,Watch,0,0.5788,0.4212,28.25,Optimal,Optimal: Maintain current allocation,0.002,66.0,Elevated,15.71,Medium
+Uttar Pradesh,Bhadohi,19265.0,0,6.28,21.55,Concern,1,0.3845,0.6155,23.17,Optimal,Optimal: Maintain current allocation,0.001,23.2,Normal,15.74,Medium
+Uttar Pradesh,Bijnor,487881.0,0,41.05,7.79,Watch,0,0.5221,0.4779,31.29,Optimal,Optimal: Maintain current allocation,0.006,89.99,Elevated,20.72,Medium
+Uttar Pradesh,Budaun,308239.0,0,23.56,17.3,Watch,0,0.427,0.573,41.33,Moderate,Monitor: Review weekly,0.005,94.53,Critical,27.04,Medium
+Uttar Pradesh,Bulandshahar,922.0,0,8.57,32.91,Concern,1,0.2709,0.7281,18.6,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,29.12,Normal,18.36,Medium
+Uttar Pradesh,Bulandshahr,395688.0,0,36.9,5.2,Watch,0,0.548,0.452,43.96,Moderate,Monitor: Review weekly,0.001,77.91,Elevated,22.54,Medium
+Uttar Pradesh,Chandauli,201318.0,0,8.46,7.84,Watch,0,0.5216,0.4784,33.88,Optimal,Optimal: Maintain current allocation,0.004,53.59,Elevated,17.88,Medium
+Uttar Pradesh,Chandauli *,2.0,0,12.04,26.67,Concern,1,0.3333,0.3333,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,-0.38,Low,8.02,Low
+Uttar Pradesh,Chitrakoot,116665.0,0,19.58,-0.95,Good,0,0.6095,0.3905,27.04,Optimal,Optimal: Maintain current allocation,0.01,51.95,Elevated,13.31,Low
+Uttar Pradesh,Chitrakoot *,1.0,0,16.37,60.0,Critical,1,0.0,0.5,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,18.0,Medium
+Uttar Pradesh,Deoria,264984.0,0,13.49,2.45,Watch,0,0.5755,0.4245,29.97,Optimal,Optimal: Maintain current allocation,0.003,79.51,Elevated,17.68,Medium
+Uttar Pradesh,Etah,158827.0,0,11.17,0.17,Watch,0,0.5983,0.4017,43.03,Moderate,Monitor: Review weekly,0.004,54.96,Elevated,18.46,Medium
+Uttar Pradesh,Etawah,154818.0,0,7.91,1.09,Watch,0,0.5891,0.4109,34.37,Optimal,Optimal: Maintain current allocation,0.005,66.69,Elevated,17.31,Medium
+Uttar Pradesh,Faizabad,178174.0,0,7.64,0.74,Watch,0,0.5926,0.4074,28.21,Optimal,Optimal: Maintain current allocation,0.001,64.63,Elevated,15.15,Medium
+Uttar Pradesh,Farrukhabad,158741.0,0,9.78,5.85,Watch,0,0.5415,0.4584,35.7,Optimal,Optimal: Maintain current allocation,0.003,66.2,Elevated,19.08,Medium
+Uttar Pradesh,Fatehpur,240434.0,0,10.54,5.9,Watch,0,0.541,0.459,34.35,Optimal,Optimal: Maintain current allocation,0.003,73.46,Elevated,19.42,Medium
+Uttar Pradesh,Firozabad,271367.0,1,62.35,12.11,Watch,0,0.4789,0.5211,70.24,High,High Priority: Schedule reinforcement,0.004,81.0,Elevated,62.8,Critical
+Uttar Pradesh,Gautam Buddha Nagar,266416.0,0,35.18,18.55,Watch,0,0.4145,0.5855,47.22,Moderate,Monitor: Review weekly,0.003,71.99,Elevated,26.93,Medium
+Uttar Pradesh,Gautam Buddha Nagar *,2.0,0,10.79,-6.67,Good,0,0.6667,0.0,0.0,Optimal,,,-0.37,Low,0.0,
+Uttar Pradesh,Ghaziabad,483686.0,1,49.95,10.41,Watch,0,0.4959,0.5041,44.05,Moderate,Monitor: Review weekly,0.004,93.94,Critical,55.73,Critical
+Uttar Pradesh,Ghazipur,296308.0,0,11.86,4.26,Watch,0,0.5574,0.4426,25.91,Optimal,Optimal: Maintain current allocation,0.002,69.18,Elevated,15.97,Medium
+Uttar Pradesh,Gonda,301714.0,0,12.0,3.2,Watch,0,0.568,0.4319,24.86,Optimal,Optimal: Maintain current allocation,0.002,84.0,Elevated,16.82,Medium
+Uttar Pradesh,Gorakhpur,363540.0,0,15.08,5.04,Watch,0,0.5496,0.4504,24.2,Optimal,Optimal: Maintain current allocation,0.002,84.48,Elevated,17.22,Medium
+Uttar Pradesh,Hamirpur,104375.0,0,5.71,2.14,Watch,0,0.5786,0.4214,27.76,Optimal,Optimal: Maintain current allocation,0.004,38.11,Normal,12.78,Low
+Uttar Pradesh,Hapur,112209.0,0,28.75,0.76,Watch,0,0.5924,0.4076,52.16,Moderate,Monitor: Review weekly,0.005,52.05,Elevated,21.08,Medium
+Uttar Pradesh,Hardoi,376600.0,0,35.71,-0.53,Good,0,0.6053,0.3947,27.27,Optimal,Optimal: Maintain current allocation,0.006,83.03,Elevated,16.48,Medium
+Uttar Pradesh,Hathras,151259.0,0,16.6,1.05,Watch,0,0.5895,0.4105,40.69,Moderate,Monitor: Review weekly,0.004,46.51,Normal,17.17,Medium
+Uttar Pradesh,Jalaun,145664.0,0,6.09,2.65,Watch,0,0.5735,0.4265,33.06,Optimal,Optimal: Maintain current allocation,0.003,51.94,Elevated,15.91,Medium
+Uttar Pradesh,Jaunpur,362508.0,0,18.23,4.08,Watch,0,0.5592,0.4408,32.11,Optimal,Optimal: Maintain current allocation,0.001,88.78,Elevated,19.74,Medium
+Uttar Pradesh,Jhansi,195538.0,0,9.07,-2.26,Good,0,0.6226,0.3774,35.79,Optimal,Optimal: Maintain current allocation,0.003,75.92,Elevated,18.33,Medium
+Uttar Pradesh,Jyotiba Phule Nagar,813.0,0,9.2,35.06,Concern,1,0.2494,0.7494,17.05,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,17.02,Normal,17.34,Medium
+Uttar Pradesh,Jyotiba Phule Nagar *,1.0,0,16.37,60.0,Critical,1,0.0,0.5,0.0,Optimal,,,-0.38,Low,18.0,Medium
+Uttar Pradesh,Kannauj,139907.0,0,9.95,3.76,Watch,0,0.5624,0.4376,27.05,Optimal,Optimal: Maintain current allocation,0.005,53.1,Elevated,14.55,Low
+Uttar Pradesh,Kanpur Dehat,159211.0,0,8.77,6.09,Watch,0,0.5391,0.4609,25.44,Optimal,Optimal: Maintain current allocation,0.003,52.36,Elevated,14.7,Low
+Uttar Pradesh,Kanpur Nagar,378131.0,0,27.72,6.14,Watch,0,0.5386,0.4614,41.42,Moderate,Monitor: Review weekly,0.002,90.11,Elevated,23.28,Medium
+Uttar Pradesh,Kasganj,131600.0,0,13.93,-1.19,Good,0,0.6119,0.3881,33.54,Optimal,Optimal: Maintain current allocation,0.009,55.12,Elevated,15.57,Medium
+Uttar Pradesh,Kaushambi,189179.0,0,22.36,1.54,Watch,0,0.5846,0.4154,30.58,Optimal,Optimal: Maintain current allocation,0.007,44.15,Normal,14.05,Low
+Uttar Pradesh,Kheri,406704.0,0,28.0,5.95,Watch,0,0.5405,0.4595,31.05,Optimal,Optimal: Maintain current allocation,0.006,90.33,Elevated,20.13,Medium
+Uttar Pradesh,Kushinagar,344145.0,0,36.62,9.91,Watch,0,0.5009,0.4991,29.56,Optimal,Optimal: Maintain current allocation,0.007,93.14,Elevated,21.15,Medium
+Uttar Pradesh,Kushinagar *,225.0,0,7.69,22.83,Concern,1,0.3717,0.6239,13.52,Under-utilized,Consider: Reallocate resources to high-load areas,0.005,17.75,Normal,12.68,Low
+Uttar Pradesh,Lalitpur,133557.0,0,11.34,-4.15,Good,0,0.6415,0.3585,35.87,Optimal,Optimal: Maintain current allocation,0.008,56.3,Elevated,16.39,Medium
+Uttar Pradesh,Lucknow,465789.0,0,24.98,6.03,Watch,0,0.5397,0.4603,42.11,Moderate,Monitor: Review weekly,0.002,123.91,Critical,24.44,Medium
+Uttar Pradesh,Maharajganj,226488.0,0,18.07,9.16,Watch,0,0.5084,0.4916,24.21,Optimal,Optimal: Maintain current allocation,0.009,66.76,Elevated,16.69,Medium
+Uttar Pradesh,Mahoba,83613.0,0,8.95,0.07,Watch,0,0.5993,0.4007,27.72,Optimal,Optimal: Maintain current allocation,0.006,39.66,Normal,12.3,Low
+Uttar Pradesh,Mahoba *,1.0,0,13.13,10.0,Watch,0,0.5,0.0,0.0,Optimal,,,-0.38,Low,3.0,Low
+Uttar Pradesh,Mahrajganj,71.0,0,7.61,25.28,Concern,1,0.3472,0.6389,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.0,25.32,Normal,10.12,Low
+Uttar Pradesh,Mainpuri,153856.0,0,6.24,6.04,Watch,0,0.5396,0.4604,31.03,Optimal,Optimal: Maintain current allocation,0.004,49.98,Elevated,16.12,Medium
+Uttar Pradesh,Mathura,246600.0,0,9.55,5.32,Watch,0,0.5468,0.4532,29.07,Optimal,Optimal: Maintain current allocation,0.003,64.84,Elevated,16.8,Medium
+Uttar Pradesh,Mau,189369.0,0,8.47,7.97,Watch,0,0.5203,0.4797,34.95,Optimal,Optimal: Maintain current allocation,0.003,73.86,Elevated,20.26,Medium
+Uttar Pradesh,Meerut,374081.0,0,36.03,5.5,Watch,0,0.545,0.455,49.62,Moderate,Monitor: Review weekly,0.006,106.43,Critical,26.54,Medium
+Uttar Pradesh,Mirzapur,208029.0,0,18.76,3.22,Watch,0,0.5678,0.4322,39.12,Optimal,Optimal: Maintain current allocation,0.006,85.59,Elevated,21.26,Medium
+Uttar Pradesh,Moradabad,350176.0,1,73.81,7.65,Watch,0,0.5235,0.4765,60.45,High,High Priority: Schedule reinforcement,0.006,94.85,Critical,59.92,Critical
+Uttar Pradesh,Muzaffarnagar,329949.0,0,21.87,1.81,Watch,0,0.5819,0.4181,36.65,Optimal,Optimal: Maintain current allocation,0.005,72.02,Elevated,18.74,Medium
+Uttar Pradesh,Pilibhit,308592.0,1,71.78,4.87,Watch,0,0.5513,0.4487,44.31,Moderate,Monitor: Review weekly,0.027,83.94,Elevated,53.15,Critical
+Uttar Pradesh,Pratapgarh,253339.0,0,9.45,2.36,Watch,0,0.5764,0.4236,24.92,Optimal,Optimal: Maintain current allocation,0.002,65.5,Elevated,14.73,Low
+Uttar Pradesh,Prayagraj,52127.0,0,4.48,16.7,Watch,0,0.433,0.5669,28.62,Optimal,Optimal: Maintain current allocation,0.0,53.11,Elevated,18.91,Medium
+Uttar Pradesh,Rae Bareli,256755.0,0,14.05,3.68,Watch,0,0.5632,0.4368,41.98,Moderate,Monitor: Review weekly,0.001,81.47,Elevated,21.84,Medium
+Uttar Pradesh,Raebareli,23.0,0,6.6,22.5,Concern,1,0.375,0.5833,5.01,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,7.96,Normal,9.05,Low
+Uttar Pradesh,Rampur,308515.0,1,74.67,11.57,Watch,0,0.4843,0.5157,38.99,Optimal,Optimal: Maintain current allocation,0.026,63.75,Elevated,51.54,Critical
+Uttar Pradesh,Saharanpur,398198.0,1,61.66,3.07,Watch,0,0.5693,0.4307,49.34,Moderate,Monitor: Review weekly,0.008,79.65,Elevated,53.69,Critical
+Uttar Pradesh,Sambhal,218428.0,0,12.15,6.98,Watch,0,0.5302,0.4698,37.28,Optimal,Optimal: Maintain current allocation,0.005,95.36,Critical,22.81,Medium
+Uttar Pradesh,Sant Kabir Nagar,185789.0,0,8.55,3.57,Watch,0,0.5643,0.4357,26.25,Optimal,Optimal: Maintain current allocation,0.006,66.89,Elevated,15.64,Medium
+Uttar Pradesh,Sant Ravidas Nagar,127495.0,0,9.08,-0.11,Good,0,0.6011,0.3989,27.41,Optimal,Optimal: Maintain current allocation,0.005,43.13,Normal,12.54,Low
+Uttar Pradesh,Sant Ravidas Nagar Bhadohi,416.0,0,6.58,32.42,Concern,1,0.2758,0.7218,11.34,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,27.86,Normal,15.91,Medium
+Uttar Pradesh,Shahjahanpur,330457.0,1,57.07,6.87,Watch,0,0.5313,0.4687,47.57,Moderate,Monitor: Review weekly,0.011,80.23,Elevated,54.36,Critical
+Uttar Pradesh,Shamli,201185.0,0,31.87,-1.52,Good,0,0.6152,0.3847,30.79,Optimal,Optimal: Maintain current allocation,0.016,64.32,Elevated,15.67,Medium
+Uttar Pradesh,Shrawasti,130058.0,0,9.66,9.75,Watch,0,0.5025,0.4975,36.24,Optimal,Optimal: Maintain current allocation,0.006,60.11,Elevated,19.81,Medium
+Uttar Pradesh,Siddharthnagar,217473.0,0,11.96,4.46,Watch,0,0.5554,0.4446,32.11,Optimal,Optimal: Maintain current allocation,0.007,73.3,Elevated,18.3,Medium
+Uttar Pradesh,Sitapur,472222.0,1,50.48,-2.74,Good,0,0.6274,0.3726,27.85,Optimal,Optimal: Maintain current allocation,0.007,116.57,Critical,48.36,High
+Uttar Pradesh,Sonbhadra,190394.0,0,15.84,-1.21,Good,0,0.6121,0.3879,36.87,Optimal,Optimal: Maintain current allocation,0.003,65.66,Elevated,17.63,Medium
+Uttar Pradesh,Sultanpur,196154.0,0,9.76,3.68,Watch,0,0.5632,0.4368,31.25,Optimal,Optimal: Maintain current allocation,0.002,69.38,Elevated,17.42,Medium
+Uttar Pradesh,Unnao,290868.0,0,21.33,4.04,Watch,0,0.5596,0.4404,46.98,Moderate,Monitor: Review weekly,0.003,89.64,Elevated,24.27,Medium
+Uttar Pradesh,Varanasi,373654.0,0,18.69,4.15,Watch,0,0.5585,0.4415,57.95,Moderate,Monitor: Review weekly,0.002,126.61,Critical,28.63,Medium
+Uttarakhand,Almora,53257.0,0,3.27,-9.42,Good,0,0.6942,0.3058,32.95,Optimal,Optimal: Maintain current allocation,0.001,68.04,Elevated,16.69,Medium
+Uttarakhand,Bageshwar,30885.0,0,4.81,-16.87,Good,0,0.7687,0.2313,23.66,Optimal,Optimal: Maintain current allocation,0.002,57.6,Elevated,12.86,Low
+Uttarakhand,Chamoli,44676.0,0,2.53,-12.98,Good,0,0.7298,0.2702,29.29,Optimal,Optimal: Maintain current allocation,0.001,65.7,Elevated,15.36,Medium
+Uttarakhand,Champawat,38933.0,0,3.97,-7.28,Good,0,0.6728,0.3271,30.19,Optimal,Optimal: Maintain current allocation,0.007,61.12,Elevated,15.17,Medium
+Uttarakhand,Dehradun,234629.0,0,32.54,-4.08,Good,0,0.6408,0.3592,48.53,Moderate,Monitor: Review weekly,0.002,117.05,Critical,24.56,Medium
+Uttarakhand,Garhwal,816.0,0,8.78,11.16,Watch,0,0.4884,0.5104,27.72,Optimal,Optimal: Maintain current allocation,0.0,50.16,Elevated,16.68,Medium
+Uttarakhand,Hardwar,2268.0,0,8.32,14.34,Watch,0,0.4566,0.543,18.93,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,50.42,Elevated,15.02,Medium
+Uttarakhand,Haridwar,226556.0,0,20.35,-8.77,Good,0,0.6877,0.3123,37.63,Optimal,Optimal: Maintain current allocation,0.01,137.56,Critical,21.29,Medium
+Uttarakhand,Nainital,135762.0,0,23.54,-3.17,Good,0,0.6317,0.3682,68.23,High,High Priority: Schedule reinforcement,0.004,90.59,Elevated,29.53,Medium
+Uttarakhand,Pauri Garhwal,72052.0,0,10.13,-9.84,Good,0,0.6984,0.3015,44.95,Moderate,Monitor: Review weekly,0.001,66.99,Elevated,20.18,Medium
+Uttarakhand,Pithoragarh,49128.0,0,1.35,-9.26,Good,0,0.6926,0.3074,31.99,Optimal,Optimal: Maintain current allocation,0.001,64.07,Elevated,16.0,Medium
+Uttarakhand,Rudraprayag,35770.0,0,6.68,-17.58,Good,0,0.7758,0.2242,27.6,Optimal,Optimal: Maintain current allocation,0.003,63.36,Elevated,14.62,Low
+Uttarakhand,Tehri Garhwal,93928.0,0,1.64,-11.76,Good,0,0.7176,0.2824,33.83,Optimal,Optimal: Maintain current allocation,0.002,90.8,Elevated,19.23,Medium
+Uttarakhand,Udham Singh Nagar,323058.0,0,34.42,2.35,Watch,0,0.5765,0.4235,43.5,Moderate,Monitor: Review weekly,0.015,151.89,Critical,23.76,Medium
+Uttarakhand,Uttarkashi,37995.0,0,6.69,-13.05,Good,0,0.7305,0.2695,28.8,Optimal,Optimal: Maintain current allocation,0.003,66.03,Elevated,15.24,Medium
+Uttaranchal,Almora,1.0,0,13.13,10.0,Watch,0,0.5,0.0,0.0,Optimal,,,-0.38,Low,3.0,Low
+Uttaranchal,Garhwal,1.0,0,13.13,10.0,Watch,0,0.5,0.0,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.38,Low,3.0,Low
+Uttaranchal,Tehri Garhwal,2.0,0,10.37,60.0,Critical,1,0.0,0.6667,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,18.04,Medium
+Uttaranchal,Udham Singh Nagar *,3.0,0,10.45,60.0,Critical,1,0.0,0.75,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,18.04,Medium
+WEST BENGAL,HOOGHLY,60.0,0,8.11,33.77,Concern,1,0.2623,0.7213,5.68,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,17.72,Normal,13.61,Low
+WEST BENGAL,HOWRAH,42.0,0,6.01,15.81,Watch,0,0.4419,0.5349,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,13.5,Normal,6.14,Low
+WEST BENGAL,hooghly,6.0,0,10.02,31.43,Concern,1,0.2857,0.5714,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,9.43,Low
+WESTBENGAL,HOOGHLY,71.0,0,7.04,40.56,Critical,1,0.1944,0.7917,3.43,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,16.97,Normal,14.89,Low
+West  Bengal,Hooghly,141.0,0,6.88,38.17,Concern,1,0.2183,0.7746,5.64,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,16.82,Normal,14.82,Low
+West Bangal,Hooghly,131.0,0,6.47,32.73,Concern,1,0.2727,0.7197,5.61,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,27.62,Normal,14.26,Low
+West Bangal,Howrah,71.0,0,5.1,32.22,Concern,1,0.2778,0.7083,3.73,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,18.03,Normal,12.59,Low
+West Bangal,South 24 Parganas,14.0,0,8.96,53.33,Critical,1,0.0667,0.8667,13.29,Under-utilized,Consider: Reallocate resources to high-load areas,0.003,10.76,Normal,21.06,Medium
+West Bengal,Alipurduar,19598.0,0,2.4,16.88,Watch,0,0.4312,0.5688,21.84,Optimal,Optimal: Maintain current allocation,0.0,26.2,Normal,14.24,Low
+West Bengal,Bally Jagachha,6.0,0,12.5,-11.43,Good,0,0.7143,0.1429,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,-0.38,Low,0.02,Low
+West Bengal,Bankura,271550.0,0,17.9,15.04,Watch,0,0.4496,0.5504,33.21,Optimal,Optimal: Maintain current allocation,0.0,69.44,Elevated,21.42,Medium
+West Bengal,Barddhaman,379076.0,0,39.98,6.29,Watch,0,0.5371,0.4629,33.09,Optimal,Optimal: Maintain current allocation,0.0,93.37,Elevated,21.15,Medium
+West Bengal,Bardhaman,40003.0,0,33.75,19.71,Watch,0,0.4029,0.5971,27.42,Optimal,Optimal: Maintain current allocation,0.0,34.69,Normal,17.61,Medium
+West Bengal,Birbhum,284513.0,0,13.35,14.7,Watch,0,0.453,0.547,28.69,Optimal,Optimal: Maintain current allocation,0.001,81.44,Elevated,21.16,Medium
+West Bengal,Burdwan,5.0,0,17.41,-23.33,Excellent,0,0.8333,0.0,0.0,Optimal,,,-0.37,Low,0.0,
+West Bengal,Cooch Behar,178751.0,0,15.57,31.32,Concern,1,0.2868,0.7132,31.45,Optimal,Optimal: Maintain current allocation,0.001,56.75,Elevated,24.51,Medium
+West Bengal,Dakshin Dinajpur,137455.0,0,7.77,22.87,Concern,1,0.3713,0.6287,31.76,Optimal,Optimal: Maintain current allocation,0.002,63.32,Elevated,22.72,Medium
+West Bengal,Darjeeling,100099.0,0,9.2,14.72,Watch,0,0.4528,0.5472,32.85,Optimal,Optimal: Maintain current allocation,0.0,45.19,Normal,18.79,Medium
+West Bengal,Darjiling,11346.0,0,12.73,34.7,Concern,1,0.253,0.7469,33.66,Optimal,Optimal: Maintain current allocation,0.0,36.66,Normal,24.17,Medium
+West Bengal,Domjur,5.0,0,8.86,10.0,Watch,0,0.5,0.3333,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,3.0,Low
+West Bengal,East Midnapore,55899.0,0,20.64,6.87,Watch,0,0.5313,0.4687,27.69,Optimal,Optimal: Maintain current allocation,0.0,34.75,Normal,13.84,Low
+West Bengal,East Midnapur,33.0,0,5.67,21.76,Concern,1,0.3824,0.5882,6.87,Under-utilized,Consider: Reallocate resources to high-load areas,0.003,9.66,Normal,9.56,Low
+West Bengal,East midnapore,8.0,0,7.07,4.44,Watch,0,0.5556,0.3333,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,1.33,Low
+West Bengal,HOOGHLY,29.0,0,7.81,43.33,Critical,1,0.1667,0.8,4.81,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,3.83,Normal,14.82,Low
+West Bengal,HOWRAH,41.0,0,5.6,33.81,Concern,1,0.2619,0.7143,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,1.37,Normal,10.3,Low
+West Bengal,Haora,71762.0,0,11.53,17.63,Watch,0,0.4237,0.5762,31.65,Optimal,Optimal: Maintain current allocation,0.0,29.49,Normal,17.73,Medium
+West Bengal,Hawrah,45.0,0,6.58,31.74,Concern,1,0.2826,0.6957,0.07,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,8.0,Normal,10.34,Low
+West Bengal,Hooghiy,40.0,0,6.97,40.49,Critical,1,0.1951,0.7805,6.46,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,9.55,Normal,15.04,Medium
+West Bengal,Hooghly,369599.0,0,29.03,10.82,Watch,0,0.4918,0.5082,26.97,Optimal,Optimal: Maintain current allocation,0.0,93.5,Critical,20.69,Medium
+West Bengal,Howrah,221913.0,0,10.37,9.89,Watch,0,0.5011,0.4989,39.37,Optimal,Optimal: Maintain current allocation,0.001,51.89,Elevated,19.97,Medium
+West Bengal,Hugli,1773.0,0,25.25,32.44,Concern,1,0.2756,0.7238,10.86,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,37.83,Normal,16.77,Medium
+West Bengal,Jalpaiguri,283813.0,0,23.38,28.26,Concern,1,0.3174,0.6826,30.28,Optimal,Optimal: Maintain current allocation,0.001,95.66,Critical,27.13,Medium
+West Bengal,Jhargram,11899.0,0,9.84,21.93,Concern,1,0.3807,0.6192,23.67,Optimal,Optimal: Maintain current allocation,0.0,26.41,Normal,16.32,Medium
+West Bengal,KOLKATA,25.0,0,7.16,52.31,Critical,1,0.0769,0.8846,8.73,Under-utilized,Consider: Reallocate resources to high-load areas,0.003,13.06,Normal,19.62,Medium
+West Bengal,Kalimpong,3227.0,0,8.51,35.12,Concern,1,0.2488,0.7509,27.78,Optimal,Optimal: Maintain current allocation,0.0,41.73,Normal,23.04,Medium
+West Bengal,Koch Bihar,88255.0,0,21.01,43.16,Critical,1,0.1684,0.8316,28.2,Optimal,Optimal: Maintain current allocation,0.0,52.36,Elevated,26.64,Medium
+West Bengal,Kolkata,214729.0,0,21.2,11.64,Watch,0,0.4836,0.5164,31.59,Optimal,Optimal: Maintain current allocation,0.0,103.33,Critical,22.97,Medium
+West Bengal,MALDA,139.0,0,9.36,26.43,Concern,1,0.3357,0.6571,7.88,Under-utilized,Consider: Reallocate resources to high-load areas,0.005,25.87,Normal,12.88,Low
+West Bengal,Malda,318602.0,0,21.39,23.94,Concern,1,0.3606,0.6394,34.91,Optimal,Optimal: Maintain current allocation,0.002,116.54,Critical,27.66,Medium
+West Bengal,Maldah,39985.0,0,8.32,19.35,Watch,0,0.4065,0.5935,32.08,Optimal,Optimal: Maintain current allocation,0.001,54.7,Elevated,20.9,Medium
+West Bengal,Medinipur,254.0,0,15.86,30.2,Concern,1,0.298,0.698,6.96,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,44.74,Normal,15.62,Medium
+West Bengal,Murshidabad,651643.0,1,48.15,18.59,Watch,0,0.4141,0.5859,33.73,Optimal,Optimal: Maintain current allocation,0.001,188.95,Critical,55.7,Critical
+West Bengal,NADIA,21.0,0,9.47,46.36,Critical,1,0.1364,0.8182,5.75,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,17.52,Normal,17.38,Medium
+West Bengal,Nadia,344227.0,0,22.08,18.09,Watch,0,0.4191,0.5809,31.24,Optimal,Optimal: Maintain current allocation,0.001,131.25,Critical,24.8,Medium
+West Bengal,Naihati Anandabazar,2.0,0,10.37,60.0,Critical,1,0.0,0.6667,0.0,Optimal,,,-0.37,Low,18.0,Medium
+West Bengal,North 24 Parganas,559881.0,1,47.2,14.01,Watch,0,0.4599,0.5401,26.52,Optimal,Optimal: Maintain current allocation,0.0,218.51,Critical,52.16,Critical
+West Bengal,North Dinajpur,6443.0,0,13.56,37.87,Concern,1,0.2213,0.7786,26.31,Optimal,Optimal: Maintain current allocation,0.0,51.56,Elevated,24.41,Medium
+West Bengal,North Twenty Four Parganas,36930.0,0,27.78,15.32,Watch,0,0.4468,0.5532,27.33,Optimal,Optimal: Maintain current allocation,0.0,37.68,Normal,16.56,Medium
+West Bengal,Paschim Bardhaman,28371.0,0,19.45,19.96,Watch,0,0.4004,0.5996,19.8,Under-utilized,Consider: Reallocate resources to high-load areas,0.0,43.03,Normal,16.23,Medium
+West Bengal,Paschim Medinipur,393442.0,0,29.3,16.24,Watch,0,0.4376,0.5624,29.61,Optimal,Optimal: Maintain current allocation,0.0,81.76,Elevated,21.93,Medium
+West Bengal,Purba Bardhaman,39435.0,0,26.56,22.9,Concern,1,0.371,0.629,20.49,Optimal,Optimal: Maintain current allocation,0.0,48.28,Elevated,17.84,Medium
+West Bengal,Purba Medinipur,259276.0,0,18.88,0.9,Watch,0,0.591,0.409,26.07,Optimal,Optimal: Maintain current allocation,0.0,62.59,Elevated,14.35,Low
+West Bengal,Purulia,11900.0,0,7.68,22.84,Concern,1,0.3716,0.6283,23.97,Optimal,Optimal: Maintain current allocation,0.0,35.86,Normal,17.63,Medium
+West Bengal,Puruliya,268193.0,0,16.35,19.2,Watch,0,0.408,0.5919,32.15,Optimal,Optimal: Maintain current allocation,0.002,73.77,Elevated,22.78,Medium
+West Bengal,South  Twenty Four Parganas,5.0,0,10.22,60.0,Critical,1,0.0,0.8333,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,18.04,Medium
+West Bengal,South 24 Pargana,20.0,0,6.38,45.71,Critical,1,0.1429,0.8095,0.0,Optimal,,,22.39,Normal,15.95,Medium
+West Bengal,South 24 Parganas,675773.0,1,50.21,20.66,Concern,1,0.3934,0.6066,33.64,Optimal,Optimal: Maintain current allocation,0.001,142.21,Critical,56.29,Critical
+West Bengal,South 24 pargana,13.0,0,6.73,52.86,Critical,1,0.0714,0.8571,0.0,Optimal,,,-0.35,Low,15.86,Medium
+West Bengal,South 24 parganas,29.0,0,8.65,43.33,Critical,1,0.1667,0.8,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,9.59,Normal,14.0,Low
+West Bengal,South Dinajpur,9349.0,0,10.99,34.0,Concern,1,0.26,0.7399,28.68,Optimal,Optimal: Maintain current allocation,0.0,26.07,Normal,21.41,Medium
+West Bengal,South DumDum(M),15.0,0,8.13,16.25,Watch,0,0.4375,0.5,7.08,Under-utilized,Consider: Reallocate resources to high-load areas,0.003,5.91,Normal,7.59,Low
+West Bengal,South Twenty Four Parganas,80518.0,0,14.49,13.61,Watch,0,0.4639,0.5361,32.1,Optimal,Optimal: Maintain current allocation,0.0,39.13,Normal,17.63,Medium
+West Bengal,Uttar Dinajpur,389643.0,0,39.6,30.96,Concern,1,0.2904,0.7096,36.34,Optimal,Optimal: Maintain current allocation,0.004,118.87,Critical,30.19,High
+West Bengal,West Medinipur,16.0,0,6.72,36.47,Concern,1,0.2353,0.7059,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-3.38,Low,10.98,Low
+West Bengal,West Midnapore,53258.0,0,16.24,19.42,Watch,0,0.4058,0.5942,32.82,Optimal,Optimal: Maintain current allocation,0.0,39.55,Normal,19.63,Medium
+West Bengal,east midnapore,2.0,0,14.9,26.67,Concern,1,0.3333,0.3333,0.0,Optimal,,,-0.37,Low,8.0,Low
+West Bengal,hooghly,54.0,0,5.61,20.0,Watch,0,0.4,0.5818,5.05,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,9.66,Normal,8.48,Low
+West Bengal,nadia,21.0,0,6.8,23.64,Concern,1,0.3636,0.5909,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-4.5,Low,7.13,Low
+West Bengli,Hooghly,3.0,0,10.45,60.0,Critical,1,0.0,0.75,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,18.04,Medium
+West bengal,Hooghly,8.0,0,9.19,37.78,Concern,1,0.2222,0.6667,0.28,Under-utilized,Consider: Reallocate resources to high-load areas,0.004,-0.34,Low,11.42,Low
+West bengal,South 24 Parganas,12.0,0,9.43,52.31,Critical,1,0.0769,0.8462,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,-0.35,Low,15.74,Medium
+West bengal,hooghly,60.0,0,6.49,32.13,Concern,1,0.2787,0.7049,9.71,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,15.84,Normal,14.14,Low
+Westbengal,Hooghly,104.0,0,9.08,43.81,Critical,1,0.1619,0.8286,8.74,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,19.0,Normal,17.66,Medium
+Westbengal,Howrah,11.0,0,8.77,35.0,Concern,1,0.25,0.6667,0.0,Optimal,Consider: Reallocate resources to high-load areas,0.002,-0.37,Low,10.5,Low
+andhra pradesh,chittoor,91.0,0,9.53,23.04,Concern,1,0.3696,0.6196,8.25,Under-utilized,Consider: Reallocate resources to high-load areas,0.003,17.47,Normal,11.13,Low
+andhra pradesh,rangareddi,29.0,0,6.65,30.0,Concern,1,0.3,0.6667,7.65,Under-utilized,Consider: Reallocate resources to high-load areas,0.003,-0.09,Low,11.3,Low
+odisha,Gajapati,36.0,0,7.68,16.76,Watch,0,0.4324,0.5405,6.01,Under-utilized,Consider: Reallocate resources to high-load areas,0.001,18.6,Normal,8.69,Low
+west Bengal,South 24 Parganas,16.0,0,7.35,54.12,Critical,1,0.0588,0.8824,0.14,Under-utilized,Consider: Reallocate resources to high-load areas,0.002,2.44,Normal,16.52,Medium

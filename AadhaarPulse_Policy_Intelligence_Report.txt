@@ -1,0 +1,105 @@
+
+================================================================================
+                    AADHAAR PULSE - POLICY INTELLIGENCE REPORT
+================================================================================
+Report Generated: 2026-01-05 16:16
+Analysis Period: March 2025 - December 2025 (10 months)
+--------------------------------------------------------------------------------
+
+[EXECUTIVE SUMMARY]
+================================================================================
+
+1. DATA SCOPE
+   * Total Records Analyzed: ~3.9 million authentication records
+   * States/UTs Covered: 66
+   * Districts Analyzed: 1097
+   * Unique Pincodes: 19,807
+
+2. KEY FINDINGS
+
+   [ANOMALY DETECTION - Isolation Forest]
+   -----------------------------------------
+   * Anomalous Districts Identified: 55 (5.0%)
+   * These districts show authentication patterns significantly deviating from norms
+   * Primary anomaly indicators: Volume volatility, Bio/Demo ratio shifts
+
+   [DEMAND FORECASTING - XGBoost Model]
+   -----------------------------------------
+   * Model R2 Score: 0.9793 (prediction accuracy)
+   * RMSE: 144
+   * MAPE: 49.4%
+   * Key demand drivers: Lag features, rolling averages, seasonal patterns
+
+   [QUALITY DRIFT INDEX (QDI) ANALYSIS]
+   -----------------------------------------
+   * Districts needing technical audit: 191
+   * QDI measures shift from biometric to demographic authentication
+   * High QDI indicates potential biometric device failures
+
+   Distribution:
+qdi_status
+Good         491
+Watch        369
+Concern      125
+Critical      66
+Excellent     46
+
+   [DISTRICT LOAD INDEX (DLI) ANALYSIS]
+   -----------------------------------------
+   Distribution:
+load_status
+Optimal           755
+Under-utilized    185
+Moderate           96
+High                6
+Critical            0
+
+3. PRIORITY DISTRICTS REQUIRING ATTENTION
+================================================================================
+
+   [!] CRITICAL PRIORITY: 30 districts
+   [!] HIGH PRIORITY: 29 districts
+
+   Top 5 States with Highest Average Priority Score:
+state
+Delhi            34.513846
+Chhattisgarh     24.070750
+Haryana          22.427917
+Uttar Pradesh    20.889032
+Maharashtra      20.750755
+
+4. ACTIONABLE RECOMMENDATIONS
+================================================================================
+
+   IMMEDIATE ACTIONS (0-30 days):
+   -----------------------------------------
+   [x] Deploy technical teams to 191 districts flagged for audit
+   [x] Review biometric device status in high-QDI districts
+   [x] Allocate additional resources to 30 critical districts
+
+   SHORT-TERM ACTIONS (30-90 days):
+   -----------------------------------------
+   [x] Implement predictive demand scheduling based on XGBoost forecasts
+   [x] Redistribute enrollment kits from under-utilized to high-load areas
+   [x] Conduct root cause analysis for anomalous districts
+
+   LONG-TERM ACTIONS (90+ days):
+   -----------------------------------------
+   [x] Establish real-time monitoring dashboard for QDI and DLI
+   [x] Create automated alert system for demand surges
+   [x] Develop mobile enrollment unit deployment strategy
+
+5. RISK MATRIX SUMMARY
+================================================================================
+
+   Priority Level Distribution:
+priority_level
+Medium      599
+Low         434
+Critical     30
+High         29
+
+================================================================================
+                              END OF REPORT
+================================================================================
+    
